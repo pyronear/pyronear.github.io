@@ -1,0 +1,56 @@
+<aside class="bg-dark" id="contact-form">
+  <div class="container text-center">
+    <div class="call-to-action">
+      <div class="row">
+        <h2>{{ site.t.fr.contactForm.title }}</h2>
+      </div>
+
+      <div class="row text-left">
+        <div class="col col-md-8 col-md-offset-2">
+          <!-- gform class allow sending data to google script -->
+          <form
+            class="gform"
+            method="POST"
+            action="https://script.google.com/macros/s/AKfycby4IzHuKNjucbEsOmA908du57b6tyfarZuYnNJNbw/exec"
+          >
+            <div class="form-group">
+              <label for="email">{{ site.t.fr.contactForm.email.label }}</label>
+              <input
+                type="email"
+                class="form-control email-form"
+                id="email"
+                aria-describedby="emailHelp"
+                name="email"
+              />
+              <small id="emailHelp" class="form-text text-muted"
+                >{{ site.t.fr.contactForm.email.privacyPhrase }}</small
+              >
+            </div>
+            <div class="form-group">
+              <label for="message">
+                {{ site.t.fr.contactForm.message.label }}</label
+              >
+              <textarea
+                class="form-control email-form"
+                id="message"
+                rows="3"
+                name="message"
+              ></textarea>
+            </div>
+            <button class="btn-default btn btn-block btn-lg" type="submit">
+              {{ site.t.fr.buttons.submit }}
+            </button>
+            <!-- thank you message -->
+            <div style="display: none;" class="thankyou_message text-center">
+              <small>
+                <span alt="message envoyé">✅</span>
+                {{ site.t.fr.contactForm.confirmation.title }} <br />
+                {{ site.t.fr.contactForm.confirmation.subtitle }}
+              </small>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</aside>
