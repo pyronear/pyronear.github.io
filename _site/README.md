@@ -1,2 +1,0 @@
-# pyronear.github.io
-Website
