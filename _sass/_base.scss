@@ -53,7 +53,7 @@ p {
   min-height: auto;
   @include background-cover;
   background-position: center;
-  background-image: url("../img/cta.png");
+  background-image: url("https://images.unsplash.com/photo-1507680465142-ef2223e23308?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=948&q=80");
   text-align: center;
   color: white;
 }
@@ -173,7 +173,7 @@ header {
   min-height: auto;
   @include background-cover;
   background-position: center;
-  background-image: url("../img/header.jpg");
+  background-image: url("https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
   text-align: center;
   color: white;
   .header-content {
