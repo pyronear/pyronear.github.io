@@ -18,26 +18,26 @@ t:
       contactUs: "Nous contacter"
       submit: "Envoyer"
     header:
-      title: "Détectez les feux de forêts au plus tôt"
-      subtitle: "Pyronear est une technologie open-source au service du bien commun."
+      title: "Détection précoce des départs de feux"
+      subtitle: "Pyronear est un projet open-source au service du bien commun."
     manifesto:
-      title: "Nous sommes Pyronear, une association loi 1901."
-      phrase1: "Nous sommes des bénévoles au service du bien commun et du logiciel libre."
-      phrase2: "Nous pensons que la protection des foret doit etre accessible a tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible."
+      title: "Qui sommes-nous ?"
+      phrase1: "Pyronear est une association loi 1901 au service du bien commun et du logiciel libre."
+      phrase2: "Nous portons la conviction que la protection des forêts doit être accessible à tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible."
     steps:
       title: "Comment ça marche ?"
       step1:
-        title: "1. Observation de la zone"
-        content: "Nos détecteurs placés en hauteur photographient la zone forestière alentour."
+        title: "1. Couverture de la zone"
+        content: "Nos détecteurs placés en hauteur surveillent la zone forestière alentour."
       step2:
-        title: "2. Analyse des photos"
-        content: "Les photos sont triées et analysées par une intelligence artificielle."
+        title: "2. Traitement de l'image"
+        content: "Notre modèle d'apprentissage profond analyse les indices visuels de départ de feu."
       step3:
         title: "3. Alerte !"
-        content: "En cas de fumée suspecte, l'alerte est donnée automatiquement."
+        content: "En cas de forte suspicion, l'alerte est donnée automatiquement."
     callToAction:
-      title: "Combien ça coûte ? Comment le mettre en place ?"
-      content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les reseaux. Nous vous répondrons le plus rapidement possible."
+      title: "Comment le mettre en place ?"
+      content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
     team:
       title: "L'équipe actuelle"
     sponsors:
@@ -49,7 +49,7 @@ t:
         title: "Atraksis"
         content: "Notre partenaire pour les phases de test sur le terrain, et notre intermédiaire avec les pompiers."
     contactForm:
-      title: "Protégez vos forêts !"
+      title: "Protégeons nos forêts"
       email:
         label: "Votre adresse e-mail"
         privacyPhrase: "Nous ne partagerons jamais votre adresse e-mail sans votre autorisation."
@@ -57,42 +57,50 @@ t:
         label: "Votre message"
       confirmation:
         title: "Message envoyé !"
-        subtitle: "Merci de nous avoir contacté,nous revenons vers vous le plus vite possible !"
-  es:
+        subtitle: "Merci de nous avoir contacté, nous revenons vers vous le plus vite possible !"
+  en:
     buttons:
-      moreInfo: "En savoir plus"
-      contactUs: "Nous contacter"
-      submit: "Envoyer"
+      moreInfo: "More information"
+      contactUs: "Contact us"
+      submit: "Submit"
     header:
-      title: "Hola que tal"
-      subtitle: "Une technologie open-source au service du bien commun."
+      title: "Early detection of wildfires"
+      subtitle: "Pyronear is an open-source project for the common good."
     manifesto:
-      title: "Nous sommes Pyronear, une association loi 1901."
-      phrase1: "Nous sommes des bénévoles au service du bien commun et du logiciel libre."
-      phrase2: "Nous pensons que la protection des foret doit etre accessible a tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible."
+      title: "Who are we?"
+      phrase1: "Pyronear is a French association (loi 1901) at the service of the common good and open-source software."
+      phrase2: "We believe that forest preservation should be accessible to anyone and that it requires the most efficient, transparent and affordable technology possible."
     steps:
-      title: "Comment ça marche ?"
+      title: "How does it work?"
       step1:
-        title: "1. Observation de la zone"
-        content: "Nos détecteurs placés en hauteur photographient la zone forestière alentour."
+        title: "1. Area surveillance"
+        content: "Our detectors places on high vantage points watch over the nearby forest area."
       step2:
-        title: "2. Analyse des photos"
-        content: "Les photos sont triées et analysées par une intelligence artificielle."
+        title: "2. Image processing"
+        content: "Our deep learning model analyzes visual hints for wildfires."
       step3:
-        title: "3. Alerte !"
-        content: "En cas de fumée suspecte, l'alerte est donnée automatiquement."
+        title: "3. Alert!"
+        content: "In case of important suspicions, the alert is raised automatically."
     callToAction:
-      title: "Combien ça coûte ? Comment le mettre en place ?"
-      content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les reseaux. Nous vous répondrons le plus rapidement possible."
+      title: "How to deploy it?"
+      content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
     team:
-      title: "L'équipe actuelle"
+      title: "The current team"
+    sponsors:
+      title: "Who supports us?"
+      sponsor1:
+        title: "Data for Good"
+        content: "Part of the 6th and 8th acceleration season of Data for Good, it is the birth place of Pyronear among many other common good projects."
+      sponsor2:
+        title: "Atraksis"
+        content: "Our partner for field testing phases, and our intermediary with firefighters."
     contactForm:
-      title: "Protégez vos forêts !"
+      title: "Let us protect our forests"
       email:
-        label: "Votre adresse e-mail"
-        privacyPhrase: "Nous ne partagerons jamais votre adresse e-mail sans votre autorisation."
+        label: "Your e-mail address"
+        privacyPhrase: "We will never share your email without your consent."
       message:
-        label: "Votre message"
+        label: "Your message"
       confirmation:
-        title: "Message envoyé !"
-        subtitle: "Merci de nous avoir contacté,nous revenons vers vous le plus vite possible !"
+        title: "Message sent!"
+        subtitle: "Thank you for contacting us, we will get back to you as soon as possible!"
