@@ -40,6 +40,14 @@ t:
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les reseaux. Nous vous répondrons le plus rapidement possible."
     team:
       title: "L'équipe actuelle"
+    sponsors:
+      title: "Qui nous soutient ?"
+      sponsor1:
+        title: "Data for Good"
+        content: "Membre de la saison 6 et 8 de Data for Good, c'est là que Pyronear a vu le jour parmi de nombreux projets d'intérêt général."
+      sponsor2:
+        title: "Atraksis"
+        content: "Notre partenaire pour les phases de test sur le terrain, et notre intermédiaire avec les pompiers."
     contactForm:
       title: "Protégez vos forêts !"
       email:
