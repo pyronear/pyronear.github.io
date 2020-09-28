@@ -1,0 +1,18 @@
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+
+<header>
+  <div class="header-content">
+    <div class="header-content-inner">
+      <h1>
+        {{ site.t.fr.header.title }}
+      </h1>
+      <hr />
+      <p>
+        {{ site.t.fr.header.subtitle }}
+      </p>
+      <a href="#about" class="btn btn-default btn-xl page-scroll"
+        >{{ site.t.fr.buttons.moreInfo }}</a
+      >
+    </div>
+  </div>
+</header>
