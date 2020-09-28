@@ -62,7 +62,7 @@ t:
         subtitle: "Merci de nous avoir contacté, nous revenons vers vous le plus vite possible !"
     contact:
       title: "Suivez l'aventure Pyronear"
-      content: "Pour rester au fait des avancements du projet, retrouvez-nous sur les réseaux sociaux."
+      content: "Pour se tenir informé de l'avancement du projet ou rejoindre l'aventure, retrouvez-nous sur les réseaux sociaux !"
   en:
     buttons:
       moreInfo: "More information"
@@ -109,3 +109,6 @@ t:
       confirmation:
         title: "Message sent!"
         subtitle: "Thank you for contacting us, we will get back to you as soon as possible!"
+    contact:
+      title: "Follow the Pyronear adventure"
+      content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
