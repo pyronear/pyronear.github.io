@@ -21,11 +21,11 @@ t:
       submit: "Envoyer"
     header:
       title: "Détection précoce des départs de feux"
-      subtitle: "Pyronear est un projet open-source au service du bien commun."
+      subtitle: "Pyronear est un projet open-source au service du bien commun"
     manifesto:
       title: "Qui sommes-nous ?"
       phrase1: "Pyronear est une association loi 1901 au service du bien commun et du logiciel libre."
-      phrase2: "Nous portons la conviction que la protection des forêts doit être accessible à tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible."
+      phrase2: "Nous portons la conviction que la protection des forêts doit être accessible à tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible. C’est pourquoi notre solution logicielle de détection des feux de forêt est gratuite."
     steps:
       title: "Comment ça marche ?"
       step1:
