@@ -5,6 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: pyro_near
+facebook_username: pyronear
+linkedin_username: pyronearfr
 github_username: pyronear
 
 # Build settings
@@ -58,6 +60,9 @@ t:
       confirmation:
         title: "Message envoyé !"
         subtitle: "Merci de nous avoir contacté, nous revenons vers vous le plus vite possible !"
+    contact:
+      title: "Suivez l'aventure Pyronear"
+      content: "Pour rester au fait des avancements du projet, retrouvez-nous sur les réseaux sociaux."
   en:
     buttons:
       moreInfo: "More information"
