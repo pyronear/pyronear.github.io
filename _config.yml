@@ -70,11 +70,11 @@ t:
       submit: "Submit"
     header:
       title: "Early detection of wildfires"
-      subtitle: "Pyronear is an open-source project for the common good."
+      subtitle: "Pyronear is an open-source project for the common good"
     manifesto:
       title: "Who are we?"
       phrase1: "Pyronear is a French association (loi 1901) at the service of the common good and open-source software."
-      phrase2: "We believe that forest preservation should be accessible to anyone and that it requires the most efficient, transparent and affordable technology possible."
+      phrase2: "We believe that forest preservation should be accessible to anyone and that it requires the most efficient, transparent and affordable technology possible. That is why our software solution for wildfire detection is free of charge."
     steps:
       title: "How does it work?"
       step1:
