@@ -1,13 +1,17 @@
 # Site settings
 title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "https://pyronear.github.io/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
+# Social media
 twitter_username: pyro_near
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
+
+# SEO
+google_analytics: UA-179976746-1
 
 # Build settings
 markdown: kramdown
