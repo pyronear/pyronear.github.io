@@ -3,6 +3,7 @@ title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
 baseurl: "https://pyronear.github.io/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+tags: [pyronear,association,deeplearning,feux,incendies,raspberry,dataforgood,atraksis]
 
 # Social media
 twitter_username: pyro_near

@@ -37,4 +37,9 @@
     {% include analytics.html %}
     {% endif %}
 
+    <!-- Meta tags -->
+    {% if site.tags %}
+    <meta name="keywords" content="{{ site.tags | join: ', ' | escape }}"/>
+    {% endif %}
+
 </head>
