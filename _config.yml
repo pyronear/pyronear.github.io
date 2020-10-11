@@ -2,7 +2,6 @@
 title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
 author: Pyronear
-baseurl: "https://pyronear.org/" # the subpath of your site, e.g. /blog/
 url: "https://pyronear.org/" # the base hostname & protocol for your site
 
 # Social media
@@ -23,7 +22,7 @@ facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
 
-logo: https://pyronear.org/img/logo.png
+logo: /img/logo.png
 locale: fr_FR
 
 # SEO
