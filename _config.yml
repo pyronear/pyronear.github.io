@@ -1,20 +1,43 @@
 # Site settings
 title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
+author: Pyronear
 baseurl: "https://pyronear.org/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://pyronear.org/" # the base hostname & protocol for your site
 
 # Social media
+twitter: # Card customization
+  username: pyro_near
+  card: summary
+
+social:
+  links:
+    - https://twitter.com/pyro_near
+    - https://www.facebook.com/pyronear
+    - https://www.linkedin.com/company/37560523
+    - https://github.com/pyronear
+
+
 twitter_username: pyro_near
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
 
-# SEO
+logo: https://pyronear.org/img/logo.png
+locale: fr_FR
+
+# SEO
+google_site_verification: NRZ27lDopfjKH3Lx1eWvh6WczAGh0hgqVg0AtB-ZK6c
 google_analytics: UA-179976746-1
+
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Traduction
 t:
