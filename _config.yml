@@ -1,20 +1,43 @@
 # Site settings
 title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
-baseurl: "https://pyronear.org/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+author: Pyronear
+url: "https://pyronear.org/" # the base hostname & protocol for your site
 
 # Social media
+twitter: # Card customization
+  username: pyro_near
+  card: summary
+
+social:
+  links:
+    - https://twitter.com/pyro_near
+    - https://www.facebook.com/pyronear
+    - https://www.linkedin.com/company/37560523
+    - https://github.com/pyronear
+
+
 twitter_username: pyro_near
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
 
-# SEO
+logo: /img/logo.png
+logo_full: /img/logo_letters.png
+locale: fr_FR
+
+# SEO
+google_site_verification: NRZ27lDopfjKH3Lx1eWvh6WczAGh0hgqVg0AtB-ZK6c
 google_analytics: UA-179976746-1
+
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Traduction
 t:
@@ -50,9 +73,13 @@ t:
       title: "Qui nous soutient ?"
       sponsor1:
         title: "Data for Good"
+        url: "https://dataforgood.fr/"
+        logo: "https://dataforgood.fr/img/logo-white.png"
         content: "Membre de la saison 6 et 8 de Data for Good, c'est là que Pyronear a vu le jour parmi de nombreux projets d'intérêt général."
       sponsor2:
         title: "Atraksis"
+        url: "https://atraksis.fr/"
+        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "Notre partenaire pour les phases de test sur le terrain, et notre intermédiaire avec les pompiers."
     contactForm:
       title: "Protégeons nos forêts"
