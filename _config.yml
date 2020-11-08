@@ -86,6 +86,8 @@ t:
       email:
         label: "Votre adresse e-mail"
         privacyPhrase: "Nous ne partagerons jamais votre adresse e-mail sans votre autorisation."
+      subject:
+        label: "Objet"
       message:
         label: "Votre message"
       confirmation:
