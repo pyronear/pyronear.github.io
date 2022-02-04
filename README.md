@@ -6,12 +6,16 @@ Preserving forests from wildfires one commit at a time
 
 ## Prerequisite
 
-Be sure to set [Jekyll](https://jekyllrb.com/) up and running.
+Be sure to set [Jekyll](https://jekyllrb.com/) up and running, and then install the plugins as follows:
+```shell
+bundle install
+```
 
 ## Usage
 
-```
-jekyll serve
+Finally, you can run the website using:
+```shell
+bundle exec jekyll serve
 ```
 
 To edit/add/remove text, go to `_config.yaml`.
