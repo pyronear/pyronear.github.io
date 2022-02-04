@@ -10,8 +10,8 @@ Be sure to set [Jekyll](https://jekyllrb.com/) up and running.
 
 ## Usage
 
-```
-jekyll serve
+```shell
+bundle exec jekyll serve
 ```
 
 To edit/add/remove text, go to `_config.yaml`.
