@@ -29,15 +29,11 @@
       id="bs-example-navbar-collapse-1"
     >
       <ul class="nav navbar-nav navbar-right">
+        {% for lang in site.languages %}
         <li>
-          <!-- <a href="{{ site.base-url }}{{ siteFR.url }}">🇫🇷fr</a> -->
+          <a href="{{ site.base-url }}/{{ lang }}">{{ site.t.[lang].icon }}</a>
         </li>
-        <li>
-          <!-- <a href="{{ site.base-url }}{{ sitePT.url }}">🇵🇹pt</a> -->
-        </li>
-        <li>
-          <!-- <a href="{{ site.base-url }}{{ siteES.url }}">🇪🇸es</a> -->
-        </li>
+        {% endfor %}
       </ul>
     </div>
     <!-- /.navbar-collapse -->
