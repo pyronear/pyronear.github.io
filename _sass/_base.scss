@@ -58,6 +58,17 @@ p {
   color: white;
 }
 
+.error-404-bg {
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+  @include background-cover;
+  background-position: center;
+  background-image: url("https://images.unsplash.com/photo-1517327236079-512484a512d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+  text-align: center;
+  color: white;
+}
+
 .bg-dark {
   background-color: $theme-dark;
   color: white;
@@ -221,6 +232,17 @@ header {
       }
     }
   }
+}
+
+error-404 {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  @include background-cover;
+  background-position: center;
+  background-image: url("https://images.unsplash.com/photo-1517327236079-512484a512d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80");
+  text-align: center;
+  color: white;
 }
 
 // Sections
