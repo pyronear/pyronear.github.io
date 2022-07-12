@@ -33,3 +33,15 @@ More details [here](https://github.com/dwyl/learn-to-send-email-via-google-scrip
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+### Adding a language
+
+- Add its digram to the list of supported languages in `_config.yml` called `languages`.
+- Copy the `en` folder and rename it to your new language digram
+- Edit the `index.html` in it, to modify the digram of the target layout
+- Copy `_layouts/front-en.html` and rename it by replacing the digram.
+- Edit the file `lang` attribute
+- Finally, write all the translations at the bottom of `_config.yml` by adding a new entry to `t` (don't change any key name!)
+
+Congrats, you've added a new language!

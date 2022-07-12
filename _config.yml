@@ -3,6 +3,9 @@ title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
 author: Pyronear
 url: "https://pyronear.org/" # the base hostname & protocol for your site
+lang: fr 
+languages: ["fr", "en"]
+base-url: ""
 
 # Social media
 twitter: # Card customization
@@ -39,9 +42,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Traduction
+# Translations
 t:
   fr:
+    label: fr
+    icon: 🇫🇷
+    description: "Détection précoce de feux de forêt"
     buttons:
       moreInfo: "En savoir plus"
       contactUs: "Nous contacter"
@@ -56,12 +62,15 @@ t:
     steps:
       title: "Comment ça marche ?"
       step1:
+        icon: 👀
         title: "1. Couverture de la zone"
         content: "Nos détecteurs placés en hauteur surveillent la zone forestière alentour."
       step2:
+        icon: 🤖
         title: "2. Traitement de l'image"
         content: "Notre modèle d'apprentissage profond analyse les indices visuels de départ de feu."
       step3:
+        icon: 🚨
         title: "3. Alerte !"
         content: "En cas de forte suspicion, l'alerte est donnée automatiquement."
     callToAction:
@@ -97,6 +106,9 @@ t:
       title: "Suivez l'aventure Pyronear"
       content: "Pour se tenir informé de l'avancement du projet ou rejoindre l'aventure, retrouvez-nous sur les réseaux sociaux !"
   en:
+    label: en
+    icon: 🇬🇧
+    description: "Early detection of forest wildfires"
     buttons:
       moreInfo: "More information"
       contactUs: "Contact us"
@@ -128,9 +140,13 @@ t:
       title: "Who supports us?"
       sponsor1:
         title: "Data for Good"
-        content: "Part of the 6th and 8th acceleration season of Data for Good, it is the birth place of Pyronear among many other common good projects."
+        url: "https://dataforgood.fr/"
+        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+        content: "Part of the 6th, 8th and 10th acceleration seasons of Data for Good, it is the birth place of Pyronear among many other common good projects."
       sponsor2:
         title: "Atraksis"
+        url: "https://atraksis.fr/"
+        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "Our partner for field testing phases, and our intermediary with firefighters."
     contactForm:
       title: "Let us protect our forests"
