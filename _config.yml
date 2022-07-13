@@ -89,12 +89,12 @@ t:
         title: "Atraksis"
         url: "https://atraksis.fr/"
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "Acteur de l'innovation pour les secours, c'est notre point de relai avec les pompiers."
+        content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
       sponsor3:
-        title: "SDIS Ardeche"
+        title: "SDIS Ardèche"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Notre partenaire historique, du recueil des besoins aux phases de test sur le terrain."
+        content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -152,12 +152,12 @@ t:
         title: "Atraksis"
         url: "https://atraksis.fr/"
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "An innovation player for rescue services, and our intermediary with firefighters."
+        content: "A stakeholder for rescue innovation, and our point of contact with firefighters."
       sponsor3:
-        title: "SDIS Ardeche"
+        title: "SDIS Ardèche"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Our historical partner, from the collection of needs to the field testing phases."
+        content: "Our partner for the collection of needs and field experimentation."
     contactForm:
       title: "Let us protect our forests"
       email:
