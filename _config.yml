@@ -76,6 +76,33 @@ t:
     callToAction:
       title: "Comment le mettre en place ?"
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
+    media:
+      title: "Ils parlent de nous"
+      media1:
+        title: "PyTorch Ecosystem Day"
+        url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
+      media2:
+        title: "DataXdays"
+        url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+        logo: "https://2019.dataxday.fr/wp-content/uploads/2019/03/LOGO_BLACK.png"
+      media3:
+        title: "Le Parisien"
+        url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      media3:
+        title: "Lauréat Prix Epe"
+        url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+        logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      media3:
+        title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      media3:
+        title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+       
     team:
       title: "L'équipe actuelle"
     sponsors:
