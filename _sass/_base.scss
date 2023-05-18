@@ -69,6 +69,12 @@ p {
   color: white;
 }
 
+.center-fit {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+}
+
 .bg-dark {
   background-color: $theme-dark;
   color: white;
