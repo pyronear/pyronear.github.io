@@ -105,6 +105,30 @@ t:
        
     team:
       title: "L'équipe actuelle"
+    partners:
+      title: "Avec qui on travaille?"
+      partner1:
+        title: "SDIS Ardèche"
+        url: "https://www.sdis07.fr/"
+        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+        content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
+      partner2:
+        title: "Engie Green"
+        url: "https://www.engie-green.fr/"
+        logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
+        content: "Notre premier partenaire privé, avec qui l'on réalise une expérimentation en gironde"
+      partner3:
+        title: "CENIA"
+        url: "https://cenia.cl/"
+        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        content: "Le centre national d'intelligence artificiel chilien avec qui l’on travail pour notre premier déploiement à l’étranger"
+      partner4:
+        title: "ADF Subirats"
+        url: "https://sfadf.org/adf/subirats//"
+        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        content: "Notre partenaire pour l’adaptation de notre dispositif à des caméras existante"
+   
+   
     sponsors:
       title: "Qui nous soutient ?"
       sponsor1:
@@ -168,6 +192,29 @@ t:
       content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
     team:
       title: "The current team"
+    partners:
+      title: "Avec qui on travaille?"
+      partner1:
+        title: "SDIS Ardèche"
+        url: "https://www.sdis07.fr/"
+        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+        content: "Our first partner for requirements gathering and field experimentation."
+      partner2:
+        title: "Engie Green"
+        url: "https://www.engie-green.fr/"
+        logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
+        content: "Our first private partner, with whom we are conducting an experiment in Gironde"
+      partner3:
+        title: "CENIA"
+        url: "https://cenia.cl/"
+        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
+      partner4:
+        title: "ADF Subirats"
+        url: "https://sfadf.org/adf/subirats/"
+        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        content: "Our partner for the adaptation of our device to existing cameras"
+   
     sponsors:
       title: "Who supports us?"
       sponsor1:
