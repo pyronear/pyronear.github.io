@@ -57,25 +57,25 @@ t:
       subtitle: "Pyronear est un projet open-source au service du bien commun"
     manifesto:
       title: "Qui sommes-nous ?"
-      phrase1: "Pyronear est une association loi 1901 au service du bien commun et du logiciel libre."
-      phrase2: "Nous portons la conviction que la protection des forêts doit être accessible à tous et qu'elle nécessite la technologie la plus efficace, transparente et abordable possible. C’est pourquoi notre solution logicielle de détection des feux de forêt est gratuite."
+      phrase1: "<b>Pyronear</b> est une association à but non lucratif loi 1901 dont l’objectif est de démocratiser des solutions technologiques sobres et ouvertes de lutte contre les incendies de forêts, au service des écosystèmes et des citoyens. Pour cela, nous co-construisons une solution open source de détection détection précoce, performante, automatique, énergiquement sobre, économique et modulable des départs de feux dans les espaces naturels."
+      phrase2: "<b>Open source </b>: Tout notre code est disponible en accès libre et co-développé par nos bénévoles. Nous pensons que l'intelligence collective est la meilleure façon de résoudre un problème complexe."
+      phrase3: "<b>Détection précoce </b>: Pour lutter efficacement contre les feux de forêt il est important de les détecter de façon précoce pour permettre une intervention rapide des services d’incendies et secours et ainsi limiter leur impact."
+      phrase4: "<b>Performance </b>: Nos experts en intelligence artificielle suivent activement l’actualité de ce domaine en plein ébullition afin de faire bénéficier Pyronear de ses dernières avancées."
+      phrase5: "<b>Automatique </b>: Nous proposons une solution complètement automatisée afin de libérer du temps aux pompiers."
+      phrase6: "<b>Énergétiquement sobre </b>: Nous sommes dans une démarche dite low-tech, nous avons construit un dispositif peu consommateur permettant un déploiement plus facile et une utilisation plus raisonnée de nos précieuses ressources."
+      phrase7: "<b>Économique </b>: Notre R&D est faite par des bénévoles, notre dispositif est sobre et l’objet non-lucratif de notre association, ce qui nous permet de proposer des prix très compétitifs afin de faciliter un déploiement sur le territoire."
+      phrase8: "<b>Modulable </b>: Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
     steps:
       title: "Comment ça marche ?"
-      step1:
-        icon: 👀
-        title: "1. Couverture de la zone"
-        content: "Nos détecteurs placés en hauteur surveillent la zone forestière alentour."
-      step2:
-        icon: 🤖
-        title: "2. Traitement de l'image"
-        content: "Notre modèle d'apprentissage profond analyse les indices visuels de départ de feu."
-      step3:
-        icon: 🚨
-        title: "3. Alerte !"
-        content: "En cas de forte suspicion, l'alerte est donnée automatiquement."
+      text1: "Pyronear est une <b>solution complète de gestion du risque incendie</b>. Elle est constituée d’un <b>algorithme de détection</b> précoce des départs de feu, implémenté sur un micro ordinateur, connecté à des <b>caméras positionnées sur des points hauts</b> avec vue sur la forêt. Nos détecteurs communiquent les <b>alertes de détection de départ de feu</b> à une base de données elle-même connectée à une <b>plateforme de supervision</b> à destination des pompiers. "
+      image_link1: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81ray0VxVjHBRwWV2U3UW9rNMlw8QZBNqOsNdGN8Pq2-FHWgjYt3uQpqO0aHpyxTdWViy7q50tNbpy9HZ-14oxuNSbft=s1600"
+      text2: "Nos tours de détection se composent de 4/5 caméras haute résolution et d’un micro ordinateur qui capture une image par caméra à intervalles réguliers puis l’analyse localement à l’aide de notre modèle de détection de feux de forêt. En cas de détection, le mode alerte est activé, toutes les images provenant de la caméra ayant détecté le feu sont alors envoyées à notre base de données via notre api, le protocole de communication que nous avons développé."
+      image_link2: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKFDSwOWe1s6g0nANvlaKnbAMsCqNy4cLncnazqA_uKR928VWIgks5ds5htWhuZq_RfA41pgllkhDNUm3Yq-hDyMMd=s1600"
+
     callToAction:
       title: "Comment le mettre en place ?"
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
+<<<<<<< HEAD
     media:
       title: "Ils parlent de nous"
       media1:
@@ -102,6 +102,46 @@ t:
         title: "Podcast Horizon-IA"
         url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
         logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+=======
+    medias:
+      title: "Ils parlent de nous"
+      media1:
+        #title: "PyTorch Ecosystem Day"
+        url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
+      media2:
+        #title: "Présentation DataXdays 2021"
+        url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+        logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
+      media3:
+        #title: "Article Le Parisien"
+        url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      media4:
+        #title: "Lauréat Prix Epe"
+        url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+        logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      media5:
+        #title: "Blog de Qarnot"
+        url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
+        logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
+      media6:
+        #title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      media7:
+        #title: "Présentation Monthly Marty"
+        url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
+        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+      media8:
+        #title: "Journée de la donnée au service de la transition écologique"
+        url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
+      media9:
+        #title: "Podcast DataGen"
+        url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
+        logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
+>>>>>>> origin/master
        
     team:
       title: "L'équipe actuelle"
@@ -184,22 +224,62 @@ t:
       subtitle: "Pyronear is an open-source project for the common good"
     manifesto:
       title: "Who are we?"
-      phrase1: "Pyronear is a French association (loi 1901) at the service of the common good and open-source software."
-      phrase2: "We believe that forest preservation should be accessible to anyone and that it requires the most efficient, transparent and affordable technology possible. That is why our software solution for wildfire detection is free of charge."
+      phrase1: "<b>Pyronear</b> is a non-profit NGO whose objective is to democratize open and low-tech solutions for fighting wildfires, for the benefit of the ecosystems and the citizens. To achieve this goal, we are co-building an early detection solution that is open source, efficient, automatic, energy-efficient, economical and modular"
+      phrase2: "<b>Open source</b>: All our code is available for free and co-developed by our volunteers. We believe that collective intelligence is the best way to solve a complex problem."
+      phrase3: "<b>Early detection</b>: To fight effectively against wildfires, it is important to detect them early in order to allow a quick intervention of fire and rescue services and thus limit their impact."
+      phrase4: "<b>Performance</b>: Our AI experts actively follow the news in this fast-moving field in order to make Pyronear benefit from its latest advances."
+      phrase5: "<b>Automatic</b>: We offer a fully automated solution to free up firefighters' time."
+      phrase6: "<b>Energetically sober</b>: We are in a so-called low-tech approach, we have built a low-consumption device allowing an easier deployment and a more reasoned use of our precious resources."
+      phrase7: "<b>Economic</b>: Our R&D is done by volunteers, our device is sober and the non-profit object of our association, which allows us to propose very competitive prices to facilitate a deployment on the territory."
+      phrase8: "<b>Modular</b>: We offer a complete detection system but our device has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
     steps:
-      title: "How does it work?"
-      step1:
-        title: "1. Area surveillance"
-        content: "Our detectors places on high vantage points watch over the nearby forest area."
-      step2:
-        title: "2. Image processing"
-        content: "Our deep learning model analyzes visual hints for wildfires."
-      step3:
-        title: "3. Alert!"
-        content: "In case of important suspicions, the alert is raised automatically."
+      title: "Comment ça marche ?"
+      text1: "Pyronear is a <b>complete fire risk management solution</b>. It consists of an <b>early wildfire detection algorithm</b>, implemented on a microcomputer, connected to <b>cameras positioned on high spots</b> with a view on the forest. Our detectors communicate <b>fire alerts<b> to a database that is connected to a <b>supervision platform</b> for the fire department."
+      image_link1: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81ray0VxVjHBRwWV2U3UW9rNMlw8QZBNqOsNdGN8Pq2-FHWgjYt3uQpqO0aHpyxTdWViy7q50tNbpy9HZ-14oxuNSbft=s1600"
+      text2: "Our detection towers consist of 4/5 high resolution cameras and a micro computer. We capture one image per camera at regular intervals and then analyze it locally using our wildfire detection model. In case of detection, the alert mode is activated, all the images coming from the camera having detected the fire are then sent to our database via our api, the communication protocol we have developed."
+      image_link2: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKFDSwOWe1s6g0nANvlaKnbAMsCqNy4cLncnazqA_uKR928VWIgks5ds5htWhuZq_RfA41pgllkhDNUm3Yq-hDyMMd=s1600"
+
     callToAction:
       title: "How to deploy it?"
       content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
+    medias:
+      title: "They talk about us"
+      media1:
+        #title: "PyTorch Ecosystem Day"
+        url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
+      media2:
+        #title: "Présentation DataXdays 2021"
+        url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+        logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
+      media3:
+        #title: "Article Le Parisien"
+        url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      media4:
+        #title: "Lauréat Prix Epe"
+        url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+        logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      media5:
+        #title: "Blog de Qarnot"
+        url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
+        logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
+      media6:
+        #title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      media7:
+        #title: "Présentation Monthly Marty"
+        url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
+        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+      media8:
+        #title: "Journée de la donnée au service de la transition écologique"
+        url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
+      media9:
+        #title: "Podcast DataGen"
+        url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
+        logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"     
     team:
       title: "The current team"
     partners:
