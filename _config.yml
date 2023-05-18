@@ -108,7 +108,7 @@ t:
     partners:
       title: "Avec qui on travaille?"
       partner1:
-        title: "SDIS Ardèche"
+        title: "SDIS 07"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
         content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
@@ -142,10 +142,20 @@ t:
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
       sponsor3:
-        title: "SDIS Ardèche"
+        title: "Fondation M33"
+        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        content: "Qui nous soutien humainement et financièrement grâce à un mécénat d’entreprise"
+      sponsor4:
+        title: "Hi!Paris"
+        url: "https://www.hi-paris.fr/"
+        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+        content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
+      sponsor5:
+        title: "DINUM"
         url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
+        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+        content: "Qui nous accompagne via l’Accélérateur d’initiatives citoyennes"
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -195,7 +205,7 @@ t:
     partners:
       title: "Avec qui on travaille?"
       partner1:
-        title: "SDIS Ardèche"
+        title: "SDIS 07"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
         content: "Our first partner for requirements gathering and field experimentation."
@@ -228,10 +238,20 @@ t:
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "A stakeholder for rescue innovation, and our point of contact with firefighters."
       sponsor3:
-        title: "SDIS Ardèche"
+        title: "Fondation M33"
+        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        content: "Who supports us humanly and financially through corporate sponsorship"
+      sponsor4:
+        title: "Hi!Paris"
+        url: "https://www.hi-paris.fr/"
+        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+        content: "Which helps us with its human resources and its connection with the academic world"
+      sponsor5:
+        title: "DINUM"
         url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Our partner for requirements gathering and field experimentation."
+        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+        content: "Who supports us through the Citizen Initiative Accelerator"
     contactForm:
       title: "Let us protect our forests"
       email:
