@@ -75,6 +75,34 @@ t:
     callToAction:
       title: "Comment le mettre en place ?"
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
+<<<<<<< HEAD
+    media:
+      title: "Ils parlent de nous"
+      media1:
+        title: "PyTorch Ecosystem Day"
+        url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
+      media2:
+        title: "DataXdays"
+        url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+        logo: "https://2019.dataxday.fr/wp-content/uploads/2019/03/LOGO_BLACK.png"
+      media3:
+        title: "Le Parisien"
+        url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      media3:
+        title: "Lauréat Prix Epe"
+        url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+        logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      media3:
+        title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      media3:
+        title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+=======
     medias:
       title: "Ils parlent de nous"
       media1:
@@ -113,9 +141,34 @@ t:
         #title: "Podcast DataGen"
         url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
         logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
+>>>>>>> origin/master
        
     team:
       title: "L'équipe actuelle"
+    partners:
+      title: "Avec qui on travaille?"
+      partner1:
+        title: "SDIS 07"
+        url: "https://www.sdis07.fr/"
+        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+        content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
+      partner2:
+        title: "Engie Green"
+        url: "https://www.engie-green.fr/"
+        logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
+        content: "Notre premier partenaire privé, avec qui on réalise une expérimentation en gironde"
+      partner3:
+        title: "CENIA"
+        url: "https://cenia.cl/"
+        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        content: "Le centre national d'intelligence artificielle chilien avec qui on travaille pour notre premier déploiement à l’étranger"
+      partner4:
+        title: "ADF Subirats"
+        url: "https://sfadf.org/adf/subirats//"
+        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
+   
+   
     sponsors:
       title: "Qui nous soutient ?"
       sponsor1:
@@ -129,10 +182,20 @@ t:
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
       sponsor3:
-        title: "SDIS Ardèche"
+        title: "Fondation M33"
+        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
+      sponsor4:
+        title: "Hi!Paris"
+        url: "https://www.hi-paris.fr/"
+        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+        content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
+      sponsor5:
+        title: "DINUM"
         url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain."
+        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+        content: "Qui nous accompagne via l’Accélérateur d’initiatives citoyennes"
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -219,6 +282,29 @@ t:
         logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"     
     team:
       title: "The current team"
+    partners:
+      title: "Avec qui on travaille?"
+      partner1:
+        title: "SDIS 07"
+        url: "https://www.sdis07.fr/"
+        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+        content: "Our first partner for requirements gathering and field experimentation."
+      partner2:
+        title: "Engie Green"
+        url: "https://www.engie-green.fr/"
+        logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
+        content: "Our first private partner, with whom we are conducting an experiment in Gironde"
+      partner3:
+        title: "CENIA"
+        url: "https://cenia.cl/"
+        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
+      partner4:
+        title: "ADF Subirats"
+        url: "https://sfadf.org/adf/subirats/"
+        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        content: "Our catalan partner for the adaptation of our device to existing cameras"
+   
     sponsors:
       title: "Who supports us?"
       sponsor1:
@@ -232,10 +318,20 @@ t:
         logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
         content: "A stakeholder for rescue innovation, and our point of contact with firefighters."
       sponsor3:
-        title: "SDIS Ardèche"
+        title: "Fondation M33"
+        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        content: "Who supports us humanly and financially through corporate sponsorship"
+      sponsor4:
+        title: "Hi!Paris"
+        url: "https://www.hi-paris.fr/"
+        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+        content: "Which helps us with its human resources and its connection with the academic world"
+      sponsor5:
+        title: "DINUM"
         url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Our partner for requirements gathering and field experimentation."
+        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+        content: "Who supports us through the Citizen Initiative Accelerator"
     contactForm:
       title: "Let us protect our forests"
       email:
