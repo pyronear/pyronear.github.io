@@ -161,12 +161,12 @@ t:
         title: "CENIA"
         url: "https://cenia.cl/"
         logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
-        content: "Le centre national d'intelligence artificiel chilien avec qui l’on travail pour notre premier déploiement à l’étranger"
+        content: "Le centre national d'intelligence artificielle chilien avec qui on travaille pour notre premier déploiement à l’étranger"
       partner4:
         title: "ADF Subirats"
         url: "https://sfadf.org/adf/subirats//"
         logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
-        content: "Notre partenaire pour l’adaptation de notre dispositif à des caméras existante"
+        content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
    
    
     sponsors:
@@ -185,7 +185,7 @@ t:
         title: "Fondation M33"
         url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
         logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
-        content: "Qui nous soutien humainement et financièrement grâce à un mécénat d’entreprise"
+        content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
       sponsor4:
         title: "Hi!Paris"
         url: "https://www.hi-paris.fr/"
@@ -303,7 +303,7 @@ t:
         title: "ADF Subirats"
         url: "https://sfadf.org/adf/subirats/"
         logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
-        content: "Our partner for the adaptation of our device to existing cameras"
+        content: "Our catalan partner for the adaptation of our device to existing cameras"
    
     sponsors:
       title: "Who supports us?"
