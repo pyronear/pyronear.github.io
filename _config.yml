@@ -4,7 +4,7 @@ description: "Détection précoce de feux de forêt" # this means to ignore newl
 author: Pyronear
 url: "https://pyronear.org/" # the base hostname & protocol for your site
 lang: fr 
-languages: ["fr", "en"]
+languages: ["fr", "en", "ca"]
 base-url: ""
 
 # Social media
@@ -135,8 +135,8 @@ t:
         content: "Le centre national d'intelligence artificielle chilien avec qui on travaille pour notre premier déploiement à l’étranger"
       partner4:
         title: "ADF Subirats"
-        url: "https://sfadf.org/adf/subirats//"
-        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        url: "https://subirats.cat/adfsubirats/"
+        logo: "../img/logo-adf-subirats.png"
         content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
    
    
@@ -272,8 +272,8 @@ t:
         content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
       partner4:
         title: "ADF Subirats"
-        url: "https://sfadf.org/adf/subirats/"
-        logo: "https://sfadf.org/wp-content/themes/sfadf/img/logo-header.jpg"
+        url: "https://subirats.cat/adfsubirats/"
+        logo: "../img/logo-adf-subirats.png"
         content: "Our catalan partner for the adaptation of our device to existing cameras"
    
     sponsors:
@@ -316,3 +316,137 @@ t:
     contact:
       title: "Follow the Pyronear adventure"
       content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
+  ca:
+    label: ca
+    icon: 🇨🇦
+    description: "Detecció precoç d'incendis forestals"
+    buttons:
+      moreInfo: "Més informació"
+      contactUs: "Contacta amb nosaltres"
+      submit: "Enviar"
+    header:
+      title: "Detecció d'incendis forestals"
+      subtitle: "Pyronear és un projecte de codi obert per al bé comú"
+    manifesto:
+      title: "Qui sóm?"
+      phrase1: "<b>Pyronear</b> és una ONG sense ànim de lucre que té com a objectiu democratitzar solucions obertes i de baixa tecnologia per a la lluita contra els incendis forestals, en benefici dels ecosistemes i dels ciutadans. Per aconseguir aquest objectiu, estem construint conjuntament una solució de detecció precoç que sigui de codi obert, eficient, automàtica, eficient energèticament, econòmica i modular."
+      phrase2: "<b>Open source</b>: Tot el nostre codi està disponible de forma gratuïta i desenvolupat conjuntament pels nostres voluntaris. Creiem que la intel·ligència col·lectiva és la millor manera de resoldre un problema complex."
+      phrase3: "<b>Detecció precoç</b>: Per lluitar eficaçment contra els incendis forestals, és important detectar-los precoçment per tal de permetre una intervenció ràpida dels serveis de bombers i salvament i limitar així el seu impacte."
+      phrase4: "<b>Rendiment</b>: Els nostres experts en intel·ligència artificial segueixen activament les notícies en aquest camp en moviment ràpid per tal que Pyronear es beneficiï dels seus últims avenços."
+      phrase5: "<b>Automàtic</b>: Oferim una solució totalment automatitzada per alliberar temps dels bombers."
+      phrase6: "<b>Sobre energia</b>: Estem en un enfocament denominat de baixa tecnologia, hem construït un dispositiu de baix consum que permet un desplegament més fàcil i un ús més raonat dels nostres valuosos recursos."
+      phrase7: "<b>Economic</b>: La nostra R+D la fan voluntaris, el nostre dispositiu és sobri i objecte sense ànim de lucre de la nostra associació, la qual cosa ens permet proposar preus molt competitius per facilitar un desplegament al territori."
+      phrase8: "<b>Modular</b>: Oferim un sistema de detecció complet però el nostre dispositiu ha estat dissenyat per funcionar amb equips existents (ús de càmeres ja instal·lades, connexió amb programari existent...)"
+    steps:
+      title: "Com funciona ?"
+      text1: "Pyronear és un <b>solució completa de gestió del risc d'incendi</b>. Consta d'un <b>algorisme de detecció precoç d'incendis forestals</b>, implementat en un microordinador, connectat a <b>càmeres col·locades en punts alts</b> amb vistes al bosc. Els nostres detectors es comuniquen <b>alertes d'incendi<b> a una base de dades connectada a <b>plataforma de supervisió</b> per al cos de bombers."
+      image_link1: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81ray0VxVjHBRwWV2U3UW9rNMlw8QZBNqOsNdGN8Pq2-FHWgjYt3uQpqO0aHpyxTdWViy7q50tNbpy9HZ-14oxuNSbft=s1600"
+      text2: "Les nostres torres de detecció estan formades per 4/5 càmeres d'alta resolució i un micro ordinador. Capturem una imatge per càmera a intervals regulars i després l'analitzem localment mitjançant el nostre model de detecció d'incendis forestals. En cas de detecció, s'activa el mode d'alerta, totes les imatges procedents de la càmera després d'haver detectat l'incendi s'envien a la nostra base de dades a través de la nostra API, el protocol de comunicació que hem desenvolupat."
+      image_link2: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKFDSwOWe1s6g0nANvlaKnbAMsCqNy4cLncnazqA_uKR928VWIgks5ds5htWhuZq_RfA41pgllkhDNUm3Yq-hDyMMd=s1600"
+
+    callToAction:
+      title: "Com desplegar-lo?"
+      content: "Per obtenir més informació, poseu-vos en contacte amb nosaltres per correu electrònic o a les xarxes socials. Ens posarem en contacte amb vostè el més aviat possible."
+    medias:
+      title: "Parlen de nosaltres"
+      media1:
+        #title: "PyTorch Ecosystem Day"
+        url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
+      media2:
+        #title: "Présentation DataXdays 2021"
+        url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+        logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
+      media3:
+        #title: "Article Le Parisien"
+        url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      media4:
+        #title: "Lauréat Prix Epe"
+        url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+        logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      media5:
+        #title: "Blog de Qarnot"
+        url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
+        logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
+      media6:
+        #title: "Podcast Horizon-IA"
+        url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+        logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      media7:
+        #title: "Présentation Monthly Marty"
+        url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
+        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+      media8:
+        #title: "Journée de la donnée au service de la transition écologique"
+        url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
+        logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
+      media9:
+        #title: "Podcast DataGen"
+        url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
+        logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"     
+    team:
+      title: "L'equip actual"
+    partners:
+      title: "Amb qui treballem?"
+      partner1:
+        title: "SDIS 07"
+        url: "https://www.sdis07.fr/"
+        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+        content: "El nostre primer soci per a la recollida de requisits i l'experimentació de camp."
+      partner2:
+        title: "Engie Green"
+        url: "https://www.engie-green.fr/"
+        logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
+        content: "El nostre primer soci privat, amb qui estem fent un experiment a Gironda"
+      partner3:
+        title: "CENIA"
+        url: "https://cenia.cl/"
+        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        content: "El Centre Nacional d'Intel·ligència Artificial de Xile amb qui estem treballant per al nostre primer desplegament a l'estranger"
+      partner4:
+        title: "ADF Subirats"
+        url: "https://subirats.cat/adfsubirats/"
+        logo: "../img/logo-adf-subirats.png"
+        content: "El nostre soci català per a l'adaptació del nostre dispositiu a les càmeres existents"
+   
+    sponsors:
+      title: "Who supports us?"
+      sponsor1:
+        title: "Data for Good"
+        url: "https://dataforgood.fr/"
+        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+        content: "Part de les temporades d'acceleració 6a, 8a i 10a de Data for Good, és el lloc de naixement de Pyronear entre molts altres projectes de bé comú."
+      sponsor2:
+        title: "Atraksis"
+        url: "https://atraksis.fr/"
+        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
+        content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
+      sponsor3:
+        title: "Fondation M33"
+        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        content: "Qui ens recolza humana i econòmicament a través del patrocini corporatiu"
+      sponsor4:
+        title: "Hi!Paris"
+        url: "https://www.hi-paris.fr/"
+        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+        content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
+      sponsor5:
+        title: "DINUM"
+        url: "https://www.sdis07.fr/"
+        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+        content: "Qui ens dóna suport a través de l'Acceleradora d'Iniciatives Ciutadanes"
+    contactForm:
+      title: "Protegim els nostres boscos"
+      email:
+        label: "La teva adreça de correu electrònic"
+        privacyPhrase: "Mai compartirem el teu correu electrònic sense el teu consentiment."
+      message:
+        label: "El teu missatge"
+      confirmation:
+        title: "Missatge enviat!"
+        subtitle: "Gràcies per contactar amb nosaltres, us respondrem el més aviat possible!"
+    contact:
+      title: "Segueix l'aventura Pyronear"
+      content: "Per estar al dia del nostre progrés o per unir-te a l'aventura, també pots contactar amb nosaltres a les xarxes socials!"
