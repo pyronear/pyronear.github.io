@@ -204,7 +204,7 @@ t:
       phrase7: "<b>Economic</b>: Our R&D is done by volunteers, our device is sober and the non-profit object of our association, which allows us to propose very competitive prices to facilitate a deployment on the territory."
       phrase8: "<b>Modular</b>: We offer a complete detection system but our device has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
     steps:
-      title: "Comment ça marche ?"
+      title: "How does it work?"
       text1: "Pyronear is a <b>complete fire risk management solution</b>. It consists of an <b>early wildfire detection algorithm</b>, implemented on a microcomputer, connected to <b>cameras positioned on high spots</b> with a view on the forest. Our detectors communicate <b>fire alerts<b> to a database that is connected to a <b>supervision platform</b> for the fire department."
       image_link1: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81ray0VxVjHBRwWV2U3UW9rNMlw8QZBNqOsNdGN8Pq2-FHWgjYt3uQpqO0aHpyxTdWViy7q50tNbpy9HZ-14oxuNSbft=s1600"
       text2: "Our detection towers consist of 4/5 high resolution cameras and a micro computer. We capture one image per camera at regular intervals and then analyze it locally using our wildfire detection model. In case of detection, the alert mode is activated, all the images coming from the camera having detected the fire are then sent to our database via our api, the communication protocol we have developed."
@@ -254,7 +254,7 @@ t:
     team:
       title: "The current team"
     partners:
-      title: "Avec qui on travaille?"
+      title: "Who do we work with?"
       partner1:
         title: "SDIS 07"
         url: "https://www.sdis07.fr/"
