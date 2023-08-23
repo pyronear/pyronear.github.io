@@ -131,7 +131,7 @@ t:
       partner3:
         title: "CENIA"
         url: "https://cenia.cl/"
-        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        logo: "/img/cenia.jpg"
         content: "Le centre national d'intelligence artificielle chilien avec qui on travaille pour notre premier déploiement à l’étranger"
       partner4:
         title: "ADF Subirats"
@@ -155,7 +155,7 @@ t:
       sponsor3:
         title: "Fondation M33"
         url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        logo: "/img/m33_foundation.jpeg"
         content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
       sponsor4:
         title: "Hi!Paris"
@@ -268,7 +268,7 @@ t:
       partner3:
         title: "CENIA"
         url: "https://cenia.cl/"
-        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        logo: "/img/cenia.jpg"
         content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
       partner4:
         title: "ADF Subirats"
@@ -291,7 +291,7 @@ t:
       sponsor3:
         title: "Fondation M33"
         url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        logo: "/img/m33_foundation.jpeg"
         content: "Who supports us humanly and financially through corporate sponsorship"
       sponsor4:
         title: "Hi!Paris"
@@ -403,7 +403,7 @@ t:
       partner3:
         title: "CENIA"
         url: "https://cenia.cl/"
-        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        logo: "/img/cenia.jpg"
         content: "El Centre Nacional d'Intel·ligència Artificial de Xile amb qui estem treballant per al nostre primer desplegament a l'estranger"
       partner4:
         title: "ADF Subirats"
@@ -426,7 +426,7 @@ t:
       sponsor3:
         title: "Fondation M33"
         url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        logo: "/img/m33_foundation.jpeg"
         content: "Qui ens recolza humana i econòmicament a través del patrocini corporatiu"
       sponsor4:
         title: "Hi!Paris"
@@ -538,7 +538,7 @@ t:
       partner3:
         title: "CENIA"
         url: "https://cenia.cl/"
-        logo: "https://cenia.cl/wp-content/themes/cenia/assets/images/logo.gif"
+        logo: "/img/cenia.jpg"
         content: "El Centro Nacional de Inteligencia Artificial de Chile con el que estamos trabajando para nuestro primer despliegue en el exterior"
       partner4:
         title: "ADF Subirats"
@@ -561,7 +561,7 @@ t:
       sponsor3:
         title: "Fondation M33"
         url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "https://media.licdn.com/dms/image/C4D0BAQGRcjA3uYXrpA/company-logo_200_200/0/1635336377800?e=1692230400&v=beta&t=p_3W4IDlMkmCCZOcixddw5-THF6Vz1VEcjTt1m35MRY"
+        logo: "/img/m33_foundation.jpeg"
         content: "Quien nos apoya humana y financieramente a través del patrocinio corporativo"
       sponsor4:
         title: "Hi!Paris"
