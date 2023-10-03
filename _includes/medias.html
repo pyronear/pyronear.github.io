@@ -9,124 +9,26 @@
   </div>
   <div class="container">
     <div class="row">
+      {% for media in site.t.[layout.lang].medias.items %}
       <div class="col-md-4 text-center">
         <div class="service-box">
           <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media1.url }}">
-              <img alt="media1-logo" src="{{ site.t.[layout.lang].medias.media1.logo }}" width=200>
+            <a href="{{ media.url }}">
+              <img
+                alt="{{media.title}} logo"
+                src="{{ media.logo }}"
+                width="{{ media.width }}"
+                height="{{ media.height }}"
+              />
             </a>
           </p>
           <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
-          <h3>{{ site.t.[layout.lang].medias.media1.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media1.content }}
-          </p>
+          <!-- <h3>{{ media.title }}</h3> -->
+          <p class="text-muted">{{ media.content }}</p>
         </div>
       </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media2.url }}">
-              <img alt="media2-logo" src="{{ site.t.[layout.lang].medias.media2.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media2.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media2.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media3.url }}">
-              <img alt="media3-logo" src="{{ site.t.[layout.lang].medias.media3.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media3.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media3.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media4.url }}">
-              <img alt="media4-logo" src="{{ site.t.[layout.lang].medias.media4.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media4.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media4.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media5.url }}">
-              <img alt="media5-logo" src="{{ site.t.[layout.lang].medias.media5.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media5.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media5.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media6.url }}">
-              <img alt="media6-logo" src="{{ site.t.[layout.lang].medias.media6.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media6.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media6.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media7.url }}">
-              <img alt="media7-logo" src="{{ site.t.[layout.lang].medias.media7.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media7.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media7.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media8.url }}">
-              <img alt="media8-logo" src="{{ site.t.[layout.lang].medias.media8.logo }}" height=100>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media8.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media8.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].medias.media9.url }}">
-              <img alt="media9-logo" src="{{ site.t.[layout.lang].medias.media9.logo }}" height=75>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].medias.media9.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].medias.media9.content }}
-          </p>
-        </div>
-      </div>
+
+      {% endfor %}
     </div>
   </div>
 </section>
