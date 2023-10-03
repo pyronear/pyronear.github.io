@@ -42,6 +42,54 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+medias:
+  items: 
+    -
+      title: "PyTorch Ecosystem Day"
+      url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
+      width: 200
+    - 
+      title: "Présentation DataXdays 2021"
+      url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+      logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
+      height: 75
+    - 
+      title: "Article Le Parisien"
+      url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      height: 75
+    - 
+      title: "Lauréat Prix Epe"
+      url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+      logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      height: 75
+    - 
+      title: "Blog de Qarnot"
+      url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
+      logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
+      height: 75
+    - 
+      title: "Podcast Horizon-IA"
+      url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+      logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+      height: 75
+    - 
+      title: "Présentation Monthly Marty"
+      url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
+      logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+      height: 75
+    - 
+      title: "Journée de la donnée au service de la transition écologique"
+      url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
+      height: 100
+    - 
+      title: "Podcast DataGen"
+      url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
+      logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
+      height: 100
+
 # Translations
 t:
   fr:
@@ -77,53 +125,7 @@ t:
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
     medias:
       title: "Ils parlent de nous"
-      items: 
-        -
-          title: "PyTorch Ecosystem Day"
-          url: "https://assets.pytorch.org/pted2021/posters/B8.png"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
-          width: 200
-        - 
-          title: "Présentation DataXdays 2021"
-          url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-          logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
-          height: 75
-        - 
-          title: "Article Le Parisien"
-          url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
-          height: 75
-        - 
-          title: "Lauréat Prix Epe"
-          url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-          logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
-          height: 75
-        - 
-          title: "Blog de Qarnot"
-          url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
-          logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
-          height: 75
-        - 
-          title: "Podcast Horizon-IA"
-          url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
-          logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
-          height: 75
-        - 
-          title: "Présentation Monthly Marty"
-          url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-          height: 75
-        - 
-          title: "Journée de la donnée au service de la transition écologique"
-          url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
-          height: 100
-        - 
-          title: "Podcast DataGen"
-          url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
-          logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
-          height: 100
-       
+     
     team:
       title: "L'équipe actuelle"
     partners:
@@ -225,52 +227,6 @@ t:
       content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
     medias:
       title: "They talk about us"
-      items: 
-        -
-          title: "PyTorch Ecosystem Day"
-          url: "https://assets.pytorch.org/pted2021/posters/B8.png"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
-          width: 200
-        - 
-          title: "Présentation DataXdays 2021"
-          url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-          logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
-          height: 75
-        - 
-          title: "Article Le Parisien"
-          url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
-          height: 75
-        - 
-          title: "Lauréat Prix Epe"
-          url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-          logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
-          height: 75
-        - 
-          title: "Blog de Qarnot"
-          url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
-          logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
-          height: 75
-        - 
-          title: "Podcast Horizon-IA"
-          url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
-          logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
-          height: 75
-        - 
-          title: "Présentation Monthly Marty"
-          url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-          height: 75
-        - 
-          title: "Journée de la donnée au service de la transition écologique"
-          url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
-          height: 100
-        - 
-          title: "Podcast DataGen"
-          url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
-          logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
-          height: 100
 
     team:
       title: "The current team"
@@ -371,52 +327,6 @@ t:
       content: "Per obtenir més informació, poseu-vos en contacte amb nosaltres per correu electrònic o a les xarxes socials. Ens posarem en contacte amb vostè el més aviat possible."
     medias:
       title: "Parlen de nosaltres"
-      items: 
-        -
-          title: "PyTorch Ecosystem Day"
-          url: "https://assets.pytorch.org/pted2021/posters/B8.png"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
-          width: 200
-        - 
-          title: "Présentation DataXdays 2021"
-          url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-          logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
-          height: 75
-        - 
-          title: "Article Le Parisien"
-          url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
-          height: 75
-        - 
-          title: "Lauréat Prix Epe"
-          url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-          logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
-          height: 75
-        - 
-          title: "Blog de Qarnot"
-          url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
-          logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
-          height: 75
-        - 
-          title: "Podcast Horizon-IA"
-          url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
-          logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
-          height: 75
-        - 
-          title: "Présentation Monthly Marty"
-          url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-          height: 75
-        - 
-          title: "Journée de la donnée au service de la transition écologique"
-          url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
-          height: 100
-        - 
-          title: "Podcast DataGen"
-          url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
-          logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
-          height: 100
     team:
       title: "L'equip actual"
     partners:
@@ -516,52 +426,6 @@ t:
       content: "Para obtener más información, comuníquese con nosotros por correo electrónico o en las redes sociales. Nos pondremos en contacto con usted lo antes posible."
     medias:
       title: "They talk about us"
-      items: 
-        -
-          title: "PyTorch Ecosystem Day"
-          url: "https://assets.pytorch.org/pted2021/posters/B8.png"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
-          width: 200
-        - 
-          title: "Présentation DataXdays 2021"
-          url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-          logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
-          height: 75
-        - 
-          title: "Article Le Parisien"
-          url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
-          height: 75
-        - 
-          title: "Lauréat Prix Epe"
-          url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-          logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
-          height: 75
-        - 
-          title: "Blog de Qarnot"
-          url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
-          logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
-          height: 75
-        - 
-          title: "Podcast Horizon-IA"
-          url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
-          logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
-          height: 75
-        - 
-          title: "Présentation Monthly Marty"
-          url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-          height: 75
-        - 
-          title: "Journée de la donnée au service de la transition écologique"
-          url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
-          logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
-          height: 100
-        - 
-          title: "Podcast DataGen"
-          url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
-          logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
-          height: 100
     team:
       title: "El equipo actual"
     partners:
