@@ -94,6 +94,16 @@ medias:
       url: "https://www.europe1.fr/emissions/initiative-a-impact/la-lutte-contre-les-feux-de-foret-passe-aussi-par-les-algorithmes-4204947"
       logo: "/img/europe1.png"
       height: 100
+    - 
+      title: "Podcast Safety Innov"
+      url: "https://open.spotify.com/episode/2NoEt2mCjhMDtlxeu594pG"
+      logo: "/img/safety_innov.png"
+      height: 100
+    - 
+      title: "TedX Tours"
+      url: "https://www.youtube.com/watch?v=ZaBdnqnLVBg&ab_channel=TEDxTalks"
+      logo: "/img/tedx-tours.png"
+      height: 100
 
 # Translations
 t:
