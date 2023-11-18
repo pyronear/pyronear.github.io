@@ -121,13 +121,34 @@ t:
     manifesto:
       title: "Qui sommes-nous ?"
       phrase1: "<b>Pyronear</b> est une association à but non lucratif loi 1901 dont l’objectif est de démocratiser des solutions technologiques sobres et ouvertes de lutte contre les incendies de forêts, au service des écosystèmes et des citoyens. Pour cela, nous co-construisons une solution open source de détection détection précoce, performante, automatique, énergiquement sobre, économique et modulable des départs de feux dans les espaces naturels."
-      phrase2: "<b>Open source </b>: Tout notre code est disponible en accès libre et co-développé par nos bénévoles. Nous pensons que l'intelligence collective est la meilleure façon de résoudre un problème complexe."
-      phrase3: "<b>Détection précoce </b>: Pour lutter efficacement contre les feux de forêt il est important de les détecter de façon précoce pour permettre une intervention rapide des services d’incendies et secours et ainsi limiter leur impact."
-      phrase4: "<b>Performance </b>: Nos experts en intelligence artificielle suivent activement l’actualité de ce domaine en plein ébullition afin de faire bénéficier Pyronear de ses dernières avancées."
-      phrase5: "<b>Automatique </b>: Nous proposons une solution complètement automatisée afin de libérer du temps aux pompiers."
-      phrase6: "<b>Énergétiquement sobre </b>: Nous sommes dans une démarche dite low-tech, nous avons construit un dispositif peu consommateur permettant un déploiement plus facile et une utilisation plus raisonnée de nos précieuses ressources."
-      phrase7: "<b>Économique </b>: Notre R&D est faite par des bénévoles, notre dispositif est sobre et l’objet non-lucratif de notre association, ce qui nous permet de proposer des prix très compétitifs afin de faciliter un déploiement sur le territoire."
-      phrase8: "<b>Modulable </b>: Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
+      card1:
+        icon_src: "/img/cards_icons/opensource.svg"
+        title: "Open source"
+        content: "Tout notre code est disponible en accès libre et co-développé par nos bénévoles. Nous pensons que l'intelligence collective est la meilleure façon de résoudre un problème complexe."
+      card2:
+        icon_src: "/img/cards_icons/radar-2.svg"
+        title: "Détection précoce"
+        content: "Pour lutter efficacement contre les feux de forêt il est important de les détecter de façon précoce pour permettre une intervention rapide des services d’incendies et secours et ainsi limiter leur impact."
+      card3:
+        icon_src: "/img/cards_icons/rocket.svg"
+        title: "Performance"
+        content: "Nos experts en intelligence artificielle suivent activement l’actualité de ce domaine en plein ébullition afin de faire bénéficier Pyronear de ses dernières avancées."
+      card4:
+        icon_src: "/img/cards_icons/auto-awesome.svg"
+        title: "Automatique"
+        content: "Nous proposons une solution complètement automatisée afin de libérer du temps aux pompiers."
+      card5:
+        icon_src: "/img/cards_icons/eco.svg"
+        title: "Enérgétiquement sobre"
+        content: "Nous sommes dans une démarche dite low-tech, nous avons construit un dispositif peu consommateur permettant un déploiement plus facile et une utilisation plus raisonnée de nos précieuses ressources."
+      card6:
+        icon_src: "/img/cards_icons/savings-solid.svg"
+        title: "Économique"
+        content: "Notre R&D est faite par des bénévoles, notre dispositif est sobre et l’objet non-lucratif de notre association, ce qui nous permet de proposer des prix très compétitifs afin de faciliter un déploiement sur le territoire."
+      card7:
+        icon_src: "/img/cards_icons/grid-view-solid.svg"
+        title: "Modulable" 
+        content: "Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
     steps:
       title: "Comment ça marche ?"
       text1: "Pyronear est une <b>solution complète de gestion du risque incendie</b>. Elle est constituée d’un <b>algorithme de détection</b> précoce des départs de feu, implémenté sur un micro ordinateur, connecté à des <b>caméras positionnées sur des points hauts</b> avec vue sur la forêt. Nos détecteurs communiquent les <b>alertes de détection de départ de feu</b> à une base de données elle-même connectée à une <b>plateforme de supervision</b> à destination des pompiers. "
@@ -223,13 +244,34 @@ t:
     manifesto:
       title: "Who are we?"
       phrase1: "<b>Pyronear</b> is a non-profit NGO whose objective is to democratize open and low-tech solutions for fighting wildfires, for the benefit of the ecosystems and the citizens. To achieve this goal, we are co-building an early detection solution that is open source, efficient, automatic, energy-efficient, economical and modular"
-      phrase2: "<b>Open source</b>: All our code is available for free and co-developed by our volunteers. We believe that collective intelligence is the best way to solve a complex problem."
-      phrase3: "<b>Early detection</b>: To fight effectively against wildfires, it is important to detect them early in order to allow a quick intervention of fire and rescue services and thus limit their impact."
-      phrase4: "<b>Performance</b>: Our AI experts actively follow the news in this fast-moving field in order to make Pyronear benefit from its latest advances."
-      phrase5: "<b>Automatic</b>: We offer a fully automated solution to free up firefighters' time."
-      phrase6: "<b>Energetically sober</b>: We are in a so-called low-tech approach, we have built a low-consumption device allowing an easier deployment and a more reasoned use of our precious resources."
-      phrase7: "<b>Economic</b>: Our R&D is done by volunteers, our device is sober and the non-profit object of our association, which allows us to propose very competitive prices to facilitate a deployment on the territory."
-      phrase8: "<b>Modular</b>: We offer a complete detection system but our device has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
+      card1:
+        icon_src: "/img/cards_icons/opensource.svg"
+        title: "Open source"
+        content: "<b>Open source</b>: All our code is available for free and co-developed by our volunteers. We believe that collective intelligence is the best way to solve a complex problem."
+      card2:
+        icon_src: "/img/cards_icons/radar-2.svg"
+        title: "Early detection"
+        content: "To fight effectively against wildfires, it is important to detect them early in order to allow a quick intervention of fire and rescue services and thus limit their impact."
+      card3:
+        icon_src: "/img/cards_icons/rocket.svg"
+        title: "Performance"
+        content: "Our AI experts actively follow the news in this fast-moving field in order to make Pyronear benefit from its latest advances."
+      card4:
+        icon_src: "/img/cards_icons/auto-awesome.svg"
+        title: "Automatic"
+        content:  "We offer a fully automated solution to free up firefighters' time."
+      card5:
+        icon_src: "/img/cards_icons/eco.svg"
+        title: "Energetically sober"
+        content: "We are in a so-called low-tech approach, we have built a low-consumption device allowing an easier deployment and a more reasoned use of our precious resources."
+      card6:
+        icon_src: "/img/cards_icons/savings-solid.svg"
+        title: "Economic" 
+        content: "Our R&D is done by volunteers, our device is sober and the non-profit object of our association, which allows us to propose very competitive prices to facilitate a deployment on the territory."
+      card7:
+        icon_src: "/img/cards_icons/grid-view-solid.svg"
+        title: "Modular"
+        content: "We offer a complete detection system but our device has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
     steps:
       title: "How does it work?"
       text1: "Pyronear is a <b>complete fire risk management solution</b>. It consists of an <b>early wildfire detection algorithm</b>, implemented on a microcomputer, connected to <b>cameras positioned on high spots</b> with a view on the forest. Our detectors communicate <b>fire alerts<b> to a database that is connected to a <b>supervision platform</b> for the fire department."
@@ -322,13 +364,34 @@ t:
     manifesto:
       title: "Qui sóm?"
       phrase1: "<b>Pyronear</b> és una ONG sense ànim de lucre que té com a objectiu democratitzar solucions obertes i de baixa tecnologia per a la lluita contra els incendis forestals, en benefici dels ecosistemes i dels ciutadans. Per aconseguir aquest objectiu, estem construint conjuntament una solució de detecció precoç que sigui de codi obert, eficient, automàtica, eficient energèticament, econòmica i modular."
-      phrase2: "<b>Open source</b>: Tot el nostre codi està disponible de forma gratuïta i desenvolupat conjuntament pels nostres voluntaris. Creiem que la intel·ligència col·lectiva és la millor manera de resoldre un problema complex."
-      phrase3: "<b>Detecció precoç</b>: Per lluitar eficaçment contra els incendis forestals, és important detectar-los precoçment per tal de permetre una intervenció ràpida dels serveis de bombers i salvament i limitar així el seu impacte."
-      phrase4: "<b>Rendiment</b>: Els nostres experts en intel·ligència artificial segueixen activament les notícies en aquest camp en moviment ràpid per tal que Pyronear es beneficiï dels seus últims avenços."
-      phrase5: "<b>Automàtic</b>: Oferim una solució totalment automatitzada per alliberar temps dels bombers."
-      phrase6: "<b>Sobre energia</b>: Estem en un enfocament denominat de baixa tecnologia, hem construït un dispositiu de baix consum que permet un desplegament més fàcil i un ús més raonat dels nostres valuosos recursos."
-      phrase7: "<b>Economic</b>: La nostra R+D la fan voluntaris, el nostre dispositiu és sobri i objecte sense ànim de lucre de la nostra associació, la qual cosa ens permet proposar preus molt competitius per facilitar un desplegament al territori."
-      phrase8: "<b>Modular</b>: Oferim un sistema de detecció complet però el nostre dispositiu ha estat dissenyat per funcionar amb equips existents (ús de càmeres ja instal·lades, connexió amb programari existent...)"
+      card1:
+        icon_src: "/img/cards_icons/opensource.svg"
+        title: "Open source" 
+        content: "Tot el nostre codi està disponible de forma gratuïta i desenvolupat conjuntament pels nostres voluntaris. Creiem que la intel·ligència col·lectiva és la millor manera de resoldre un problema complex."
+      card2:
+        icon_src: "/img/cards_icons/radar-2.svg"
+        title: "Detecció precoç"
+        content: "Per lluitar eficaçment contra els incendis forestals, és important detectar-los precoçment per tal de permetre una intervenció ràpida dels serveis de bombers i salvament i limitar així el seu impacte."
+      card3: 
+        icon_src: "/img/cards_icons/rocket.svg"
+        title: "Rendiment"
+        content: "Els nostres experts en intel·ligència artificial segueixen activament les notícies en aquest camp en moviment ràpid per tal que Pyronear es beneficiï dels seus últims avenços."
+      card4:
+        icon_src: "/img/cards_icons/auto-awesome.svg"
+        title: "Automàtic"
+        content:  "Oferim una solució totalment automatitzada per alliberar temps dels bombers."
+      card5:
+        icon_src: "/img/cards_icons/eco.svg"
+        title: "Sobre energia"
+        content: "Estem en un enfocament denominat de baixa tecnologia, hem construït un dispositiu de baix consum que permet un desplegament més fàcil i un ús més raonat dels nostres valuosos recursos."
+      card6:
+        icon_src: "/img/cards_icons/savings-solid.svg"
+        title: "Economic"
+        content: "La nostra R+D la fan voluntaris, el nostre dispositiu és sobri i objecte sense ànim de lucre de la nostra associació, la qual cosa ens permet proposar preus molt competitius per facilitar un desplegament al territori."
+      card7:
+        icon_src: "/img/cards_icons/grid-view-solid.svg"
+        title: "Modular"
+        content: "Oferim un sistema de detecció complet però el nostre dispositiu ha estat dissenyat per funcionar amb equips existents (ús de càmeres ja instal·lades, connexió amb programari existent...)"
     steps:
       title: "Com funciona ?"
       text1: "Pyronear és un <b>solució completa de gestió del risc d'incendi</b>. Consta d'un <b>algorisme de detecció precoç d'incendis forestals</b>, implementat en un microordinador, connectat a <b>càmeres col·locades en punts alts</b> amb vistes al bosc. Els nostres detectors es comuniquen <b>alertes d'incendi<b> a una base de dades connectada a <b>plataforma de supervisió</b> per al cos de bombers."
@@ -421,13 +484,34 @@ t:
     manifesto:
       title: "Quienes somos nosotros?"
       phrase1: "<b>Pyronear</b> es una ONG sin fines de lucro cuyo objetivo es democratizar soluciones abiertas y de baja tecnología para combatir incendios forestales, en beneficio de los ecosistemas y los ciudadanos. Para lograr este objetivo, estamos co-construyendo una solución de detección temprana que es de código abierto, eficiente, automática, energéticamente eficiente, económica y modular."
-      phrase2: "<b>Código abierto</b>: Todo nuestro código está disponible de forma gratuita y desarrollado conjuntamente por nuestros voluntarios. Creemos que la inteligencia colectiva es la mejor manera de resolver un problema complejo."
-      phrase3: "<b>Detección temprana</b>: Para luchar eficazmente contra los incendios forestales, es importante detectarlos a tiempo para permitir una rápida intervención de los servicios de bomberos y salvamento y así limitar su impacto."
-      phrase4: "<b>Actuación</b>: Nuestros expertos en IA siguen activamente las noticias en este campo de rápido movimiento para que Pyronear se beneficie de sus últimos avances."
-      phrase5: "<b>Automátic</b>: Ofrecemos una solución totalmente automatizada para liberar el tiempo de los bomberos."
-      phrase6: "<b>Energéticamente sobrio</b>: Estamos en un enfoque llamado de baja tecnología, hemos construido un dispositivo de bajo consumo que permite una implementación más fácil y un uso más razonado de nuestros valiosos recursos."
-      phrase7: "<b>Económico</b>: Nuestra I+D es realizada por voluntarios, nuestro dispositivo es sobrio y sin ánimo de lucro objeto de nuestra asociación, lo que nos permite proponer precios muy competitivos para facilitar un despliegue en el territorio."
-      phrase8: "<b>Modular</b>: Ofrecemos un sistema de detección completo pero nuestro dispositivo ha sido diseñado para trabajar con equipos existentes (uso de cámaras ya instaladas, conexión con software existente...)"
+      card1:
+        icon_src: "/img/cards_icons/opensource.svg"
+        title: "Código abierto"
+        content: "Todo nuestro código está disponible de forma gratuita y desarrollado conjuntamente por nuestros voluntarios. Creemos que la inteligencia colectiva es la mejor manera de resolver un problema complejo."
+      card2:
+        icon_src: "/img/cards_icons/radar-2.svg"
+        title: "Detección temprana"
+        content: "Para luchar eficazmente contra los incendios forestales, es importante detectarlos a tiempo para permitir una rápida intervención de los servicios de bomberos y salvamento y así limitar su impacto."
+      card3:
+        icon_src: "/img/cards_icons/rocket.svg"
+        title: "Actuación"
+        content: "Nuestros expertos en IA siguen activamente las noticias en este campo de rápido movimiento para que Pyronear se beneficie de sus últimos avances."
+      card4:
+        icon_src: "/img/cards_icons/auto-awesome.svg"
+        title: "Automátic"
+        content: "Ofrecemos una solución totalmente automatizada para liberar el tiempo de los bomberos."
+      card5:
+        icon_src: "/img/cards_icons/eco.svg"
+        title: "Energéticamente sobrio"
+        content: "Estamos en un enfoque llamado de baja tecnología, hemos construido un dispositivo de bajo consumo que permite una implementación más fácil y un uso más razonado de nuestros valiosos recursos."
+      card6:
+        icon_src: "/img/cards_icons/savings-solid.svg"
+        title: "Económico"
+        content: "Nuestra I+D es realizada por voluntarios, nuestro dispositivo es sobrio y sin ánimo de lucro objeto de nuestra asociación, lo que nos permite proponer precios muy competitivos para facilitar un despliegue en el territorio."
+      card7:
+        icon_src: "/img/cards_icons/grid-view-solid.svg"
+        title: "Modular"
+        content: "Ofrecemos un sistema de detección completo pero nuestro dispositivo ha sido diseñado para trabajar con equipos existentes (uso de cámaras ya instaladas, conexión con software existente...)"
     steps:
       title: "Como funciona ?"
       text1: "Pironear es un <b>solución completa de gestión de riesgos de incendio</b>. consiste en un <b>early algoritmo de detección de incendios forestales</b>, implementado en una microcomputadora, conectada a <b>cámaras colocadas en puntos altos</b> con vista al bosque. Nuestros detectores se comunican <b>alertas de incendios<b> a una base de datos que está conectada a un <b>plataforma de supervisión</b> para el cuerpo de bomberos."
