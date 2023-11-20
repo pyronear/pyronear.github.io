@@ -10,7 +10,7 @@ body {
 }
 
 hr {
-  border-color: $theme-primary;
+  border-color: $theme-secondary;
   border-width: 3px;
   max-width: 50px;
 }
@@ -251,6 +251,51 @@ error-404 {
   color: white;
 }
 
+// About us
+.section-introduction{
+  @media (max-width: 1250px) {
+    text-align: justify;
+    padding: 0.5em;
+  }
+}
+
+.center-flex {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 1 1 0px;
+}
+
+.column-flex {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex: 1 1 auto;
+}
+
+.custom-panel {
+  background-color: white;
+  border-radius: 0.5em;
+  margin-bottom: 0.9em;
+  margin-top: 0.9em;
+  padding: 1em;
+}
+
+.svg-icon {
+  filter: invert(50%) sepia(100%) saturate(1500%);
+  height: 24px;
+}
+.custom-panel p {
+  font-size: 14px;
+}
+.custom-panel h3 {
+  color: #2C796E;
+  font-weight: 600;
+}
+
+
 // Sections
 
 .section-heading {
@@ -355,6 +400,11 @@ error-404 {
   //   border-radius: 300px;
   font-weight: 700;
   text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: rgba($theme-secondary, 1);
+  filter: brightness(1.2);
 }
 
 .btn-xl {
