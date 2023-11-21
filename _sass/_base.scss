@@ -253,7 +253,7 @@ error-404 {
 
 // About us
 .section-introduction{
-  @media (max-width: 1250px) {
+  @media (max-width: 1200px) {
     text-align: justify;
     padding: 0.5em;
   }
@@ -297,7 +297,9 @@ error-404 {
 }
 
 .small-row {
-  margin: 0 10% 3% 10%
+  @media (min-width: 992px) {
+    margin: 0 10% 3% 10%;
+  }
 }
 
 // Sections
