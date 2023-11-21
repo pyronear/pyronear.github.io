@@ -247,7 +247,7 @@ t:
       card1:
         icon_src: "/img/cards_icons/opensource.svg"
         title: "Open source"
-        content: "<b>Open source</b>: All our code is available for free and co-developed by our volunteers. We believe that collective intelligence is the best way to solve a complex problem."
+        content: "All our code is available for free and co-developed by our volunteers. We believe that collective intelligence is the best way to solve a complex problem."
       card2:
         icon_src: "/img/cards_icons/radar-2.svg"
         title: "Early detection"
@@ -271,7 +271,7 @@ t:
       card7:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modular"
-        content: "We offer a complete detection system but our device has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
+        content: "We offer a complete detection pipeline but our system has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
     steps:
       title: "How does it work?"
       text1: "Pyronear is a <b>complete fire risk management solution</b>. It consists of an <b>early wildfire detection algorithm</b>, implemented on a microcomputer, connected to <b>cameras positioned on high spots</b> with a view on the forest. Our detectors communicate <b>fire alerts<b> to a database that is connected to a <b>supervision platform</b> for the fire department."
