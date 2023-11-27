@@ -313,7 +313,12 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "Our catalan partner for the adaptation of our device to existing cameras"
-   
+      partner5:
+        title: "FORCE 06"
+        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+        logo: "/img/force06_logo.png"
+        content: "Our partner in the department of Alpes Maritimes to diversify field tests"
+
     sponsors:
       title: "Who supports us?"
       sponsor1:
@@ -433,6 +438,11 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "El nostre soci català per a l'adaptació del nostre dispositiu a les càmeres existents"
+      partner5:
+        title: "FORCE 06"
+        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+        logo: "/img/force06_logo.png"
+        content: "El nostre soci al departament dels Alpes Marítims per diversificar les proves de camp"
    
     sponsors:
       title: "Who supports us?"
@@ -553,6 +563,11 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "Nuestro partner catalán para la adaptación de las cámaras existentes"
+      partner5:
+        title: "FORCE 06"
+        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+        logo: "/img/force06_logo.png"
+        content: "Nuestro socio en el departamento de Alpes Marítimos diversificará las pruebas sobre el terreno"
    
     sponsors:
       title: "¿Quién nos apoya?"
