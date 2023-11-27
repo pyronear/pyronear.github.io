@@ -186,7 +186,11 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
-   
+      partner5:
+        title: "FORCE 06"
+        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+        logo: "/img/force06_logo.png"
+        content: "Notre partenaire des alpes maritimes afin de diversifier les tests terrains"   
    
     sponsors:
       title: "Qui nous soutient ?"
