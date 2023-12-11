@@ -104,6 +104,11 @@ medias:
       url: "https://www.youtube.com/watch?v=ZaBdnqnLVBg&ab_channel=TEDxTalks"
       logo: "/img/tedx-tours.png"
       height: 100
+    - 
+      title: "Le Monde"
+      url: "https://www.lemonde.fr/pixels/article/2023/10/17/avec-pyronear-un-systeme-d-intelligence-artificielle-sous-licence-libre-detecte-les-feux-de-foret-des-les-premieres-fumees_6194994_4408996.html"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/5/54/Le_monde_logo.svg"
+      width: 250
 
 # Translations
 t:
