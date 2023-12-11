@@ -9,18 +9,18 @@
   </div>
   <div class="container">
     <div class="row">
-      {% for truc in site.t.[layout.lang].partners.items %}
+      {% for partner in site.t.[layout.lang].partners.items %}
       <div class="col-md-4 text-center">
         <div class="service-box">
           <p class="emoji">
-            <a href="{{ truc.url }}">
-                <img alt="partner1-logo" src="{{ truc.logo }}" height=75>
+            <a href="{{ partner.url }}">
+                <img alt="partner1-logo" src="{{ partner.logo }}" height=75>
             </a>
           </p>
           <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
-          <h3>{{ truc.title }}</h3>
+          <h3>{{ partner.title }}</h3>
           <p class="text-muted">
-            {{ truc.content }}
+            {{ partner.content }}
           </p>
         </div>
       </div>
