@@ -9,59 +9,22 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-md-3 text-center">
+      {% for truc in site.t.[layout.lang].partners.items %}
+      <div class="col-md-4 text-center">
         <div class="service-box">
           <p class="emoji">
-            <a href="{{ site.t.[layout.lang].partners.partner1.url }}">
-                <img alt="partner1-logo" src="{{ site.t.[layout.lang].partners.partner1.logo }}" height=75>
+            <a href="{{ truc.url }}">
+                <img alt="partner1-logo" src="{{ truc.logo }}" height=75>
             </a>
           </p>
           <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
-          <h3>{{ site.t.[layout.lang].partners.partner1.title }}</h3>
+          <h3>{{ truc.title }}</h3>
           <p class="text-muted">
-            {{ site.t.[layout.lang].partners.partner1.content }}
+            {{ truc.content }}
           </p>
         </div>
       </div>
-      <div class="col-md-3 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ site.t.[layout.lang].partners.partner2.url }}">
-                <img alt="partner2-logo" src="{{ site.t.[layout.lang].partners.partner2.logo }}" height=80>
-            </a>
-          </p class="emoji">
-          <h3>{{ site.t.[layout.lang].partners.partner2.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].partners.partner2.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-3 text-center">
-         <div class="service-box">
-           <p class="emoji">
-            <a href="{{ site.t.[layout.lang].partners.partner3.url }}">
-                <img alt="partner3-logo" src="{{ site.t.[layout.lang].partners.partner3.logo }}" height=60>
-            </a>
-           </p class="emoji">
-          <h3>{{ site.t.[layout.lang].partners.partner3.title }}</h3>
-          <p class="text-muted">
-            {{ site.t.[layout.lang].partners.partner3.content }}
-          </p>
-        </div>
-      </div>
-      <div class="col-md-3 text-center">
-        <div class="service-box">
-          <p class="emoji">
-           <a href="{{ site.t.[layout.lang].partners.partner4.url }}">
-               <img alt="partner4-logo" src="{{ site.t.[layout.lang].partners.partner4.logo }}" height=75>
-           </a>
-          </p class="emoji">
-         <h3>{{ site.t.[layout.lang].partners.partner4.title }}</h3>
-         <p class="text-muted">
-           {{ site.t.[layout.lang].partners.partner4.content }}
-         </p>
-       </div>
-     </div>
+      {% endfor %}
     </div>
   </div>
 </section>
