@@ -9,12 +9,17 @@
   </div>
   <div class="container">
     <div class="row">
-      {% for sponsor in site.t.[layout.lang]..sponsors..items %}
+      {% for sponsor in site.t.[layout.lang].sponsors.items %}
       <div class="col-md-4 text-center">
         <div class="service-box">
           <p class="emoji">
             <a href="{{ sponsor.url }}">
-              <img alt="sponsor1-logo" src="{{ sponsor.logo }}" width=100>
+                <img 
+                  alt="{{ sponsor.title }}-logo"
+                  src="{{ sponsor.logo }}"
+                  width="{{ sponsor.width }}"
+                  height="{{ sponsor.height }}"
+                />
             </a>
           </p>
           <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
