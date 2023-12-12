@@ -195,7 +195,7 @@ t:
           url: "https://subirats.cat/adfsubirats/"
           logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
           content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
-          height: 75
+          height: 80
         - 
           title: "FORCE 06"
           url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
@@ -311,14 +311,12 @@ t:
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
         content: "Our first partner for requirements gathering and field experimentation"
         height: 75
-
       -
         title: "Engie Green"
         url: "https://www.engie-green.fr/"
         logo: "https://www.editions-strategiques.com/wp-content/uploads/2022/11/News-base_016-7-1024x566.jpg"
         content: "Our first private partner, with whom we are conducting an experiment in Gironde"
-        height: 80
-
+        height: 60
       -
         title: "CENIA"
         url: "https://cenia.cl/"
@@ -330,7 +328,7 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "Our catalan partner for the adaptation of our device to existing cameras"
-        height: 75
+        height: 80
       -
         title: "FORCE 06"
         url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
@@ -461,7 +459,7 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "El nostre soci català per a l'adaptació del nostre dispositiu a les càmeres existents"
-        height: 75
+        height: 80
       -
         title: "FORCE 06"
         url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
@@ -592,7 +590,7 @@ t:
         url: "https://subirats.cat/adfsubirats/"
         logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
         content: "Nuestro partner catalán para la adaptación de las cámaras existentes"
-        height: 75
+        height: 80
       -
         title: "FORCE 06"
         url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
