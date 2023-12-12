@@ -195,31 +195,32 @@ t:
    
     sponsors:
       title: "Qui nous soutient ?"
-      sponsor1:
-        title: "Data for Good"
-        url: "https://dataforgood.fr/"
-        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-        content: "Membre de la saison 6, 8 et 10 de Data for Good, c'est là que Pyronear a vu le jour parmi de nombreux projets d'intérêt général."
-      sponsor2:
-        title: "Atraksis"
-        url: "https://atraksis.fr/"
-        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
-      sponsor3:
-        title: "Fondation M33"
-        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "/img/m33_foundation.jpeg"
-        content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
-      sponsor4:
-        title: "Hi!Paris"
-        url: "https://www.hi-paris.fr/"
-        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
-        content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
-      sponsor5:
-        title: "DINUM"
-        url: "https://www.sdis07.fr/"
-        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-        content: "Qui nous accompagne via l’Accélérateur d’initiatives citoyennes"
+      items:
+        -
+          title: "Data for Good"
+          url: "https://dataforgood.fr/"
+          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          content: "Membre de la saison 6, 8 et 10 de Data for Good, c'est là que Pyronear a vu le jour parmi de nombreux projets d'intérêt général."
+        -
+          title: "Atraksis"
+          url: "https://atraksis.fr/"
+          logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
+          content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
+        -
+          title: "Fondation M33"
+          url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+          logo: "/img/m33_foundation.jpeg"
+          content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
+        -
+          title: "Hi!Paris"
+          url: "https://www.hi-paris.fr/"
+          logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+          content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
+        -
+          title: "DINUM"
+          url: "https://www.sdis07.fr/"
+          logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+          content: "Qui nous accompagne via l’Accélérateur d’initiatives citoyennes"
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -317,31 +318,32 @@ t:
    
     sponsors:
       title: "Who supports us?"
-      sponsor1:
-        title: "Data for Good"
-        url: "https://dataforgood.fr/"
-        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-        content: "Part of the 6th, 8th and 10th acceleration seasons of Data for Good, it is the birth place of Pyronear among many other common good projects."
-      sponsor2:
-        title: "Atraksis"
-        url: "https://atraksis.fr/"
-        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "A stakeholder for rescue innovation, and our point of contact with firefighters."
-      sponsor3:
-        title: "Fondation M33"
-        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "/img/m33_foundation.jpeg"
-        content: "Who supports us humanly and financially through corporate sponsorship"
-      sponsor4:
-        title: "Hi!Paris"
-        url: "https://www.hi-paris.fr/"
-        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
-        content: "Which helps us with its human resources and its connection with the academic world"
-      sponsor5:
-        title: "DINUM"
-        url: "https://www.sdis07.fr/"
-        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-        content: "Who supports us through the Citizen Initiative Accelerator"
+      items:
+        -
+          title: "Data for Good"
+          url: "https://dataforgood.fr/"
+          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          content: "Part of the 6th, 8th and 10th acceleration seasons of Data for Good, it is the birth place of Pyronear among many other common good projects."
+        -
+          title: "Atraksis"
+          url: "https://atraksis.fr/"
+          logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
+          content: "A stakeholder for rescue innovation, and our point of contact with firefighters."
+        -
+          title: "Fondation M33"
+          url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+          logo: "/img/m33_foundation.jpeg"
+          content: "Who supports us humanly and financially through corporate sponsorship"
+        -
+          title: "Hi!Paris"
+          url: "https://www.hi-paris.fr/"
+          logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+          content: "Which helps us with its human resources and its connection with the academic world"
+        -
+          title: "DINUM"
+          url: "https://www.sdis07.fr/"
+          logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+          content: "Who supports us through the Citizen Initiative Accelerator"
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -437,31 +439,32 @@ t:
    
     sponsors:
       title: "Who supports us?"
-      sponsor1:
-        title: "Data for Good"
-        url: "https://dataforgood.fr/"
-        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-        content: "Part de les temporades d'acceleració 6a, 8a i 10a de Data for Good, és el lloc de naixement de Pyronear entre molts altres projectes de bé comú."
-      sponsor2:
-        title: "Atraksis"
-        url: "https://atraksis.fr/"
-        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
-      sponsor3:
-        title: "Fondation M33"
-        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "/img/m33_foundation.jpeg"
-        content: "Qui ens recolza humana i econòmicament a través del patrocini corporatiu"
-      sponsor4:
-        title: "Hi!Paris"
-        url: "https://www.hi-paris.fr/"
-        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
-        content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
-      sponsor5:
-        title: "DINUM"
-        url: "https://www.sdis07.fr/"
-        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-        content: "Qui ens dóna suport a través de l'Acceleradora d'Iniciatives Ciutadanes"
+      items:
+        -        
+          title: "Data for Good"
+          url: "https://dataforgood.fr/"
+          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          content: "Part de les temporades d'acceleració 6a, 8a i 10a de Data for Good, és el lloc de naixement de Pyronear entre molts altres projectes de bé comú."
+        -
+          title: "Atraksis"
+          url: "https://atraksis.fr/"
+          logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
+          content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
+        -
+          title: "Fondation M33"
+          url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+          logo: "/img/m33_foundation.jpeg"
+          content: "Qui ens recolza humana i econòmicament a través del patrocini corporatiu"
+        -
+          title: "Hi!Paris"
+          url: "https://www.hi-paris.fr/"
+          logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+          content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
+        -
+          title: "DINUM"
+          url: "https://www.sdis07.fr/"
+          logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+          content: "Qui ens dóna suport a través de l'Acceleradora d'Iniciatives Ciutadanes"
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -557,31 +560,32 @@ t:
    
     sponsors:
       title: "¿Quién nos apoya?"
-      sponsor1:
-        title: "Data for Good"
-        url: "https://dataforgood.fr/"
-        logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
-        content: "Parte de las temporadas de aceleración 6, 8 y 10 de Data for Good, es el lugar de nacimiento de Pyronear entre muchos otros proyectos de bien común."
-      sponsor2:
-        title: "Atraksis"
-        url: "https://atraksis.fr/"
-        logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
-        content: "Una parte interesada en la innovación de rescate y nuestro punto de contacto con los bomberos."
-      sponsor3:
-        title: "Fondation M33"
-        url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
-        logo: "/img/m33_foundation.jpeg"
-        content: "Quien nos apoya humana y financieramente a través del patrocinio corporativo"
-      sponsor4:
-        title: "Hi!Paris"
-        url: "https://www.hi-paris.fr/"
-        logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
-        content: "Lo cual nos ayuda con sus recursos humanos y su vinculación con el mundo académico."
-      sponsor5:
-        title: "DINUM"
-        url: "https://www.sdis07.fr/"
-        logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-        content: "Quién nos apoya a través de la Aceleradora de Iniciativa Ciudadana"
+      items:
+        -
+          title: "Data for Good"
+          url: "https://dataforgood.fr/"
+          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          content: "Parte de las temporadas de aceleración 6, 8 y 10 de Data for Good, es el lugar de nacimiento de Pyronear entre muchos otros proyectos de bien común."
+        -
+          title: "Atraksis"
+          url: "https://atraksis.fr/"
+          logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
+          content: "Una parte interesada en la innovación de rescate y nuestro punto de contacto con los bomberos."
+        -
+          title: "Fondation M33"
+          url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
+          logo: "/img/m33_foundation.jpeg"
+          content: "Quien nos apoya humana y financieramente a través del patrocinio corporativo"
+        -
+          title: "Hi!Paris"
+          url: "https://www.hi-paris.fr/"
+          logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
+          content: "Lo cual nos ayuda con sus recursos humanos y su vinculación con el mundo académico."
+        -
+          title: "DINUM"
+          url: "https://www.sdis07.fr/"
+          logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
+          content: "Quién nos apoya a través de la Aceleradora de Iniciativa Ciudadana"
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
