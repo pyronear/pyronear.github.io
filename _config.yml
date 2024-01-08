@@ -109,6 +109,12 @@ medias:
       url: "https://www.lemonde.fr/pixels/article/2023/10/17/avec-pyronear-un-systeme-d-intelligence-artificielle-sous-licence-libre-detecte-les-feux-de-foret-des-les-premieres-fumees_6194994_4408996.html"
       logo: "https://upload.wikimedia.org/wikipedia/commons/5/54/Le_monde_logo.svg"
       width: 250
+    - 
+      title: "Techniques de l'ingenieur"
+      url: "https://www.techniques-ingenieur.fr/actualite/articles/comment-lia-permet-de-detecter-plus-rapidement-les-incendies-129238/?utm_source=linkedin&utm_medium=social&utm_campaign=72-WM-FY1LKDN&utm_content=ap_qgnbyezfjr"
+      logo: "https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v2.1.0/images/logo-eti.png"
+      width: 250
+      
 
 # Translations
 t:
