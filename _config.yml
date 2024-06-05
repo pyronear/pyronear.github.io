@@ -240,7 +240,7 @@ t:
           title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-          content: "Qui nous accompagne via l’Accélérateur d’initiatives citoyennes"
+          content: "Qui nous accompagne via Etalab et l’Accélérateur d’initiatives citoyennes"
           height: 100
         - 
           title: "Elaia"
@@ -385,7 +385,7 @@ t:
           title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-          content: "Who supports us through the Citizen Initiative Accelerator"
+          content: "Who supports us through Etalab and the Citizen Initiative Accelerator"
           height: 100
         - 
           title: "Elaia"
@@ -528,7 +528,7 @@ t:
           title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-          content: "Qui ens dóna suport a través de l'Acceleradora d'Iniciatives Ciutadanes"
+          content: "Qui ens dóna suport a través de Etalab i de l'Acceleradora d'Iniciatives Ciutadanes"
           width: 100
         - 
           title: "Elaia"
@@ -671,7 +671,7 @@ t:
           title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
-          content: "Quién nos apoya a través de la Aceleradora de Iniciativa Ciudadana"
+          content: "Quién nos apoya a través de Etalab y de la Aceleradora de Iniciativa Ciudadana"
           height: 100
         - 
           title: "Elaia"
