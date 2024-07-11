@@ -548,6 +548,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Que ens donen suport participant en el seu programa \"Study Project\" per implicar els estudiants en projectes tècnics, amb un mentor"
+          height: 50
     contactForm:
       title: "Protegim els nostres boscos"
       email:
