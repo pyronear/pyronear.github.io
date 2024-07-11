@@ -248,6 +248,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
           width: 150
+        - 
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Qui nous soutient en participant à leur programme \"Study Project\" pour impliquer les étudiants dans des projets techniques, avec un mentor"
+          height: 50
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -393,6 +399,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Which supports us financially via its endowment fund and provides its financial expertise"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Who supports us by taking part in their program \"Study Project\" to involve students in technical projects, with a mentor"
+          height: 50
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -679,6 +691,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Que nos apoyan participando en su programa \"Proyecto de Estudio\" para implicar a los estudiantes en proyectos técnicos, con un mentor"
+          height: 50
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
