@@ -62,7 +62,7 @@ medias:
     - 
       title: "Lauréat Prix Epe"
       url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-      logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      logo: "/img/logo-epe-asso.org_.png"
       height: 75
     - 
       title: "Blog de Qarnot"
