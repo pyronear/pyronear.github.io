@@ -45,6 +45,11 @@ plugins:
 medias:
   items: 
     -
+      title: "Article Les Echos"
+      url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
+      logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
+      width: 200
+    -
       title: "PyTorch Ecosystem Day"
       url: "https://assets.pytorch.org/pted2021/posters/B8.png"
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
