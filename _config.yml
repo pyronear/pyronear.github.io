@@ -45,6 +45,11 @@ plugins:
 medias:
   items: 
     -
+      title: "Retour d'expérience Elitys"
+      url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
+      logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
+      width: 200
+    -
       title: "PyTorch Ecosystem Day"
       url: "https://assets.pytorch.org/pted2021/posters/B8.png"
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
