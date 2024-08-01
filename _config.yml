@@ -45,6 +45,11 @@ plugins:
 medias:
   items: 
     -
+      title: "Retour d'expérience Elitys"
+      url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
+      logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
+      width: 200
+    -
       title: "Article Sécurité&Défense Magazine"
       url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
       logo: "https://sd-magazine.com/wp-content/uploads/2017/02/logo.png"
