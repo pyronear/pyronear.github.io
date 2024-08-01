@@ -49,6 +49,11 @@ medias:
       url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
       logo: "https://sd-magazine.com/wp-content/uploads/2017/02/logo.png"
       width: 150
+    - 
+      title: "Article Les Echos"
+      url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
+      logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
+      width: 200
     -
       title: "PyTorch Ecosystem Day"
       url: "https://assets.pytorch.org/pted2021/posters/B8.png"
@@ -67,7 +72,7 @@ medias:
     - 
       title: "Lauréat Prix Epe"
       url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-      logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png"
+      logo: "/img/logo-epe-asso.org_.png"
       height: 75
     - 
       title: "Blog de Qarnot"
@@ -253,6 +258,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
           width: 150
+        - 
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Qui nous soutient en participant à leur programme \"Study Project\" pour impliquer les étudiants dans des projets techniques, avec un mentor"
+          height: 50
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -398,6 +409,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Which supports us financially via its endowment fund and provides its financial expertise"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Who supports us by taking part in their program \"Study Project\" to involve students in technical projects, with a mentor"
+          height: 50
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -541,6 +558,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Que ens donen suport participant en el seu programa \"Study Project\" per implicar els estudiants en projectes tècnics, amb un mentor"
+          height: 50
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -684,6 +707,12 @@ t:
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
           width: 150
+        -
+          title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: "Que nos apoyan participando en su programa \"Proyecto de Estudio\" para implicar a los estudiantes en proyectos técnicos, con un mentor"
+          height: 50
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
