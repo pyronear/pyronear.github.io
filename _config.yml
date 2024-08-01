@@ -45,6 +45,11 @@ plugins:
 medias:
   items: 
     -
+      title: "Article Sécurité&Défense Magazine"
+      url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
+      logo: "https://sd-magazine.com/wp-content/uploads/2017/02/logo.png"
+      width: 150
+    - 
       title: "Article Les Echos"
       url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
       logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
