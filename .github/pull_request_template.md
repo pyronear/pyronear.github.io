@@ -18,6 +18,6 @@ Deepl used for translation in :
 If your modification consists in adding a [media](https://github.com/pyronear/pyronear.github.io/blob/d1a78ae83236f2af79e7edb133ac959fcc7123f4/_config.yml#L45) info, please add it at the top of the list (the most recent to appears first)
 
 ### List order for sponsors and partners
-Reversely, if your odification consists in adding a [sponsor](https://github.com/pyronear/pyronear.github.io/blob/d1a78ae83236f2af79e7edb133ac959fcc7123f4/_config.yml#L227) or [partner](https://github.com/pyronear/pyronear.github.io/blob/d1a78ae83236f2af79e7edb133ac959fcc7123f4/_config.yml#L193C5-L193C13), please add it at the end of the list
+Reversely, if your modification consists in adding a [sponsor](https://github.com/pyronear/pyronear.github.io/blob/d1a78ae83236f2af79e7edb133ac959fcc7123f4/_config.yml#L227) or [partner](https://github.com/pyronear/pyronear.github.io/blob/d1a78ae83236f2af79e7edb133ac959fcc7123f4/_config.yml#L193C5-L193C13), please add it at the end of the list
 
 🥳 Thanks a lot for your contribution 🎆
