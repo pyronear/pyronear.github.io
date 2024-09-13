@@ -228,7 +228,7 @@ t:
           url: "https://www.sdis12.fr/"
           logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
           content: "Notre partenaire dans l'Aveyron afin de diversifier les tests terrains"
-          height: 75
+          height: 125
         -
           title: "SDIS 77"
           url: "https://www.sdis77.fr/"
@@ -391,7 +391,7 @@ t:
         url: "https://www.sdis12.fr/"
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
         content: "Our partner in Aveyron to diversify field tests"
-        height: 75
+        height: 125
       -
         title: "SDIS 77"
         url: "https://www.sdis77.fr/"
@@ -552,7 +552,7 @@ t:
         url: "https://www.sdis12.fr/"
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
         content: "El nostre soci a Aveyron per diversificar les proves de camp"
-        height: 75
+        height: 125
       -
         title: "SDIS 77"
         url: "https://www.sdis77.fr/"
@@ -713,7 +713,7 @@ t:
         url: "https://www.sdis12.fr/"
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
         content: "Nuestro socio en Aveyron diversificará las pruebas sobre el terreno"
-        height: 75
+        height: 125
       -
         title: "SDIS 77"
         url: "https://www.sdis77.fr/"
