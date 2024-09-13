@@ -52,8 +52,8 @@ medias:
     -
       title: "Article Sécurité&Défense Magazine"
       url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
-      logo: "https://sd-magazine.com/wp-content/uploads/2017/02/logo.png"
-      width: 150
+      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq8zHVdmsjKb2GNmDWzU_G-FCRR_kH_fxiw&s"
+      width: 200
     - 
       title: "Article Les Echos"
       url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
@@ -193,6 +193,18 @@ t:
     partners:
       title: "Avec qui on travaille?"
       items:
+        -
+          title: "SDIS 12"
+          url: "https://www.sdis12.fr/"
+          logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+          content: "Notre partenaire dans l'Aveyron afin de diversifier les tests terrains"
+          height: 75
+        -
+          title: "SDIS 77"
+          url: "https://www.sdis77.fr/"
+          logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+          content: "Notre partenaire en Seine&Marne afin de diversifier les tests terrains"
+          height: 75
         - 
           title: "SDIS 07"
           url: "https://www.sdis07.fr/"
@@ -345,6 +357,18 @@ t:
       title: "Who do we work with?"
       items:
       -
+        title: "SDIS 12"
+        url: "https://www.sdis12.fr/"
+        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+        content: "Our partner in Aveyron to diversify field tests"
+        height: 75
+      -
+        title: "SDIS 77"
+        url: "https://www.sdis77.fr/"
+        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+        content: "Our partner in Seine&Marne to diversify field tests"
+        height: 75
+      -
         title: "SDIS 07"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
@@ -494,6 +518,18 @@ t:
       title: "Amb qui treballem?"
       items:
       -
+        title: "SDIS 12"
+        url: "https://www.sdis12.fr/"
+        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+        content: "El nostre soci a Aveyron per diversificar les proves de camp"
+        height: 75
+      -
+        title: "SDIS 77"
+        url: "https://www.sdis77.fr/"
+        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+        content: "El nostre soci a Seine&Marne per diversificar les proves de camp"
+        height: 75
+      -
         title: "SDIS 07"
         url: "https://www.sdis07.fr/"
         logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
@@ -642,6 +678,18 @@ t:
     partners:
       title: "¿Con quién trabajamos?"
       items:
+      -
+        title: "SDIS 12"
+        url: "https://www.sdis12.fr/"
+        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+        content: "Nuestro socio en Aveyron diversificará las pruebas sobre el terreno"
+        height: 75
+      -
+        title: "SDIS 77"
+        url: "https://www.sdis77.fr/"
+        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+        content: "Nuestro socio en Seine&Marne diversificará las pruebas sobre el terreno"
+        height: 75
       -
         title: "SDIS 07"
         url: "https://www.sdis07.fr/"
