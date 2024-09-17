@@ -4,6 +4,19 @@ Pyronear's official website.
 
 Preserving forests from wildfires one commit at a time
 
+## Serving with docker
+
+Make sure you have docker and the compose plugin installed.
+Get into the root folder using your favorite shell and:
+
+```shell
+docker compose up
+```
+
+That's it! Now head to http://{your-server}:4000
+
+You can stop (ctrl+C) and relaunch the command to refresh the website after changing the _config.yml file.
+
 ## Prerequisite
 
 Be sure to set [Jekyll](https://jekyllrb.com/) up and running, and then install the plugins as follows:
