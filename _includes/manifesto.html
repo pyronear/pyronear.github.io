@@ -13,7 +13,7 @@
 
           <div class="container text-muted ">
 
-            <!-- Première ligne avec plus de cartes -->
+            <!-- 1st line with 3 cards -->
             <div class="row center-flex">
               {% assign cards = "card1,card2,card8" | split: "," %}
               {% for card in cards %}
@@ -27,7 +27,7 @@
               {% endfor %}
             </div>
 
-            <!-- Deuxième ligne avec moins de cartes -->
+            <!-- 2st line with 2 cards  -->
             <div class="row small-row center-flex py-md-3">
               {% assign cards = "card6,card5" | split: "," %}
               {% for card in cards %}
