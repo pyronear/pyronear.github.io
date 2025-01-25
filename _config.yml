@@ -14,13 +14,12 @@ twitter: # Card customization
 
 social:
   links:
-    - https://twitter.com/pyro_near
+    - https://bsky.app/profile/pyronear.bsky.social  # BlueSky link
     - https://www.facebook.com/pyronear
     - https://www.linkedin.com/company/37560523
     - https://github.com/pyronear
 
-
-twitter_username: pyro_near
+twitter_username: # Remove or update if necessary
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
