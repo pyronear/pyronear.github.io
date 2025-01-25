@@ -175,6 +175,11 @@ t:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modulable" 
         content: "Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
+      card8:
+        icon_src: "/img/cards_icons/share.svg"
+        title: "Open data" 
+        content: "Nous construisons à l’aide de nos partenaires et bénévoles, un dataset que nous partageons en open data, afin que les images collectées et annotées puissent servir au plus grande nombre."
+
     steps:
       title: "Comment ça marche ?"
       text1: "Pyronear est une <b>solution complète de gestion du risque incendie</b>. Elle est constituée d’un <b>algorithme de détection</b> précoce des départs de feu, implémenté sur un micro ordinateur, connecté à des <b>caméras positionnées sur des points hauts</b> avec vue sur la forêt. Nos détecteurs communiquent les <b>alertes de détection de départ de feu</b> à une base de données elle-même connectée à une <b>plateforme de supervision</b> à destination des pompiers. "
