@@ -5,3 +5,4 @@ rocket.svg CC BY 4.0 https://iconduck.com/icons/22306/rocket
 eco.scg Apache 2 https://iconduck.com/icons/28790/eco 
 savings-solid.svg MIT https://iconduck.com/icons/100582/savings-solid
 grid-view-solid.svg MIT https://iconduck.com/icons/100862/grid-view-solid
+share.svg MIT https://iconduck.com/icons/109278/share
