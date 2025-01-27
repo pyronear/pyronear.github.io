@@ -155,6 +155,11 @@ t:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modulable"
         content: "Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
+      card8:
+        icon_src: "/img/cards_icons/share.svg"
+        title: "Open data" 
+        content: "Nous construisons à l’aide de nos partenaires et bénévoles, un dataset que nous partageons en open data, afin que les images collectées et annotées puissent servir au plus grand nombre."
+
     steps:
       title: "Comment ça marche ?"
       text1: "Pyronear est une <b>solution complète de gestion du risque incendie</b>. Elle est constituée d’un <b>algorithme de détection</b> précoce des départs de feu, implémenté sur un micro ordinateur, connecté à des <b>caméras positionnées sur des points hauts</b> avec vue sur la forêt. Nos détecteurs communiquent les <b>alertes de détection de départ de feu</b> à une base de données elle-même connectée à une <b>plateforme de supervision</b> à destination des pompiers. "
@@ -304,6 +309,10 @@ t:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modular"
         content: "We offer a complete detection pipeline but our system has been designed to work with existing equipment (use of cameras already in place, connection with existing software ...)"
+      card8:
+        icon_src: "/img/cards_icons/share.svg"
+        title: "Open data" 
+        content: "With the help of our partners and volunteers, we are building a dataset that we are sharing as Open Data, so that the images collected and annotated can be used by as many people as possible."
     steps:
       title: "How does it work?"
       text1: "Pyronear is a <b>complete fire risk management solution</b>. It consists of an <b>early wildfire detection algorithm</b>, implemented on a microcomputer, connected to <b>cameras positioned on high spots</b> with a view on the forest. Our detectors communicate <b>fire alerts<b> to a database that is connected to a <b>supervision platform</b> for the fire department."
@@ -451,6 +460,10 @@ t:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modular"
         content: "Oferim un sistema de detecció complet però el nostre dispositiu ha estat dissenyat per funcionar amb equips existents (ús de càmeres ja instal·lades, connexió amb programari existent...)"
+      card8:
+        icon_src: "/img/cards_icons/share.svg"
+        title: "Open data" 
+        content: "Amb l'ajuda dels nostres socis i voluntaris, estem construint un conjunt de dades que compartim com a Open Data, de manera que les imatges recollides i anotades puguin ser utilitzades per tantes persones com sigui possible."
     steps:
       title: "Com funciona ?"
       text1: "Pyronear és un <b>solució completa de gestió del risc d'incendi</b>. Consta d'un <b>algorisme de detecció precoç d'incendis forestals</b>, implementat en un microordinador, connectat a <b>càmeres col·locades en punts alts</b> amb vistes al bosc. Els nostres detectors es comuniquen <b>alertes d'incendi<b> a una base de dades connectada a <b>plataforma de supervisió</b> per al cos de bombers."
@@ -597,6 +610,10 @@ t:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
         title: "Modular"
         content: "Ofrecemos un sistema de detección completo pero nuestro dispositivo ha sido diseñado para trabajar con equipos existentes (uso de cámaras ya instaladas, conexión con software existente...)"
+      card8:
+        icon_src: "/img/cards_icons/share.svg"
+        title: "Open data" 
+        content: "Con la ayuda de nuestros asociados y voluntarios, estamos construyendo un banco de datos que compartimos como Open Data, para que las imágenes recogidas y anotadas puedan ser utilizadas por el mayor número posible de personas."
     steps:
       title: "Como funciona ?"
       text1: "Pironear es un <b>solución completa de gestión de riesgos de incendio</b>. consiste en un <b>early algoritmo de detección de incendios forestales</b>, implementado en una microcomputadora, conectada a <b>cámaras colocadas en puntos altos</b> con vista al bosque. Nuestros detectores se comunican <b>alertas de incendios<b> a una base de datos que está conectada a un <b>plataforma de supervisión</b> para el cuerpo de bomberos."

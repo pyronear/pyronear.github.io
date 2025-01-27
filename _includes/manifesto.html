@@ -13,9 +13,9 @@
 
           <div class="container text-muted ">
 
-            <!-- Première ligne avec plus de cartes -->
+            <!-- 1st line with 3 cards -->
             <div class="row center-flex">
-              {% assign cards = "card1,card2,card3,card4" | split: "," %}
+              {% assign cards = "card1,card2,card8" | split: "," %}
               {% for card in cards %}
                 <div class="col-md-3 col-sm-6 column-flex">
                   <div class="custom-panel column-flex">
@@ -27,9 +27,23 @@
               {% endfor %}
             </div>
 
-            <!-- Deuxième ligne avec moins de cartes -->
+            <!-- 2st line with 2 cards  -->
             <div class="row small-row center-flex py-md-3">
-              {% assign cards = "card5,card6,card7" | split: "," %}
+              {% assign cards = "card6,card5" | split: "," %}
+              {% for card in cards %}
+                <div class="col-lg-3 col-md-6 column-flex">
+                  <div class="custom-panel column-flex">
+                      <img src="{{ site.t.[layout.lang].manifesto[card].icon_src }}" alt="Card icon" class="svg-icon">
+                      <h3>{{ site.t.[layout.lang].manifesto[card].title }}</h3>
+                      <p>{{ site.t.[layout.lang].manifesto[card].content }}</p>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+
+            <!-- 3d line with 3 cards  -->
+            <div class="row small-row center-flex py-md-3">
+              {% assign cards = "card3,card4,card7" | split: "," %}
               {% for card in cards %}
                 <div class="col-lg-3 col-md-6 column-flex">
                   <div class="custom-panel column-flex">
