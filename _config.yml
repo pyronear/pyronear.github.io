@@ -167,6 +167,19 @@ t:
       text2: "Nos tours de détection se composent de 4/5 caméras haute résolution et d’un micro ordinateur qui capture une image par caméra à intervalles réguliers puis l’analyse localement à l’aide de notre modèle de détection de feux de forêt. En cas de détection, le mode alerte est activé, toutes les images provenant de la caméra ayant détecté le feu sont alors envoyées à notre base de données via notre api, le protocole de communication que nous avons développé."
       image_src_2: "/img/model.png"
 
+    open-data:
+      title: "Pourquoi un dataset open data ?"
+      text1: "Notre algorithme de détection est un <b>modèle d’intelligence artificielle (IA)</b> entrainé sur de nombreuses <b>images de départ de feux</b>. C’est à dire que l’algorithme a été entrainé à reconnaître des fumées et flammes dans de nombreuses situations et sur différents territoires."
+      text2: "A cette fin, nous construisons <b>à l’aide de nos partenaires et bénévoles</b>, un <b>dataset</b> que nous partageons en <b>open data</b>, afin que les images collectées et annotées puissent servir au plus grande nombre. Ainsi, en mettant en commun ces ressources, nous augmentons les chances de préserver une autre ressource, les forêts et espaces naturels."
+      ds_title: "Dataset"
+      ds_text: "Retrouvez le dataset sur HuggingFace"
+      ds_image_src: "https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1738254654&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODI1NDY1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=BLGoo2g6%7EamylvgqUSyK4o6NABZ5EljtP0vjv5-Bj039Nxjcq7RJfu4U%7EfrZaKmrbH-II9LfA-X9YnS8te25qTTu6J2260v49zIcHmMJ1HIRNPVzzg1mSk7%7Ew6ZfGKdUsp6ugn4yAGD9ioUUh1hGbWMAFQ1VMhiaYPbYmDPFLbVezerXYe5CcsVMIq9QamyVRlpUWnzg-PRsw0kzMnhY5azBf18B4vPKJOq92wqqgtM4ZK2LtoQqJTlT0Dk9qe0WN-pyM5e1Rdtjuy7TFdo8IW9rov7clc5s-HKfDYUahcfEbbeG3wwsnWsONRAlt9bQcisJUU0X49K0pgHEuRD9Ew__&Key-Pair-Id=K3RPWS32NSSJCE"
+      ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
+      legal_notice_title: "Note Juridique"
+      legal_notice_text: "Vous êtes en SDIS et souhaitez partagez vos images de détections précoces ? Cette note juridique devrait vous intéresser !"
+      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_src: "/img/document.svg"
+
     callToAction:
       title: "Comment le mettre en place ?"
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
@@ -320,6 +333,19 @@ t:
       text2: "Our detection towers consist of 4/5 high resolution cameras and a micro computer. We capture one image per camera at regular intervals and then analyze it locally using our wildfire detection model. In case of detection, the alert mode is activated, all the images coming from the camera having detected the fire are then sent to our database via our api, the communication protocol we have developed."
       image_src_2: "/img/model.png"
 
+    open-data:
+      title: "Why an open data set?"
+      text1: "Our detection algorithm is an <b>artificial intelligence (AI)</b> model that has been trained on numerous <b>images of fire outbreaks</b>. In other words, the algorithm has been trained to recognise smoke and flames in numerous situations and in different areas."
+      text2: "To this end, <b>with the help of our partners and volunteers</b>, we are building a <b>dataset</b> that we are sharing in <b>open data</b>, so that the images collected and annotated can be used by as many people as possible. In this way, by sharing these resources, we are increasing the chances of preserving another resource: forests and natural areas."
+      ds_title: "Dataset"
+      ds_text: "Find the dataset on HuggingFace"
+      ds_image_src: "https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1738254654&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODI1NDY1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=BLGoo2g6%7EamylvgqUSyK4o6NABZ5EljtP0vjv5-Bj039Nxjcq7RJfu4U%7EfrZaKmrbH-II9LfA-X9YnS8te25qTTu6J2260v49zIcHmMJ1HIRNPVzzg1mSk7%7Ew6ZfGKdUsp6ugn4yAGD9ioUUh1hGbWMAFQ1VMhiaYPbYmDPFLbVezerXYe5CcsVMIq9QamyVRlpUWnzg-PRsw0kzMnhY5azBf18B4vPKJOq92wqqgtM4ZK2LtoQqJTlT0Dk9qe0WN-pyM5e1Rdtjuy7TFdo8IW9rov7clc5s-HKfDYUahcfEbbeG3wwsnWsONRAlt9bQcisJUU0X49K0pgHEuRD9Ew__&Key-Pair-Id=K3RPWS32NSSJCE"
+      ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
+      legal_notice_title: "Legal Notice"
+      legal_notice_text: "Are you a firefighter in France who wants to share your early detection images? This legal note should be of interest to you!"
+      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_src: "/img/document.svg"
+
     callToAction:
       title: "How to deploy it?"
       content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
@@ -471,6 +497,19 @@ t:
       text2: "Les nostres torres de detecció estan formades per 4/5 càmeres d'alta resolució i un micro ordinador. Capturem una imatge per càmera a intervals regulars i després l'analitzem localment mitjançant el nostre model de detecció d'incendis forestals. En cas de detecció, s'activa el mode d'alerta, totes les imatges procedents de la càmera després d'haver detectat l'incendi s'envien a la nostra base de dades a través de la nostra API, el protocol de comunicació que hem desenvolupat."
       image_src_2: "/img/model.png"
 
+    open-data:
+      title: "Per què un conjunt de dades obertes?"
+      text1: "El nostre algorisme de detecció és un <b>model d'intel·ligència artificial (IA)</b> entrenat en nombroses <b>imatges d'inici de foc</b>. És a dir, l'algorisme ha estat entrenat per reconèixer el fum i les flames. en moltes situacions i en diferents territoris."
+      text2: "Amb aquesta finalitat, estem construint <b>amb l'ajuda dels nostres socis i voluntaris</b>, un <b>conjunt de dades</b> que compartim en <b>dades obertes</b>, en per tal que les imatges recollides i anotades puguin ser utilitzades per tantes persones com sigui possible. Així, posant en comú aquests recursos, augmentem les possibilitats de preservar un altre recurs, boscos i espais naturals"
+      ds_title: "Dataset"
+      ds_text: "Trobeu el conjunt de dades a HuggingFace"
+      ds_image_src: "https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1738254654&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODI1NDY1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=BLGoo2g6%7EamylvgqUSyK4o6NABZ5EljtP0vjv5-Bj039Nxjcq7RJfu4U%7EfrZaKmrbH-II9LfA-X9YnS8te25qTTu6J2260v49zIcHmMJ1HIRNPVzzg1mSk7%7Ew6ZfGKdUsp6ugn4yAGD9ioUUh1hGbWMAFQ1VMhiaYPbYmDPFLbVezerXYe5CcsVMIq9QamyVRlpUWnzg-PRsw0kzMnhY5azBf18B4vPKJOq92wqqgtM4ZK2LtoQqJTlT0Dk9qe0WN-pyM5e1Rdtjuy7TFdo8IW9rov7clc5s-HKfDYUahcfEbbeG3wwsnWsONRAlt9bQcisJUU0X49K0pgHEuRD9Ew__&Key-Pair-Id=K3RPWS32NSSJCE"
+      ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
+      legal_notice_title: "Nota legal"
+      legal_notice_text: "Ets bomber a França i t'agradaria compartir les teves imatges de detecció precoç? Aquesta nota legal us hauria d'interessar!"
+      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_src: "/img/document.svg"
+
     callToAction:
       title: "Com desplegar-lo?"
       content: "Per obtenir més informació, poseu-vos en contacte amb nosaltres per correu electrònic o a les xarxes socials. Ens posarem en contacte amb vostè el més aviat possible."
@@ -620,6 +659,19 @@ t:
       image_src_1: "/img/solution.png"
       text2: "Nuestras torres de detección consisten en 4/5 cámaras de alta resolución y una microcomputadora. Capturamos una imagen por cámara a intervalos regulares y luego la analizamos localmente usando nuestro modelo de detección de incendios forestales. En caso de detección, se activa el modo de alerta, todas las imágenes provenientes de la cámara que detectó el incendio se envían a nuestra base de datos a través de nuestra api, el protocolo de comunicación que hemos desarrollado."
       image_src_2: "/img/model.png"
+
+    open-data:
+      title: "¿Por qué una base de datos abierta?"
+      text1: "Nuestro algoritmo de detección es un <b>modelo de inteligencia artificial (IA)</b> entrenado en un gran número de <b>imágenes de incendios</b>. En otras palabras, el algoritmo ha sido entrenado para reconocer el humo y las llamas en numerosas situaciones y en diferentes territorios."
+      text2: "Para ello, <b>con la ayuda de nuestros socios y voluntarios</b>, estamos construyendo <b>un conjunto de datos</b> que compartimos en <b>open data</b>, para que las imágenes recogidas y anotadas puedan ser utilizadas por el mayor número posible de personas. De este modo, al poner en común estos recursos, aumentamos las posibilidades de preservar otro recurso: los bosques y las zonas naturales."
+      ds_title: "Dataset"
+      ds_text: "Ver el conjunto de datos en HuggingFace"
+      ds_image_src: "https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/942cad1ccda905ac5a659dfd2d78b344fccfb84a8a3ac3721e08f488205638a0?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1738254654&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODI1NDY1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzk0MmNhZDFjY2RhOTA1YWM1YTY1OWRmZDJkNzhiMzQ0ZmNjZmI4NGE4YTNhYzM3MjFlMDhmNDg4MjA1NjM4YTA%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=BLGoo2g6%7EamylvgqUSyK4o6NABZ5EljtP0vjv5-Bj039Nxjcq7RJfu4U%7EfrZaKmrbH-II9LfA-X9YnS8te25qTTu6J2260v49zIcHmMJ1HIRNPVzzg1mSk7%7Ew6ZfGKdUsp6ugn4yAGD9ioUUh1hGbWMAFQ1VMhiaYPbYmDPFLbVezerXYe5CcsVMIq9QamyVRlpUWnzg-PRsw0kzMnhY5azBf18B4vPKJOq92wqqgtM4ZK2LtoQqJTlT0Dk9qe0WN-pyM5e1Rdtjuy7TFdo8IW9rov7clc5s-HKfDYUahcfEbbeG3wwsnWsONRAlt9bQcisJUU0X49K0pgHEuRD9Ew__&Key-Pair-Id=K3RPWS32NSSJCE"
+      ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
+      legal_notice_title: "Aviso legal"
+      legal_notice_text: "¿Trabaja para una SDIS en Francia y desea compartir sus imágenes de detección precoz? Esta nota legal debería interesarle."
+      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_src: "/img/document.svg"
 
     callToAction:
       title: "¿Cómo implementarlo?"
