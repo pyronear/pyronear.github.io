@@ -177,7 +177,7 @@ t:
       ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
       legal_notice_title: "Note Juridique"
       legal_notice_text: "Vous êtes en SDIS et souhaitez partagez vos images de détections précoces ? Cette note juridique devrait vous intéresser !"
-      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_url: "https://pyronear.notion.site/Notes-de-synth-se-FAQ-du-webinaire-open-data-DINUM-SDIS-MSP-18c425b63668806cb5dbc7a35d7452b4"
       legal_notice_src: "/img/document.svg"
 
     callToAction:
@@ -343,7 +343,7 @@ t:
       ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
       legal_notice_title: "Legal Notice"
       legal_notice_text: "Are you a firefighter in France who wants to share your early detection images? This legal note should be of interest to you!"
-      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_url: "https://pyronear.notion.site/Notes-de-synth-se-FAQ-du-webinaire-open-data-DINUM-SDIS-MSP-18c425b63668806cb5dbc7a35d7452b4"
       legal_notice_src: "/img/document.svg"
 
     callToAction:
@@ -507,7 +507,7 @@ t:
       ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
       legal_notice_title: "Nota legal"
       legal_notice_text: "Ets bomber a França i t'agradaria compartir les teves imatges de detecció precoç? Aquesta nota legal us hauria d'interessar!"
-      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_url: "https://pyronear.notion.site/Notes-de-synth-se-FAQ-du-webinaire-open-data-DINUM-SDIS-MSP-18c425b63668806cb5dbc7a35d7452b4"
       legal_notice_src: "/img/document.svg"
 
     callToAction:
@@ -670,7 +670,7 @@ t:
       ds_url: "https://huggingface.co/datasets/pyronear/pyro-sdis"
       legal_notice_title: "Aviso legal"
       legal_notice_text: "¿Trabaja para una SDIS en Francia y desea compartir sus imágenes de detección precoz? Esta nota legal debería interesarle."
-      legal_notice_url: "URL NOTICE SITE NOTION"
+      legal_notice_url: "https://pyronear.notion.site/Notes-de-synth-se-FAQ-du-webinaire-open-data-DINUM-SDIS-MSP-18c425b63668806cb5dbc7a35d7452b4"
       legal_notice_src: "/img/document.svg"
 
     callToAction:
