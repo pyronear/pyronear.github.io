@@ -50,7 +50,7 @@
       return {data: formData, honeypot: honeypot};
     }
   
-    function handleFormSubmit(event) {  // handles form submit without any jquery
+    async function handleFormSubmit(event) {  // handles form submit without any jquery
       event.preventDefault();           // we are submitting via xhr below
       var form = event.target;
       var formData = getFormData(form);
@@ -58,6 +58,17 @@
   
       // If a honeypot field is filled, assume it was done so by a spam bot.
       if (formData.honeypot) {
+        return false;
+      }
+
+      /* BOTS DETECTION USING RECAPTCHA3 */
+      const clientId = '6LdEaA4qAAAAACDNhU72_De3d9dNhGJ87dKyuFby';
+      const token = await window.grecaptcha.execute(clientId, { action: 'submit' }); // get token from recatpcha frontend client
+      const captchaResult = await (await fetch(`https://script.google.com/macros/s/AKfycbxRKmuN_AoP_4gzvsio4L101YCcI_1n1XUWB1YMgHKqhZDSEeayxJXo7wRks24PMKhe/exec?token=${token}`)).json(); // retrieve result from recaptcha's backend script
+      const { score } = captchaResult;
+      // score is a float between 0 and 1 (1 = certainly a human; 0 = certainly a robot)
+      if (score < 0.5) {
+        alert('BEGONE, BOT !');
         return false;
       }
   
