@@ -8,9 +8,6 @@ languages: ["fr", "en", "es", "es-ct"]
 base-url: ""
 
 # Social media
-twitter: # Card customization
-  username: pyro_near
-  card: summary
 
 social:
   links:
