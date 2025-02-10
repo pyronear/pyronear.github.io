@@ -3,24 +3,18 @@ title: Pyronear
 description: "Détection précoce de feux de forêt" # this means to ignore newlines until "baseurl:"
 author: Pyronear
 url: "https://pyronear.org/" # the base hostname & protocol for your site
-lang: fr 
+lang: fr
 languages: ["fr", "en", "es", "es-ct"]
 base-url: ""
 
 # Social media
-twitter: # Card customization
-  username: pyro_near
-  card: summary
 
 social:
   links:
-    - https://twitter.com/pyro_near
     - https://www.facebook.com/pyronear
     - https://www.linkedin.com/company/37560523
     - https://github.com/pyronear
 
-
-twitter_username: pyro_near
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
@@ -33,7 +27,6 @@ locale: fr_FR
 google_site_verification: NRZ27lDopfjKH3Lx1eWvh6WczAGh0hgqVg0AtB-ZK6c
 google_analytics: UA-179976746-1
 
-
 # Build settings
 markdown: kramdown
 
@@ -43,93 +36,75 @@ plugins:
   - jekyll-sitemap
 
 medias:
-  items: 
-    -
-      title: "Retour d'expérience Elitys"
+  items:
+    - title: "Retour d'expérience Elitys"
       url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
       logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
       width: 200
-    -
-      title: "Article Sécurité&Défense Magazine"
+    - title: "Article Sécurité&Défense Magazine"
       url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
       logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq8zHVdmsjKb2GNmDWzU_G-FCRR_kH_fxiw&s"
       width: 200
-    - 
-      title: "Article Les Echos"
+    - title: "Article Les Echos"
       url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
       logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
       width: 200
-    -
-      title: "PyTorch Ecosystem Day"
+    - title: "PyTorch Ecosystem Day"
       url: "https://assets.pytorch.org/pted2021/posters/B8.png"
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
       width: 200
-    - 
-      title: "Présentation DataXdays 2021"
+    - title: "Présentation DataXdays 2021"
       url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
       logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
       height: 75
-    - 
-      title: "Article Le Parisien"
+    - title: "Article Le Parisien"
       url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
       logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
       height: 75
-    - 
-      title: "Lauréat Prix Epe"
+    - title: "Lauréat Prix Epe"
       url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
       logo: "/img/logo-epe-asso.org_.png"
       height: 75
-    - 
-      title: "Blog de Qarnot"
+    - title: "Blog de Qarnot"
       url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
       logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
       height: 75
-    - 
-      title: "Podcast Horizon-IA"
+    - title: "Podcast Horizon-IA"
       url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
       logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
       height: 75
-    - 
-      title: "Présentation Monthly Marty"
+    - title: "Présentation Monthly Marty"
       url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
       logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
       height: 75
-    - 
-      title: "Journée de la donnée au service de la transition écologique"
+    - title: "Journée de la donnée au service de la transition écologique"
       url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
       logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
       height: 100
-    - 
-      title: "Podcast DataGen"
+    - title: "Podcast DataGen"
       url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
       logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
       height: 100
-    - 
-      title: "Europe 1"
+    - title: "Europe 1"
       url: "https://www.europe1.fr/emissions/initiative-a-impact/la-lutte-contre-les-feux-de-foret-passe-aussi-par-les-algorithmes-4204947"
       logo: "/img/europe1.png"
       height: 100
-    - 
-      title: "Podcast Safety Innov"
+    - title: "Podcast Safety Innov"
       url: "https://open.spotify.com/episode/2NoEt2mCjhMDtlxeu594pG"
       logo: "/img/safety_innov.png"
       height: 100
-    - 
-      title: "TedX Tours"
+    - title: "TedX Tours"
       url: "https://www.youtube.com/watch?v=ZaBdnqnLVBg&ab_channel=TEDxTalks"
       logo: "/img/tedx-tours.png"
       height: 100
-    - 
-      title: "Le Monde"
+    - title: "Le Monde"
       url: "https://www.lemonde.fr/pixels/article/2023/10/17/avec-pyronear-un-systeme-d-intelligence-artificielle-sous-licence-libre-detecte-les-feux-de-foret-des-les-premieres-fumees_6194994_4408996.html"
       logo: "https://upload.wikimedia.org/wikipedia/commons/5/54/Le_monde_logo.svg"
       width: 250
-    - 
-      title: "Techniques de l'ingenieur"
+    - title: "Techniques de l'ingenieur"
       url: "https://www.techniques-ingenieur.fr/actualite/articles/comment-lia-permet-de-detecter-plus-rapidement-les-incendies-129238/?utm_source=linkedin&utm_medium=social&utm_campaign=72-WM-FY1LKDN&utm_content=ap_qgnbyezfjr"
       logo: "https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v2.1.0/images/logo-eti.png"
       width: 250
-      
 
 # Translations
 t:
@@ -173,7 +148,7 @@ t:
         content: "Notre R&D est faite par des bénévoles, notre dispositif est sobre et l’objet non-lucratif de notre association, ce qui nous permet de proposer des prix très compétitifs afin de faciliter un déploiement sur le territoire."
       card7:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
-        title: "Modulable" 
+        title: "Modulable"
         content: "Nous proposons un système de détection complet mais notre dispositif a été pensé pour fonctionner avec le matériel existant (utilisation de caméras déjà en place, connexion avec nexSIS …)"
     steps:
       title: "Comment ça marche ?"
@@ -187,99 +162,85 @@ t:
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
     medias:
       title: "Ils parlent de nous"
-     
+
     team:
       title: "L'équipe actuelle"
     partners:
       title: "Avec qui on travaille?"
       items:
-        - 
-          title: "SDIS 07"
+        - title: "SDIS 07"
           url: "https://www.sdis07.fr/"
           logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
           content: "Notre partenaire pour le recueil des besoins et l'expérimentation terrain"
           height: 75
-        - 
-          title: "Engie Green"
+        - title: "Engie Green"
           url: "https://www.engie-green.fr/"
           logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
           content: "Notre premier partenaire privé, avec qui on réalise une expérimentation en gironde"
           height: 80
-        -
-          title: "CENIA"
+        - title: "CENIA"
           url: "https://cenia.cl/"
           logo: "/img/cenia.jpg"
           content: "Le centre national d'intelligence artificielle chilien avec qui on travaille pour notre premier déploiement à l’étranger"
           height: 60
-        - 
-          title: "ADF Subirats"
+        - title: "ADF Subirats"
           url: "https://subirats.cat/adfsubirats/"
           logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
           content: "Notre partenaire catalan pour l’adaptation de notre dispositif à des caméras existantes"
           height: 80
-        - 
-          title: "FORCE 06"
+        - title: "FORCE 06"
           url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
           logo: "/img/force06_logo.png"
           content: "Notre partenaire des alpes maritimes afin de diversifier les tests terrains"
           height: 80
-        -
-          title: "SDIS 12"
+        - title: "SDIS 12"
           url: "https://www.sdis12.fr/"
           logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
           content: "Notre partenaire dans l'Aveyron afin de diversifier les tests terrains"
           height: 125
-        -
-          title: "SDIS 77"
+        - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
           content: "Notre partenaire en Seine&Marne afin de diversifier les tests terrains"
           height: 75
-   
+
     sponsors:
       title: "Qui nous soutient ?"
       items:
-        -
-          title: "Data for Good"
+        - title: "Data for Good"
           url: "https://dataforgood.fr/"
           logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
           content: "Membre de la saison 6, 8, 10 et 12 de Data for Good, c'est là que Pyronear a vu le jour."
           width: 100
-        -
-          title: "Atraksis"
+        - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
           height: 100
-        -
-          title: "Fondation M33"
+        - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
           content: "Qui nous soutient humainement et financièrement via un mécénat d’entreprise"
           height: 100
-        -
-          title: "Hi!Paris"
+        - title: "Hi!Paris"
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
           height: 100
-        -
-          title: "DINUM"
+        - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Qui nous accompagne via Etalab et l’Accélérateur d’initiatives citoyennes"
           height: 100
-        - 
-          title: "Elaia"
+        - title: "Elaia"
           url: "https://www.elaia.com/"
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
           width: 150
-        - 
-          title: "Latitudes"
+        - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: "Qui nous soutient en participant à leur programme \"Study Project\" pour impliquer les étudiants dans des projets techniques, avec un mentor"
+          content: 'Qui nous soutient en participant à leur programme "Study Project" pour impliquer les étudiants dans des projets techniques, avec un mentor'
           height: 50
     contactForm:
       title: "Protégeons nos forêts"
@@ -325,14 +286,14 @@ t:
       card4:
         icon_src: "/img/cards_icons/auto-awesome.svg"
         title: "Automatic"
-        content:  "We offer a fully automated solution to free up firefighters' time."
+        content: "We offer a fully automated solution to free up firefighters' time."
       card5:
         icon_src: "/img/cards_icons/eco.svg"
         title: "Energetically sober"
         content: "We are in a so-called low-tech approach, we have built a low-consumption device allowing an easier deployment and a more reasoned use of our precious resources."
       card6:
         icon_src: "/img/cards_icons/savings-solid.svg"
-        title: "Economic" 
+        title: "Economic"
         content: "Our R&D is done by volunteers, our device is sober and the non-profit object of our association, which allows us to propose very competitive prices to facilitate a deployment on the territory."
       card7:
         icon_src: "/img/cards_icons/grid-view-solid.svg"
@@ -356,93 +317,79 @@ t:
     partners:
       title: "Who do we work with?"
       items:
-      -
-        title: "SDIS 07"
-        url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Our first partner for requirements gathering and field experimentation"
-        height: 75
-      -
-        title: "Engie Green"
-        url: "https://www.engie-green.fr/"
-        logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
-        content: "Our first private partner, with whom we are conducting an experiment in Gironde"
-        height: 60
-      -
-        title: "CENIA"
-        url: "https://cenia.cl/"
-        logo: "/img/cenia.jpg"
-        content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
-        height: 60
-      -
-        title: "ADF Subirats"
-        url: "https://subirats.cat/adfsubirats/"
-        logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
-        content: "Our catalan partner for the adaptation of our device to existing cameras"
-        height: 80
-      -
-        title: "FORCE 06"
-        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
-        logo: "/img/force06_logo.png"
-        content: "Our partner in the department of Alpes Maritimes to diversify field tests"
-        height: 80
-      -
-        title: "SDIS 12"
-        url: "https://www.sdis12.fr/"
-        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
-        content: "Our partner in Aveyron to diversify field tests"
-        height: 125
-      -
-        title: "SDIS 77"
-        url: "https://www.sdis77.fr/"
-        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
-        content: "Our partner in Seine&Marne to diversify field tests"
-        height: 75
-   
+        - title: "SDIS 07"
+          url: "https://www.sdis07.fr/"
+          logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+          content: "Our first partner for requirements gathering and field experimentation"
+          height: 75
+        - title: "Engie Green"
+          url: "https://www.engie-green.fr/"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          content: "Our first private partner, with whom we are conducting an experiment in Gironde"
+          height: 60
+        - title: "CENIA"
+          url: "https://cenia.cl/"
+          logo: "/img/cenia.jpg"
+          content: "The Chilean National Center of Artificial Intelligence with whom we are working for our first deployment abroad"
+          height: 60
+        - title: "ADF Subirats"
+          url: "https://subirats.cat/adfsubirats/"
+          logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
+          content: "Our catalan partner for the adaptation of our device to existing cameras"
+          height: 80
+        - title: "FORCE 06"
+          url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+          logo: "/img/force06_logo.png"
+          content: "Our partner in the department of Alpes Maritimes to diversify field tests"
+          height: 80
+        - title: "SDIS 12"
+          url: "https://www.sdis12.fr/"
+          logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+          content: "Our partner in Aveyron to diversify field tests"
+          height: 125
+        - title: "SDIS 77"
+          url: "https://www.sdis77.fr/"
+          logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+          content: "Our partner in Seine&Marne to diversify field tests"
+          height: 75
+
     sponsors:
       title: "Who supports us?"
       items:
-        -
-          title: "Data for Good"
+        - title: "Data for Good"
           url: "https://dataforgood.fr/"
           logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
           content: "Part of the 6th, 8th, 10th and 12th acceleration seasons of Data for Good, it is the birth place of Pyronear"
           width: 100
-        -
-          title: "Atraksis"
+        - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "A stakeholder for rescue innovation, and our point of contact with firefighters"
           height: 100
-        -
-          title: "Fondation M33"
+        - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
           content: "Who supports us humanly and financially through corporate sponsorship"
           height: 100
-        -
-          title: "Hi!Paris"
+        - title: "Hi!Paris"
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Which helps us with its human resources and its connection with the academic world"
           height: 100
-        -
-          title: "DINUM"
+        - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Who supports us through Etalab and the Citizen Initiative Accelerator"
           height: 100
-        - 
-          title: "Elaia"
+        - title: "Elaia"
           url: "https://www.elaia.com/"
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Which supports us financially via its endowment fund and provides its financial expertise"
           width: 150
-        -
-          title: "Latitudes"
+        - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: "Who supports us by taking part in their program \"Study Project\" to involve students in technical projects, with a mentor"
+          content: 'Who supports us by taking part in their program "Study Project" to involve students in technical projects, with a mentor'
           height: 50
     contactForm:
       title: "Let us protect our forests"
@@ -473,20 +420,20 @@ t:
       phrase1: "<b>Pyronear</b> és una ONG sense ànim de lucre que té com a objectiu democratitzar solucions obertes i de baixa tecnologia per a la lluita contra els incendis forestals, en benefici dels ecosistemes i dels ciutadans. Per aconseguir aquest objectiu, estem construint conjuntament una solució de detecció precoç que sigui de codi obert, eficient, automàtica, eficient energèticament, econòmica i modular."
       card1:
         icon_src: "/img/cards_icons/opensource.svg"
-        title: "Open source" 
+        title: "Open source"
         content: "Tot el nostre codi està disponible de forma gratuïta i desenvolupat conjuntament pels nostres voluntaris. Creiem que la intel·ligència col·lectiva és la millor manera de resoldre un problema complex."
       card2:
         icon_src: "/img/cards_icons/radar-2.svg"
         title: "Detecció precoç"
         content: "Per lluitar eficaçment contra els incendis forestals, és important detectar-los precoçment per tal de permetre una intervenció ràpida dels serveis de bombers i salvament i limitar així el seu impacte."
-      card3: 
+      card3:
         icon_src: "/img/cards_icons/rocket.svg"
         title: "Rendiment"
         content: "Els nostres experts en intel·ligència artificial segueixen activament les notícies en aquest camp en moviment ràpid per tal que Pyronear es beneficiï dels seus últims avenços."
       card4:
         icon_src: "/img/cards_icons/auto-awesome.svg"
         title: "Automàtic"
-        content:  "Oferim una solució totalment automatitzada per alliberar temps dels bombers."
+        content: "Oferim una solució totalment automatitzada per alliberar temps dels bombers."
       card5:
         icon_src: "/img/cards_icons/eco.svg"
         title: "Sobre energia"
@@ -505,7 +452,6 @@ t:
       image_src_1: "/img/solution.png"
       text2: "Les nostres torres de detecció estan formades per 4/5 càmeres d'alta resolució i un micro ordinador. Capturem una imatge per càmera a intervals regulars i després l'analitzem localment mitjançant el nostre model de detecció d'incendis forestals. En cas de detecció, s'activa el mode d'alerta, totes les imatges procedents de la càmera després d'haver detectat l'incendi s'envien a la nostra base de dades a través de la nostra API, el protocol de comunicació que hem desenvolupat."
       image_src_2: "/img/model.png"
-      
 
     callToAction:
       title: "Com desplegar-lo?"
@@ -517,93 +463,79 @@ t:
     partners:
       title: "Amb qui treballem?"
       items:
-      -
-        title: "SDIS 07"
-        url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "El nostre primer soci per a la recollida de requisits i l'experimentació de camp"
-        height: 75
-      -
-        title: "Engie Green"
-        url: "https://www.engie-green.fr/"
-        logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
-        content: "El nostre primer soci privat, amb qui estem fent un experiment a Gironda"
-        height: 80
-      -
-        title: "CENIA"
-        url: "https://cenia.cl/"
-        logo: "/img/cenia.jpg"
-        content: "El Centre Nacional d'Intel·ligència Artificial de Xile amb qui estem treballant per al nostre primer desplegament a l'estranger"
-        height: 60
-      -
-        title: "ADF Subirats"
-        url: "https://subirats.cat/adfsubirats/"
-        logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
-        content: "El nostre soci català per a l'adaptació del nostre dispositiu a les càmeres existents"
-        height: 80
-      -
-        title: "FORCE 06"
-        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
-        logo: "/img/force06_logo.png"
-        content: "El nostre soci al departament dels Alpes Marítims per diversificar les proves de camp"
-        height: 80
-      -
-        title: "SDIS 12"
-        url: "https://www.sdis12.fr/"
-        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
-        content: "El nostre soci a Aveyron per diversificar les proves de camp"
-        height: 125
-      -
-        title: "SDIS 77"
-        url: "https://www.sdis77.fr/"
-        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
-        content: "El nostre soci a Seine&Marne per diversificar les proves de camp"
-        height: 75
+        - title: "SDIS 07"
+          url: "https://www.sdis07.fr/"
+          logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+          content: "El nostre primer soci per a la recollida de requisits i l'experimentació de camp"
+          height: 75
+        - title: "Engie Green"
+          url: "https://www.engie-green.fr/"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          content: "El nostre primer soci privat, amb qui estem fent un experiment a Gironda"
+          height: 80
+        - title: "CENIA"
+          url: "https://cenia.cl/"
+          logo: "/img/cenia.jpg"
+          content: "El Centre Nacional d'Intel·ligència Artificial de Xile amb qui estem treballant per al nostre primer desplegament a l'estranger"
+          height: 60
+        - title: "ADF Subirats"
+          url: "https://subirats.cat/adfsubirats/"
+          logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
+          content: "El nostre soci català per a l'adaptació del nostre dispositiu a les càmeres existents"
+          height: 80
+        - title: "FORCE 06"
+          url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+          logo: "/img/force06_logo.png"
+          content: "El nostre soci al departament dels Alpes Marítims per diversificar les proves de camp"
+          height: 80
+        - title: "SDIS 12"
+          url: "https://www.sdis12.fr/"
+          logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+          content: "El nostre soci a Aveyron per diversificar les proves de camp"
+          height: 125
+        - title: "SDIS 77"
+          url: "https://www.sdis77.fr/"
+          logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+          content: "El nostre soci a Seine&Marne per diversificar les proves de camp"
+          height: 75
 
     sponsors:
       title: "Who supports us?"
       items:
-        -        
-          title: "Data for Good"
+        - title: "Data for Good"
           url: "https://dataforgood.fr/"
           logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
           content: "Part de les temporades d'acceleració 6a, 8a, 10a i 12a de Data for Good, és el lloc de naixement de Pyronear"
           width: 100
-        -
-          title: "Atraksis"
+        - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
           height: 100
-        -
-          title: "Fondation M33"
+        - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
           content: "Qui ens recolza humana i econòmicament a través del patrocini corporatiu"
           height: 100
-        -
-          title: "Hi!Paris"
+        - title: "Hi!Paris"
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
           height: 100
-        -
-          title: "DINUM"
+        - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Qui ens dóna suport a través de Etalab i de l'Acceleradora d'Iniciatives Ciutadanes"
           width: 100
-        - 
-          title: "Elaia"
+        - title: "Elaia"
           url: "https://www.elaia.com/"
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
           width: 150
-        -
-          title: "Latitudes"
+        - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: "Que ens donen suport participant en el seu programa \"Study Project\" per implicar els estudiants en projectes tècnics, amb un mentor"
+          content: 'Que ens donen suport participant en el seu programa "Study Project" per implicar els estudiants en projectes tècnics, amb un mentor'
           height: 50
     contactForm:
       title: "Protegim els nostres boscos"
@@ -666,7 +598,6 @@ t:
       image_src_1: "/img/solution.png"
       text2: "Nuestras torres de detección consisten en 4/5 cámaras de alta resolución y una microcomputadora. Capturamos una imagen por cámara a intervalos regulares y luego la analizamos localmente usando nuestro modelo de detección de incendios forestales. En caso de detección, se activa el modo de alerta, todas las imágenes provenientes de la cámara que detectó el incendio se envían a nuestra base de datos a través de nuestra api, el protocolo de comunicación que hemos desarrollado."
       image_src_2: "/img/model.png"
-      
 
     callToAction:
       title: "¿Cómo implementarlo?"
@@ -678,93 +609,79 @@ t:
     partners:
       title: "¿Con quién trabajamos?"
       items:
-      -
-        title: "SDIS 07"
-        url: "https://www.sdis07.fr/"
-        logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
-        content: "Nuestro primer socio para la recopilación de requisitos y la experimentación de campo"
-        height: 75
-      -
-        title: "Engie Green"
-        url: "https://www.engie-green.fr/"
-        logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
-        content: "Nuestro primer socio privado, con quien estamos realizando un experimento en Gironde"
-        height: 80
-      -
-        title: "CENIA"
-        url: "https://cenia.cl/"
-        logo: "/img/cenia.jpg"
-        content: "El Centro Nacional de Inteligencia Artificial de Chile con el que estamos trabajando para nuestro primer despliegue en el exterior"
-        height: 60
-      -
-        title: "ADF Subirats"
-        url: "https://subirats.cat/adfsubirats/"
-        logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
-        content: "Nuestro partner catalán para la adaptación de las cámaras existentes"
-        height: 80
-      -
-        title: "FORCE 06"
-        url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
-        logo: "/img/force06_logo.png"
-        content: "Nuestro socio en el departamento de Alpes Marítimos diversificará las pruebas sobre el terreno"
-        height: 80
-      -
-        title: "SDIS 12"
-        url: "https://www.sdis12.fr/"
-        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
-        content: "Nuestro socio en Aveyron diversificará las pruebas sobre el terreno"
-        height: 125
-      -
-        title: "SDIS 77"
-        url: "https://www.sdis77.fr/"
-        logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
-        content: "Nuestro socio en Seine&Marne diversificará las pruebas sobre el terreno"
-        height: 75
+        - title: "SDIS 07"
+          url: "https://www.sdis07.fr/"
+          logo: "https://www.sdis07.fr/ardeche-secours-incendie/themes/sapeurs-pompiers-ardeche/medias/img/logo-sdis07-pompiers-ardeche.png"
+          content: "Nuestro primer socio para la recopilación de requisitos y la experimentación de campo"
+          height: 75
+        - title: "Engie Green"
+          url: "https://www.engie-green.fr/"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          content: "Nuestro primer socio privado, con quien estamos realizando un experimento en Gironde"
+          height: 80
+        - title: "CENIA"
+          url: "https://cenia.cl/"
+          logo: "/img/cenia.jpg"
+          content: "El Centro Nacional de Inteligencia Artificial de Chile con el que estamos trabajando para nuestro primer despliegue en el exterior"
+          height: 60
+        - title: "ADF Subirats"
+          url: "https://subirats.cat/adfsubirats/"
+          logo: "https://i.postimg.cc/NfW4Xyx7/camera-logo.png"
+          content: "Nuestro partner catalán para la adaptación de las cámaras existentes"
+          height: 80
+        - title: "FORCE 06"
+          url: "https://www.departement06.fr/preservation-du-cadre-de-vie/force-06-3080.html"
+          logo: "/img/force06_logo.png"
+          content: "Nuestro socio en el departamento de Alpes Marítimos diversificará las pruebas sobre el terreno"
+          height: 80
+        - title: "SDIS 12"
+          url: "https://www.sdis12.fr/"
+          logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2bUbkvsTyiTM7uHqbHBY0nxzu7L9AGHEGg&s"
+          content: "Nuestro socio en Aveyron diversificará las pruebas sobre el terreno"
+          height: 125
+        - title: "SDIS 77"
+          url: "https://www.sdis77.fr/"
+          logo: "https://www.infirmiersapeurpompier.com/wp-content/uploads/2020/11/77.jpg"
+          content: "Nuestro socio en Seine&Marne diversificará las pruebas sobre el terreno"
+          height: 75
 
     sponsors:
       title: "¿Quién nos apoya?"
       items:
-        -
-          title: "Data for Good"
+        - title: "Data for Good"
           url: "https://dataforgood.fr/"
           logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
           content: "Parte de las temporadas de aceleración 6, 8, 10 y 12 de Data for Good, es el lugar de nacimiento de Pyronear"
           width: 100
-        -
-          title: "Atraksis"
+        - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Una parte interesada en la innovación de rescate y nuestro punto de contacto con los bomberos."
           height: 100
-        -
-          title: "Fondation M33"
+        - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
           content: "Quien nos apoya humana y financieramente a través del patrocinio corporativo"
           height: 100
-        -
-          title: "Hi!Paris"
+        - title: "Hi!Paris"
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Lo cual nos ayuda con sus recursos humanos y su vinculación con el mundo académico."
           height: 100
-        -
-          title: "DINUM"
+        - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Quién nos apoya a través de Etalab y de la Aceleradora de Iniciativa Ciudadana"
           height: 100
-        - 
-          title: "Elaia"
+        - title: "Elaia"
           url: "https://www.elaia.com/"
           logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
           content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
           width: 150
-        -
-          title: "Latitudes"
+        - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: "Que nos apoyan participando en su programa \"Proyecto de Estudio\" para implicar a los estudiantes en proyectos técnicos, con un mentor"
+          content: 'Que nos apoyan participando en su programa "Proyecto de Estudio" para implicar a los estudiantes en proyectos técnicos, con un mentor'
           height: 50
     contactForm:
       title: "Protejamos nuestros bosques"
