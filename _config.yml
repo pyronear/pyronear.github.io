@@ -8,18 +8,12 @@ languages: ["fr", "en", "es", "es-ct"]
 base-url: ""
 
 # Social media
-twitter: # Card customization
-  username: pyro_near
-  card: summary
-
 social:
   links:
-    - https://twitter.com/pyro_near
     - https://www.facebook.com/pyronear
     - https://www.linkedin.com/company/37560523
     - https://github.com/pyronear
 
-twitter_username: pyro_near
 facebook_username: pyronear
 linkedin_username: pyronearfr
 github_username: pyronear
