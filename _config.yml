@@ -259,6 +259,11 @@ t:
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Qui nous soutient en participant à leur programme "Study Project" pour impliquer les étudiants dans des projets techniques, avec un mentor'
           height: 50
+        - title: "Raise Sherpas"
+          url: "https://www.raise-sherpas.co/"
+          logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
+          content: "Qui nous soutient humainement et financièrement via leur accélérateur philanthropique"
+          height: 100
     contactForm:
       title: "Protégeons nos forêts"
       email:
