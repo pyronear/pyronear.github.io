@@ -10,25 +10,33 @@
   <div class="container">
     <div class="row">
       {% for sponsor in site.t.[layout.lang].sponsors.items %}
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ sponsor.url }}">
-                <img 
-                  alt="{{ sponsor.title }}-logo"
-                  src="{{ sponsor.logo }}"
-                  width="{{ sponsor.width }}"
-                  height="{{ sponsor.height }}"
-                />
-            </a>
-          </p>
-          <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
-          <h3>{{ sponsor.title }}</h3>
-          <p class="text-muted">
-            {{ sponsor.content }}
-          </p>
-        </div>
-      </div>
+        {% if forloop.index <= 6 %}
+          <div class="col-md-4 text-center">
+        {% elsif forloop.index == 7 %}
+          <div class="col-md-4 offset-md-4 text-center"> <!-- Offset pushes it to the right -->
+        {% else %}
+          <div class="col-md-4 text-center">
+        {% endif %}
+            <div class="service-box">
+              <p class="emoji">
+                <a href="{{ sponsor.url }}">
+                    <img 
+                      alt="{{ sponsor.title }}-logo"
+                      src="{{ sponsor.logo }}"
+                      width="{{ sponsor.width }}"
+                      height="{{ sponsor.height }}"
+                    />
+                </a>
+              </p>
+              <h3>{{ sponsor.title }}</h3>
+              <p class="text-muted">
+                {{ sponsor.content }}
+              </p>
+            </div>
+          </div>
+        {% if forloop.index == 3 or forloop.index == 6 %}
+        </div><div class="row"> <!-- Close and start a new row after 3rd & 6th sponsor -->
+        {% endif %}
       {% endfor %}
     </div>
   </div>
