@@ -259,6 +259,11 @@ t:
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Qui nous soutient en participant à leur programme "Study Project" pour impliquer les étudiants dans des projets techniques, avec un mentor'
           height: 50
+        - title: "Raise Sherpas"
+          url: "https://www.raise-sherpas.co/"
+          logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
+          content: "Qui nous soutient humainement et financièrement via leur accélérateur philanthropique"
+          height: 100
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -425,6 +430,11 @@ t:
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Who supports us by taking part in their program "Study Project" to involve students in technical projects, with a mentor'
           height: 50
+        - title: "Raise Sherpas"
+          url: "https://www.raise-sherpas.co/"
+          logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
+          content: "Who supports us humanly and financially via their philanthropic accelerator"
+          height: 100
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -588,6 +598,11 @@ t:
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Que ens donen suport participant en el seu programa "Study Project" per implicar els estudiants en projectes tècnics, amb un mentor'
           height: 50
+        - title: "Raise Sherpas"
+          url: "https://www.raise-sherpas.co/"
+          logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
+          content: "Qui ens dóna suport humanament i financerament a través del seu accelerador filantròpic"
+          height: 100
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -751,6 +766,11 @@ t:
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Que nos apoyan participando en su programa "Proyecto de Estudio" para implicar a los estudiantes en proyectos técnicos, con un mentor'
           height: 50
+        - title: "Raise Sherpas"
+          url: "https://www.raise-sherpas.co/"
+          logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
+          content: "Quien nos apoya humanamente y financieramente a través de su acelerador filantrópico"
+          height: 100
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
