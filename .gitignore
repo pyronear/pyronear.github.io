@@ -1,3 +1,7 @@
+# OS junk files
+*.DS_Store
+
+# Other files
 _site/
 .jekyll_cache/
 Gemfile.lock
