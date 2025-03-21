@@ -192,7 +192,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
           content: "Notre premier partenaire privé, avec qui on réalise une expérimentation en gironde"
           height: 80
         - title: "CENIA"
@@ -358,7 +358,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
           content: "Our first private partner, with whom we are conducting an experiment in Gironde"
           height: 60
         - title: "CENIA"
@@ -440,7 +440,7 @@ t:
       content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
   es-ct:
     label: es-ct
-    icon: <svg height="14" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg"><path d="m5 17h62v38h-62z" fill="#f1b31c"/><g fill="#d22f27"><path d="m5 22h62v4h-62z"/><path d="m5 30h62v4h-62z"/><path d="m5 38h62v4h-62z"/><path d="m5 46h62v4h-62z"/></g><path d="m5 17h62v38h-62z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg>
+    icon: "<img src='/img/catalonia-flag.png' width='20' height='20'/>"
     description: "Detecció precoç d'incendis forestals"
     buttons:
       moreInfo: "Més informació"
@@ -521,7 +521,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
           content: "El nostre primer soci privat, amb qui estem fent un experiment a Gironda"
           height: 80
         - title: "CENIA"
@@ -684,7 +684,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/assets/img/engie-green-logo.svg"
+          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
           content: "Nuestro primer socio privado, con quien estamos realizando un experimento en Gironde"
           height: 80
         - title: "CENIA"
