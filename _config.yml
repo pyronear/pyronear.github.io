@@ -233,7 +233,7 @@ t:
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
-          height: 100
+          height: 75
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -243,27 +243,28 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
-          height: 100
+          height: 50
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Qui nous accompagne via Etalab et l’Accélérateur d’initiatives citoyennes"
           height: 100
-        - title: "Elaia"
-          url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
-          content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
-          width: 150
-        - title: "Latitudes"
-          url: "https://www.latitudes.cc/"
-          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: 'Qui nous soutient en participant à leur programme "Study Project" pour impliquer les étudiants dans des projets techniques, avec un mentor'
-          height: 50
         - title: "Raise Sherpas"
           url: "https://www.raise-sherpas.co/"
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Qui nous soutient humainement et financièrement via leur accélérateur philanthropique"
-          height: 100
+          height: 75
+        - title: "Elaia"
+          url: "https://www.elaia.com/"
+          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
+          height: 40
+        - title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: 'Qui nous soutient en participant à leur programme "Study Project"'
+          height: 40
+        
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -404,7 +405,7 @@ t:
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "A stakeholder for rescue innovation, and our point of contact with firefighters"
-          height: 100
+          height: 75
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -414,27 +415,28 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Which helps us with its human resources and its connection with the academic world"
-          height: 100
+          height: 50
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Who supports us through Etalab and the Citizen Initiative Accelerator"
           height: 100
-        - title: "Elaia"
-          url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
-          content: "Which supports us financially via its endowment fund and provides its financial expertise"
-          width: 150
-        - title: "Latitudes"
-          url: "https://www.latitudes.cc/"
-          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: 'Who supports us by taking part in their program "Study Project" to involve students in technical projects, with a mentor'
-          height: 50
         - title: "Raise Sherpas"
           url: "https://www.raise-sherpas.co/"
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Who supports us humanly and financially via their philanthropic accelerator"
-          height: 100
+          height: 75
+        - title: "Elaia"
+          url: "https://www.elaia.com/"
+          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          content: "Which supports us financially via its endowment fund and provides its financial expertise"
+          height: 40
+        - title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: 'Who supports us by taking part in their program "Study Project" to involve students in technical projects, with a mentor'
+          height: 40
+        
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -572,7 +574,7 @@ t:
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
-          height: 100
+          height: 75
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -582,27 +584,28 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
-          height: 100
+          height: 50
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Qui ens dóna suport a través de Etalab i de l'Acceleradora d'Iniciatives Ciutadanes"
           width: 100
-        - title: "Elaia"
-          url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
-          content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
-          width: 150
-        - title: "Latitudes"
-          url: "https://www.latitudes.cc/"
-          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: 'Que ens donen suport participant en el seu programa "Study Project" per implicar els estudiants en projectes tècnics, amb un mentor'
-          height: 50
         - title: "Raise Sherpas"
           url: "https://www.raise-sherpas.co/"
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Qui ens dóna suport humanament i financerament a través del seu accelerador filantròpic"
-          height: 100
+          height: 75
+        - title: "Elaia"
+          url: "https://www.elaia.com/"
+          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
+          height: 40
+        - title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: 'Que ens donen suport participant en el seu programa "Study Project" per implicar els estudiants en projectes tècnics, amb un mentor'
+          height: 40
+        
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -740,7 +743,7 @@ t:
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Una parte interesada en la innovación de rescate y nuestro punto de contacto con los bomberos."
-          height: 100
+          height: 75
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -750,27 +753,28 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Lo cual nos ayuda con sus recursos humanos y su vinculación con el mundo académico."
-          height: 100
+          height: 50
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
           content: "Quién nos apoya a través de Etalab y de la Aceleradora de Iniciativa Ciudadana"
           height: 100
-        - title: "Elaia"
-          url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
-          content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
-          width: 150
-        - title: "Latitudes"
-          url: "https://www.latitudes.cc/"
-          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
-          content: 'Que nos apoyan participando en su programa "Proyecto de Estudio" para implicar a los estudiantes en proyectos técnicos, con un mentor'
-          height: 50
         - title: "Raise Sherpas"
           url: "https://www.raise-sherpas.co/"
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Quien nos apoya humanamente y financieramente a través de su acelerador filantrópico"
-          height: 100
+          height: 75
+        - title: "Elaia"
+          url: "https://www.elaia.com/"
+          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
+          height: 40
+        - title: "Latitudes"
+          url: "https://www.latitudes.cc/"
+          logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
+          content: 'Que nos apoyan participando en su programa "Proyecto de Estudio" para implicar a los estudiantes en proyectos técnicos, con un mentor'
+          height: 40
+        
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
