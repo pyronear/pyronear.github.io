@@ -36,6 +36,10 @@ plugins:
 
 medias:
   items:
+    - title: "Ils parlent de nous"
+      url: "https://www.youtube.com/live/MDJBb0EL8U4?t=4330s"
+      logo: "/img/logo-aiforgood.png"
+      width: 250
     - title: "Retour d'expérience Elitys"
       url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
       logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
