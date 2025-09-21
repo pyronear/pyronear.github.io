@@ -36,7 +36,7 @@ plugins:
 
 medias:
   items:
-    - title: "Ils parlent de nous"
+    - title: "Intervention AI for good"
       url: "https://www.youtube.com/live/MDJBb0EL8U4?t=4330s"
       logo: "/img/logo-aiforgood.png"
       width: 250
