@@ -54,7 +54,7 @@ medias:
       width: 200
     - title: "Présentation DataXdays 2021"
       url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-      logo: "https://dataxday.fr/assets/LOGOCOURT.svg"
+      logo: "https://www.davidattali.fr/wp-content/uploads/2021/06/DXD-LOGO.jpg"
       height: 75
     - title: "Article Le Parisien"
       url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
@@ -74,7 +74,7 @@ medias:
       height: 75
     - title: "Présentation Monthly Marty"
       url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-      logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+      logo: "https://dataforgood.fr/images/dataforgood.svg"
       height: 75
     - title: "Journée de la donnée au service de la transition écologique"
       url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
@@ -226,14 +226,14 @@ t:
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          logo: "https://dataforgood.fr/images/dataforgood.svg"
           content: "Membre de la saison 6, 8, 10 et 12 de Data for Good, c'est là que Pyronear a vu le jour."
-          width: 100
+          width: 220
         - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Acteur de l'innovation pour les secours, c'est notre point de contact avec les pompiers."
-          height: 100
+          height: 60
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -243,7 +243,7 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Qui nous aide par ses moyens humains et sa connection avec le monde de la recherche"
-          height: 100
+          height: 80
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
@@ -258,7 +258,8 @@ t:
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
           content: 'Qui nous soutient en participant à leur programme "Study Project" pour impliquer les étudiants dans des projets techniques, avec un mentor'
-          height: 50
+          height: 100
+          
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -392,14 +393,14 @@ t:
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          logo: "https://dataforgood.fr/images/dataforgood.svg"
           content: "Part of the 6th, 8th, 10th and 12th acceleration seasons of Data for Good, it is the birth place of Pyronear"
-          width: 100
+          width: 220
         - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "A stakeholder for rescue innovation, and our point of contact with firefighters"
-          height: 100
+          height: 60
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -409,7 +410,7 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Which helps us with its human resources and its connection with the academic world"
-          height: 100
+          height: 80
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
@@ -555,14 +556,14 @@ t:
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          logo: "https://dataforgood.fr/images/dataforgood.svg"
           content: "Part de les temporades d'acceleració 6a, 8a, 10a i 12a de Data for Good, és el lloc de naixement de Pyronear"
-          width: 100
+          width: 220
         - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Un actor de la innovació en el rescat i el nostre punt de contacte amb els bombers."
-          height: 100
+          height: 60
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -572,7 +573,7 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Ens ajuda amb els seus recursos humans i la seva connexió amb el món acadèmic"
-          height: 100
+          height: 80
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
@@ -718,14 +719,14 @@ t:
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
-          logo: "https://dataforgood.fr/img/logo-dfg-new2.png"
+          logo: "https://dataforgood.fr/images/dataforgood.svg"
           content: "Parte de las temporadas de aceleración 6, 8, 10 y 12 de Data for Good, es el lugar de nacimiento de Pyronear"
-          width: 100
+          width: 220
         - title: "Atraksis"
           url: "https://atraksis.fr/"
           logo: "https://atraksis.fr/wp-content/themes/atraksis/assets/img/logo-atraksis-footer.svg"
           content: "Una parte interesada en la innovación de rescate y nuestro punto de contacto con los bomberos."
-          height: 100
+          height: 60
         - title: "Fondation M33"
           url: "https://www.linkedin.com/showcase/m33-foundation-theodo-group/?originalSubdomain=fr"
           logo: "/img/m33_foundation.jpeg"
@@ -735,7 +736,7 @@ t:
           url: "https://www.hi-paris.fr/"
           logo: "https://www.hi-paris.fr/wp-content/uploads/2020/09/logo-hi-paris-retina.png"
           content: "Lo cual nos ayuda con sus recursos humanos y su vinculación con el mundo académico."
-          height: 100
+          height: 80
         - title: "DINUM"
           url: "https://citoyens.transformation.gouv.fr/"
           logo: "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/6806047/95886_289860.png"
