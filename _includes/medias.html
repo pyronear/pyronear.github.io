@@ -8,26 +8,11 @@
     </div>
   </div>
   <div class="container">
-    <div class="row">
+    <div class="logo-grid" style="--logo-h: 80px;">
       {% for media in site.medias.items %}
-      <div class="col-md-4 text-center">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ media.url }}">
-              <img
-                alt="{{media.title}} logo"
-                src="{{ media.logo }}"
-                width="{{ media.width }}"
-                height="{{ media.height }}"
-              />
-            </a>
-          </p>
-          <!-- <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i> -->
-          <!-- <h3>{{ media.title }}</h3> -->
-          <p class="text-muted">{{ media.content }}</p>
-        </div>
-      </div>
-
+        <a class="logo-card" href="{{ media.url }}" target="_blank" aria-label="{{ media.title }}">
+          <img src="{{ media.logo }}" alt="{{ media.title }}">
+        </a>
       {% endfor %}
     </div>
   </div>

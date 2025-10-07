@@ -43,3 +43,31 @@ $theme-dark: #222;
 
 body { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+
+
+/* Partners logos, uniform sizing */
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 24px;
+  align-items: center;
+}
+
+.logo-card {
+  height: var(--logo-h, 110px);   /* set once per section */
+  padding: 12px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;               /* prevent any spill */
+}
+
+.logo-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;            /* keep aspect ratio inside the box */
+}
