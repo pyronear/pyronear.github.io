@@ -43,3 +43,124 @@ $theme-dark: #222;
 
 body { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+
+/* Shared grid + card utilities used by medias / partners / sponsors */
+/* Uses a fixed 3-column grid with responsive breakpoints */
+.grid {
+	display: grid;
+	gap: 40px;
+	margin: 0 auto;
+	max-width: 1200px;
+	padding: 0 40px;
+	grid-template-columns: repeat(3, 1fr);
+	justify-content: center;
+}
+
+/* Simple grid variation without cards - for media section */
+.grid--simple {
+	gap: 60px 40px; /* larger vertical gap for better separation */
+	padding: 20px 0;
+}
+
+.grid--simple .service-box {
+	background: none;
+	box-shadow: none;
+	border-radius: 0;
+	padding: 0;
+}
+
+.grid--simple .service-box:hover {
+	transform: none;
+}
+
+/* Standardized logo sizes for media section */
+.grid--simple .emoji {
+	height: 80px; /* smaller fixed height for media logos */
+	width: 200px; /* standardized width */
+	margin: 0 auto 20px;
+}
+
+.grid--simple .emoji img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	max-height: 80px;
+}
+
+/* Adjust grid for different screen sizes */
+@media (max-width: 992px) {
+	.grid {
+		grid-template-columns: repeat(2, 1fr);
+		max-width: 800px;
+		gap: 30px;
+	}
+	
+	.grid--simple {
+		gap: 50px 30px;
+	}
+}
+
+@media (max-width: 576px) {
+	.grid {
+		grid-template-columns: 1fr;
+		max-width: 400px;
+		gap: 30px;
+		padding: 0 20px;
+	}
+	
+	.grid--simple {
+		gap: 40px;
+	}
+}
+
+.grid-item { display: flex; justify-content: center; align-items: stretch; }
+
+.service-box {
+	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 	justify-content: flex-start;
+ 	text-align: center;
+ 	width: 100%;
+ 	height: 100%;
+ 	padding: 30px;
+ 	box-sizing: border-box;
+ 	background: #fff;
+ 	border-radius: 12px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+	transition: all 0.2s ease-in-out;
+}
+
+/* Create fixed-height container for logos */
+.service-box .emoji {
+	height: 120px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+}
+
+.service-box .emoji img,
+.service-box img {
+	display: block;
+	width: 140px; /* fixed width */
+	height: 100px; /* fixed height */
+ 	object-fit: contain;
+	margin: 0;
+}
+
+.service-box h3 { margin: 10px 0 8px; min-height: 56px; }
+.service-box .text-muted { min-height: 64px; }
+
+.service-box:hover {
+	transform: translateY(-4px);
+	transition: all 0.2s ease-in-out;
+}
+
+@media (max-width: 992px) {
+	.grid { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+}
+
+@media (max-width: 576px) {
+	.grid { grid-template-columns: 1fr; }
+}
