@@ -23,17 +23,30 @@
       </a>
     </div>
 
+    <!-- Add base-url meta for JavaScript -->
+    <meta name="base-url" content="{{ site.base-url }}">
+    
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div
-      class="collapse navbar-collapse lang"
-      id="bs-example-navbar-collapse-1"
-    >
+    <div class="collapse navbar-collapse lang" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        {% for lang in site.languages %}
-        <li>
-          <a href="{{ site.base-url }}/{{ lang }}">{{ site.t.[lang].icon }}</a>
+        <!-- Language dropdown: default is site.lang (fr) -->
+        <li class="nav-item nav-lang">
+          <button class="lang-toggle" id="langToggle" aria-haspopup="true" aria-expanded="false">
+            <img src="{{ site.base-url }}/img/flags/{{ site.lang }}.svg" alt="{{ site.t.[site.lang].label }}" class="nav-flag" />
+            <span class="lang-name">{{ site.t.[site.lang].label | upcase }}</span>
+            <span class="caret"></span>
+          </button>
+          <ul class="lang-menu" id="langMenu" role="menu" aria-labelledby="langToggle">
+            {% for lang in site.languages %}
+            <li role="menuitem" class="lang-item{% if lang == site.lang %} active{% endif %}">
+              <a href="{{ site.base-url }}/{{ lang }}" class="lang-link">
+                <img src="{{ site.base-url }}/img/flags/{{ lang }}.svg" alt="{{ site.t.[lang].label }}" class="nav-flag" />
+                <span class="lang-label">{{ site.t.[lang].label | upcase }}</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
         </li>
-        {% endfor %}
       </ul>
     </div>
     <!-- /.navbar-collapse -->

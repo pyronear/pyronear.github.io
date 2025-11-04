@@ -450,7 +450,7 @@ t:
       title: "Follow the Pyronear adventure"
       content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
   es-ct:
-    label: es-ct
+    label: ES-CT
     icon: "<img src='/img/catalonia-flag.png' width='20' height='20'/>"
     description: "Detecció precoç d'incendis forestals"
     buttons:

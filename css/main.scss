@@ -115,6 +115,131 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 
 .grid-item { display: flex; justify-content: center; align-items: stretch; }
 
+/* Language dropdown styles (top-right) */
+.nav-lang { 
+    position: relative;
+    display: flex;
+    align-items: flex-end; /* Align with logo bottom */
+    height: 50px; /* Match navbar height */
+}
+.lang-toggle {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	background: transparent;
+	border: 0;
+	color: inherit;
+	font: inherit;
+	padding: 15px 10px;  /* Match navbar padding */
+	cursor: pointer;
+	height: 100%;
+}
+.lang-toggle .lang-flag { font-size: 18px; line-height: 1; }
+.lang-toggle .lang-name { 
+    display: none;
+    line-height: 20px; /* Consistent text line height */
+}
+.lang-toggle .caret { margin-left: 4px; }
+
+.lang-menu {
+	position: absolute;
+	right: 0;
+	top: 100%;
+	background: #fff;
+	border: 1px solid rgba(0,0,0,0.08);
+	box-shadow: 0 6px 12px rgba(0,0,0,0.06);
+	list-style: none;
+	padding: 6px 0;
+	margin: 8px 0 0 0;
+	display: none;
+	min-width: 140px;
+	z-index: 999;
+}
+.lang-menu .lang-item { padding: 0; }
+.lang-link {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 6px 10px;
+	color: #222;
+	text-decoration: none;
+}
+.lang-link:hover { background: rgba(0,0,0,0.03); }
+.lang-item.active .lang-link { font-weight: 600; }
+
+/* remove underline on hover explicitly */
+.lang-link, .lang-link:hover { text-decoration: none; }
+
+/* Show language name on wider screens */
+@media (min-width: 768px) {
+	.lang-toggle .lang-name { display: inline; }
+}
+/* Improve vertical alignment of the language selector in the navbar */
+.navbar-nav {
+	display: flex;
+	align-items: center;
+}
+.navbar-nav > li {
+	display: flex;
+	align-items: center;
+}
+
+/* Vertically center navbar contents including brand and nav items */
+#mainNav .container-fluid {
+	display: flex;
+	align-items: center;
+	/* keep brand left and nav right */
+	/* push the collapsed navbar to the far right in the flex container */
+	justify-content: space-between;
+}
+
+/* Fallback: ensure the collapsed navbar block is pushed to the right
+   in cases where flex ordering differs across Bootstrap versions */
+.collapse.navbar-collapse { margin-left: auto; }
+
+/* Keep brand left and nav right while centering vertically */
+#mainNav .navbar-header {
+	display: flex;
+	align-items: flex-end; /* Align brand with bottom */
+	height: 50px; /* Match navbar height */
+}
+/* Ensure logo maintains aspect ratio while filling height */
+#mainNav .navbar-brand {
+	padding: 10px 15px; /* Adjust padding to vertically center logo */
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+#mainNav .navbar-brand img {
+	max-height: 30px; /* Keep logo reasonably sized */
+	width: auto;
+	height: auto;
+}
+
+/* Emoji rendering improvement - prefer color emoji fonts where available */
+.lang-flag {
+	font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', 'EmojiOne Mozilla', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* If the flag is an image (es-ct), keep it crisp and small */
+.lang-flag img,
+.nav-flag {
+	width: 20px;
+	height: 14px;
+	object-fit: contain;
+	display: inline-block;
+}
+
+/* Make language labels uppercase */
+.lang-label,
+.lang-toggle .lang-name { text-transform: uppercase; }
+
+/* Slightly narrower menu and reduced padding to make it less wide */
+.lang-menu { min-width: 130px; }
+.lang-link { padding: 6px 10px; }
+
 .service-box {
 	display: flex;
  	flex-direction: column;
