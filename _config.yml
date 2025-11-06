@@ -108,6 +108,11 @@ medias:
       url: "https://www.sciencesetavenir.fr/nature-environnement/a-fontainebleau-une-ia-sobre-en-energie-s-entraine-a-detecter-les-feux-de-foret_188336"
       logo: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sciences_et_Avenir_2024.jpg"
       width: 200
+    - title: "TV5 monde Fontainebleau"
+      url: "https://information.tv5monde.com/economie/fontainebleau-une-ia-sobre-en-energie-sentraine-detecter-les-feux-de-foret-2791827"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png"
+      width: 200
+
 
 
 # Translations
