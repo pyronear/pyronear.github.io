@@ -104,6 +104,11 @@ medias:
       url: "https://www.techniques-ingenieur.fr/actualite/articles/comment-lia-permet-de-detecter-plus-rapidement-les-incendies-129238/?utm_source=linkedin&utm_medium=social&utm_campaign=72-WM-FY1LKDN&utm_content=ap_qgnbyezfjr"
       logo: "https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v2.1.0/images/logo-eti.png"
       width: 250
+    - title: "Sciences&Avenir Fontainebleau"
+      url: "https://www.sciencesetavenir.fr/nature-environnement/a-fontainebleau-une-ia-sobre-en-energie-s-entraine-a-detecter-les-feux-de-foret_188336"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sciences_et_Avenir_2024.jpg"
+      width: 200
+
 
 # Translations
 t:
