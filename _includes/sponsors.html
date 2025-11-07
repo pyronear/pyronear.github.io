@@ -1,59 +1,4 @@
 <section id="sponsors" class="section-style">
-  <style>
-    #sponsors .row {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 30px;
-    }
-
-    #sponsors .col-md-4 {
-      flex: 0 1 300px; /* consistent width for sponsor boxes */
-      display: flex;
-    }
-
-    #sponsors .service-box {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-between;
-      text-align: center;
-      height: 100%;
-      padding: 15px;
-      box-sizing: border-box;
-      background: #fff; /* optional: makes each sponsor block pop */
-      border-radius: 8px; /* optional aesthetic */
-    }
-
-    #sponsors .emoji img {
-      display: block;
-      max-width: 160px;
-      min-width: 130px; /* ensures SVGs with no intrinsic width remain visible */
-      max-height: 100px;
-      width: auto;
-      height: auto;
-      object-fit: contain;
-      margin: 0 auto 15px;
-    }
-
-    #sponsors h3 {
-      font-size: 2.5rem;
-      margin: 10px 0 8px;
-    }
-
-    #sponsors .text-muted {
-      font-size: 1.5rem;
-      font-weight: normal !important;
-      min-height: 40px; /* keeps descriptions more uniform */
-    }
-
-    /* Subtle hover effect */
-    #sponsors .service-box:hover {
-      transform: translateY(-4px);
-      transition: all 0.2s ease-in-out;
-    }
-  </style>
-
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -64,17 +9,17 @@
   </div>
 
   <div class="container">
-    <div class="row align-items-stretch">
+    <div class="grid" id="sponsors-grid">
       {% for sponsor in site.t.[layout.lang].sponsors.items %}
-      <div class="col-md-4 text-center">
+      <div class="grid-item">
         <div class="service-box">
           <p class="emoji">
             <a href="{{ sponsor.url }}">
               <img 
                 alt="{{ sponsor.title }}-logo"
                 src="{{ sponsor.logo }}"
-                width="{{ sponsor.width }}"
-                height="{{ sponsor.height }}"
+                {% if sponsor.width %}width="{{ sponsor.width }}"{% endif %}
+                {% if sponsor.height %}height="{{ sponsor.height }}"{% endif %}
               />
             </a>
           </p>

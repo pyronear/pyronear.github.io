@@ -228,7 +228,7 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Notre partenaire en Seine&Marne afin de diversifier les tests terrains"
+          content: "Notre partenaire en Seine & Marne afin de diversifier les tests terrains"
           height: 75
 
     sponsors:
@@ -400,7 +400,7 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Our partner in Seine&Marne to diversify field tests"
+          content: "Our partner in Seine & Marne to diversify field tests"
           height: 75
 
     sponsors:
@@ -460,7 +460,7 @@ t:
       title: "Follow the Pyronear adventure"
       content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
   es-ct:
-    label: es-ct
+    label: ES-CT
     icon: "<img src='/img/catalonia-flag.png' width='20' height='20'/>"
     description: "Detecció precoç d'incendis forestals"
     buttons:
@@ -568,7 +568,7 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "El nostre soci a Seine&Marne per diversificar les proves de camp"
+          content: "El nostre soci a Seine & Marne per diversificar les proves de camp"
           height: 75
 
     sponsors:
@@ -736,7 +736,7 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Nuestro socio en Seine&Marne diversificará las pruebas sobre el terreno"
+          content: "Nuestro socio en Seine & Marne diversificará las pruebas sobre el terreno"
           height: 75
 
     sponsors:
