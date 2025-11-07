@@ -3,6 +3,7 @@ body {
   height: 100%;
   width: 100%;
   letter-spacing: 0.1rem;
+  font-weight: normal;  /* Set normal weight as default for body text */
 }
 
 body {
@@ -41,6 +42,7 @@ p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
+  font-weight: normal;  /* Ensure normal weight for all paragraph text */
 }
 
 .bg-primary {
@@ -375,9 +377,17 @@ error-404 {
   }
 }
 
-.section-style b {
-  background-color: rgba(254, 235, 190, 87%); /* Yellow color */
-  font-weight: normal;
+.section-style {
+  /* Ensure normal weight for section content */
+  p, div {
+    font-weight: normal;
+  }
+  
+  /* Style for highlighted text */
+  b {
+    background-color: rgba(254, 235, 190, 87%); /* Yellow color */
+    font-weight: normal;
+  }
 }
 
 .call-to-action {
