@@ -36,6 +36,42 @@ plugins:
 
 medias:
   items:
+    - title: "Sciences&Avenir Fontainebleau"
+      url: "https://www.sciencesetavenir.fr/nature-environnement/a-fontainebleau-une-ia-sobre-en-energie-s-entraine-a-detecter-les-feux-de-foret_188336"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sciences_et_Avenir_2024.jpg/500px-Sciences_et_Avenir_2024.jpg"
+      width: 200
+    - title: "TV5 monde Fontainebleau"
+      url: "https://information.tv5monde.com/economie/fontainebleau-une-ia-sobre-en-energie-sentraine-detecter-les-feux-de-foret-2791827"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png"
+      width: 200
+    - title: "Pyronear intervention at Fondation de France"
+      url: "https://www.fondationdefrance.org/fr/cat-numerique/ia-heure-choix-philanthropie"
+      logo: "https://www.fondationdefrance.org/templates/yootheme/cache/a4/logo_fondation_de_france-a459ef54.webp"
+      width: 200
+    - title: "Article La Croix"
+      url: "https://www.la-croix.com/societe/incendies-ces-benevoles-qui-veillent-dans-l-ombre-pour-prevenir-les-feux-de-foret-20250819"
+      logo: "https://www.la-croix.com/assets/build/images/logos/logo-lacroix.f8ae96b5.svg"
+      width: 200
+    - title: "Article Le Parisien"
+      url: "https://www.leparisien.fr/seine-et-marne-77/seine-et-marne-lia-de-pyronear-permet-de-detecter-plus-vite-les-feux-en-foret-de-fontainebleau-14-08-2025-VY2MVYPDQJGDTBL33HMALDLL6I.php"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      height: 75
+    - title: "Podcast France Inter"
+      url: "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-09-juillet-2025-6681787"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/langfr-1024px-France_Inter_logo_2021.svg.png"
+      height: 75
+    - title: "Article Le Progrès"
+      url: "https://www.leprogres.fr/environnement/2025/06/03/feux-de-foret-comment-l-intelligence-artificielle-se-met-au-service-de-leur-detection#google_vignette"
+      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Le_Progr%C3%A8s_Logo.svg/500px-Le_Progr%C3%A8s_Logo.svg.png"
+      width: 200
+    - title: "Article Libre à vous"
+      url: "https://www.libreavous.org/238-la-fin-des-erp-libres-pyronear"
+      logo: "https://www.libreavous.org/local/cache-vignettes/L320xH320/libreavous-logo-t-de2c0.png?1728596531"
+      width: 200
+    - title: "Référence Sénat"
+      url: "https://www.senat.fr/rap/r24-379/r24-3791.pdf"
+      logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg/1200px-Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg.png"
+      width: 200
     - title: "Retour d'expérience Elitys"
       url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
       logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
