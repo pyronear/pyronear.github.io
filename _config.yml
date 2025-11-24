@@ -36,110 +36,119 @@ plugins:
 
 medias:
   items:
-    - title: "Sciences&Avenir Fontainebleau"
+    - title: "À Fontainebleau, une IA sobre en énergie s'entraîne à détecter les feux de forêt"
       url: "https://www.sciencesetavenir.fr/nature-environnement/a-fontainebleau-une-ia-sobre-en-energie-s-entraine-a-detecter-les-feux-de-foret_188336"
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sciences_et_Avenir_2024.jpg/500px-Sciences_et_Avenir_2024.jpg"
+      image: "https://www.sciencesetavenir.fr/assets/img/2025/09/23/cover-r4x3w1200-68d2413d77f24-e8bda95730789a3609aaea6cf6422a7fc24c9015-jpg.jpg"
+      date: "09.2025"
       width: 200
-    - title: "TV5 monde Fontainebleau"
-      url: "https://information.tv5monde.com/economie/fontainebleau-une-ia-sobre-en-energie-sentraine-detecter-les-feux-de-foret-2791827"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png"
-      width: 200
-    - title: "Pyronear intervention at Fondation de France"
-      url: "https://www.fondationdefrance.org/fr/cat-numerique/ia-heure-choix-philanthropie"
-      logo: "https://www.fondationdefrance.org/templates/yootheme/cache/a4/logo_fondation_de_france-a459ef54.webp"
-      width: 200
-    - title: "Article La Croix"
+#    - title: "TV5 monde Fontainebleau"
+#      url: "https://information.tv5monde.com/economie/fontainebleau-une-ia-sobre-en-energie-sentraine-detecter-les-feux-de-foret-2791827"
+#      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png"
+#      image: "https://images.unsplash.com/photo-1470224114660-3f6686c562eb?w=600&h=800&fit=crop"
+#      date: "2024"
+#      width: 200
+    - title: "Incendies: ces bénévoles qui veillent dans l’ombre pour prévenir les feux de forêt"
       url: "https://www.la-croix.com/societe/incendies-ces-benevoles-qui-veillent-dans-l-ombre-pour-prevenir-les-feux-de-foret-20250819"
       logo: "https://www.la-croix.com/assets/build/images/logos/logo-lacroix.f8ae96b5.svg"
+      image: "https://i.la-croix.com/836x/smart/2025/08/19/2172930-des-benevoles-des-comites-communaux-feux-de-foret-.jpg"
+      date: "08.2025"
       width: 200
-    - title: "Article Le Parisien"
+    - title: "« Il faut agir vite et fort », l’IA de Pyronear permet de détecter les feux en forêt de Fontainebleau"
       url: "https://www.leparisien.fr/seine-et-marne-77/seine-et-marne-lia-de-pyronear-permet-de-detecter-plus-vite-les-feux-en-foret-de-fontainebleau-14-08-2025-VY2MVYPDQJGDTBL33HMALDLL6I.php"
       logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+      image: "https://www.leparisien.fr/resizer/zJGpJSr1z-NYQ6IW7TYEvioILNw=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/CERVYLPLTZFXPBEEJW2VPHF3QQ.jpg"
+      date: "08.2025"
       height: 75
-    - title: "Podcast France Inter"
+    - title: "Podcast: Le Telephone Sonne"
       url: "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-09-juillet-2025-6681787"
       logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/langfr-1024px-France_Inter_logo_2021.svg.png"
-      height: 75
-    - title: "Article Le Progrès"
-      url: "https://www.leprogres.fr/environnement/2025/06/03/feux-de-foret-comment-l-intelligence-artificielle-se-met-au-service-de-leur-detection#google_vignette"
-      logo: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Le_Progr%C3%A8s_Logo.svg/500px-Le_Progr%C3%A8s_Logo.svg.png"
+      image: "https://www.radiofrance.fr/pikapi/images/8087a2cc-b877-4bf8-8e42-9abcb133795a/1200x680"
+      date: "07.2025"
       width: 200
-    - title: "Article Libre à vous"
-      url: "https://www.libreavous.org/238-la-fin-des-erp-libres-pyronear"
-      logo: "https://www.libreavous.org/local/cache-vignettes/L320xH320/libreavous-logo-t-de2c0.png?1728596531"
-      width: 200
-    - title: "Référence Sénat"
-      url: "https://www.senat.fr/rap/r24-379/r24-3791.pdf"
-      logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg/1200px-Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg.png"
-      width: 200
-    - title: "Retour d'expérience Elitys"
-      url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
-      logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
-      width: 200
-    - title: "Article Sécurité&Défense Magazine"
-      url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
-      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq8zHVdmsjKb2GNmDWzU_G-FCRR_kH_fxiw&s"
-      width: 200
-    - title: "Article Les Echos"
-      url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
-      logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
-      width: 200
-    - title: "PyTorch Ecosystem Day"
-      url: "https://assets.pytorch.org/pted2021/posters/B8.png"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
-      width: 200
-    - title: "Présentation DataXdays 2021"
-      url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
-      logo: "https://www.davidattali.fr/wp-content/uploads/2021/06/DXD-LOGO.jpg"
-      height: 75
-    - title: "Article Le Parisien"
-      url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
-      height: 75
-    - title: "Lauréat Prix Epe"
-      url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
-      logo: "/img/logo-epe-asso.org_.png"
-      height: 75
-    - title: "Blog de Qarnot"
-      url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
-      logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
-      height: 75
-    - title: "Podcast Horizon-IA"
-      url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
-      logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
-      height: 75
-    - title: "Présentation Monthly Marty"
-      url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
-      logo: "https://dataforgood.fr/images/dataforgood.svg"
-      height: 75
-    - title: "Journée de la donnée au service de la transition écologique"
-      url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
-      height: 100
-    - title: "Podcast DataGen"
-      url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
-      logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
-      height: 100
-    - title: "Europe 1"
-      url: "https://www.europe1.fr/emissions/initiative-a-impact/la-lutte-contre-les-feux-de-foret-passe-aussi-par-les-algorithmes-4204947"
-      logo: "/img/europe1.png"
-      height: 100
-    - title: "Podcast Safety Innov"
-      url: "https://open.spotify.com/episode/2NoEt2mCjhMDtlxeu594pG"
-      logo: "/img/safety_innov.png"
-      height: 100
-    - title: "TedX Tours"
-      url: "https://www.youtube.com/watch?v=ZaBdnqnLVBg&ab_channel=TEDxTalks"
-      logo: "/img/tedx-tours.png"
-      height: 100
-    - title: "Le Monde"
-      url: "https://www.lemonde.fr/pixels/article/2023/10/17/avec-pyronear-un-systeme-d-intelligence-artificielle-sous-licence-libre-detecte-les-feux-de-foret-des-les-premieres-fumees_6194994_4408996.html"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/5/54/Le_monde_logo.svg"
-      width: 250
-    - title: "Techniques de l'ingenieur"
-      url: "https://www.techniques-ingenieur.fr/actualite/articles/comment-lia-permet-de-detecter-plus-rapidement-les-incendies-129238/?utm_source=linkedin&utm_medium=social&utm_campaign=72-WM-FY1LKDN&utm_content=ap_qgnbyezfjr"
-      logo: "https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v2.1.0/images/logo-eti.png"
-      width: 250
+    # -------- TEMPORARY COMMENTED SECTION ------------
+    # Toggling this to comments for now as we will limit the featured medias to 4 on the home page and then move all others to a dedicated media page
+
+    # - title: "Article Le Progrès"
+    #   url: "https://www.leprogres.fr/environnement/2025/06/03/feux-de-foret-comment-l-intelligence-artificielle-se-met-au-service-de-leur-detection#google_vignette"
+    #   logo: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Le_Progr%C3%A8s_Logo.svg/500px-Le_Progr%C3%A8s_Logo.svg.png"
+    #   width: 200
+    # - title: "Article Libre à vous"
+    #   url: "https://www.libreavous.org/238-la-fin-des-erp-libres-pyronear"
+    #   logo: "https://www.libreavous.org/local/cache-vignettes/L320xH320/libreavous-logo-t-de2c0.png?1728596531"
+    #   width: 200
+    # - title: "Référence Sénat"
+    #   url: "https://www.senat.fr/rap/r24-379/r24-3791.pdf"
+    #   logo: "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg/1200px-Logo_du_S%C3%A9nat_Republique_fran%C3%A7aise.svg.png"
+    #   width: 200
+    # - title: "Retour d'expérience Elitys"
+    #   url: "https://www.elitys.fr/2024/03/21/retour-dexperience-detection-feux-foret/"
+    #   logo: "https://www.elitys.fr/wp-content/themes/elitys%202/assets/images/elitys.svg"
+    #   width: 200
+    # - title: "Article Sécurité&Défense Magazine"
+    #   url: "https://www.youtube.com/watch?v=pCaDu6_HhCY&ab_channel=S%26DMagazineTV%21"
+    #   logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXq8zHVdmsjKb2GNmDWzU_G-FCRR_kH_fxiw&s"
+    #   width: 200
+    # - title: "Article Les Echos"
+    #   url: "https://www.lesechos.fr/thema/articles/comment-lia-va-proteger-la-foret-francaise-2103277"
+    #   logo: "https://upload.wikimedia.org/wikipedia/fr/b/bb/Les_echos_%28logo%29.svg"
+    #   width: 200
+    # - title: "PyTorch Ecosystem Day"
+    #   url: "https://assets.pytorch.org/pted2021/posters/B8.png"
+    #   logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/1200px-PyTorch_logo_black.svg.png"
+    #   width: 200
+    # - title: "Présentation DataXdays 2021"
+    #   url: "https://www.youtube.com/watch?v=QC52bYfXMkM&t=29931s"
+    #   logo: "https://www.davidattali.fr/wp-content/uploads/2021/06/DXD-LOGO.jpg"
+    #   height: 75
+    # - title: "Article Le Parisien"
+    #   url: "https://www.leparisien.fr/environnement/incendies-une-ong-invente-un-systeme-pour-detecter-les-feux-de-foret-09-09-2022-YDDO4HSLRFEDLNEGJRMGEGNFAM.php"
+    #   logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Le_Parisien_-_logo_2016.png"
+    #   height: 75
+    # - title: "Lauréat Prix Epe"
+    #   url: "https://www.tf1info.fr/environnement-ecologie/nous-voulons-aider-les-pompiers-a-lutter-contre-les-incendies-le-projet-pyronear-laureat-du-prix-jeunes-epe-2022-protection-foret-secheresse-2223219.html"
+    #   logo: "/img/logo-epe-asso.org_.png"
+    #   height: 75
+    # - title: "Blog de Qarnot"
+    #   url: "https://blog.qarnot.com/les-data-scientists-sauveront-ils-le-monde/"
+    #   logo: "https://pbs.twimg.com/profile_images/1326846994602749952/v1DzuBD-_400x400.jpg"
+    #   height: 75
+    # - title: "Podcast Horizon-IA"
+    #   url: "https://www.horizon-ia.com/saison1-feuxdeforets/"
+    #   logo: "https://www.horizon-ia.com/wp-content/uploads/2021/02/logo-site.png"
+    #   height: 75
+    # - title: "Présentation Monthly Marty"
+    #   url: "https://www.youtube.com/watch?v=kSwJopxsphQ"
+    #   logo: "https://dataforgood.fr/images/dataforgood.svg"
+    #   height: 75
+    # - title: "Journée de la donnée au service de la transition écologique"
+    #   url: "https://www.youtube.com/watch?v=XDUVsrxHf_w&list=PLx4I2Pvlf1NIUV4dQcPolj326bf80YvrT"
+    #   logo: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_ministere_transisiton_ecologique_2020.jpg"
+    #   height: 100
+    # - title: "Podcast DataGen"
+    #   url: "https://open.spotify.com/episode/7DqAliUZ4IQp5lFGzgdKZX?si=095203f29a4e4907&nd=1"
+    #   logo: "https://uploads-ssl.webflow.com/621259dd820eb101bbc02c43/6224e861549b6e4a5798fd4c_Logo%20seul_Green-p-500.png"
+    #   height: 100
+    # - title: "Europe 1"
+    #   url: "https://www.europe1.fr/emissions/initiative-a-impact/la-lutte-contre-les-feux-de-foret-passe-aussi-par-les-algorithmes-4204947"
+    #   logo: "/img/europe1.png"
+    #   height: 100
+    # - title: "Podcast Safety Innov"
+    #   url: "https://open.spotify.com/episode/2NoEt2mCjhMDtlxeu594pG"
+    #   logo: "/img/safety_innov.png"
+    #   height: 100
+    # - title: "TedX Tours"
+    #   url: "https://www.youtube.com/watch?v=ZaBdnqnLVBg&ab_channel=TEDxTalks"
+    #   logo: "/img/tedx-tours.png"
+    #   height: 100
+    # - title: "Le Monde"
+    #   url: "https://www.lemonde.fr/pixels/article/2023/10/17/avec-pyronear-un-systeme-d-intelligence-artificielle-sous-licence-libre-detecte-les-feux-de-foret-des-les-premieres-fumees_6194994_4408996.html"
+    #   logo: "https://upload.wikimedia.org/wikipedia/commons/5/54/Le_monde_logo.svg"
+    #   width: 250
+    # - title: "Techniques de l'ingenieur"
+    #   url: "https://www.techniques-ingenieur.fr/actualite/articles/comment-lia-permet-de-detecter-plus-rapidement-les-incendies-129238/?utm_source=linkedin&utm_medium=social&utm_campaign=72-WM-FY1LKDN&utm_content=ap_qgnbyezfjr"
+    #   logo: "https://cdn.techniques-ingenieur.fr/lucy/ti/cdn.prod.v2.1.0/images/logo-eti.png"
+    #   width: 250
 
 # Translations
 t:
@@ -214,12 +223,14 @@ t:
       title: "Comment le mettre en place ?"
       content: "Pour en savoir plus envoyez-nous un mail ou contactez-nous sur les réseaux sociaux. Nous vous répondrons le plus rapidement possible."
     medias:
-      title: "Ils parlent de nous"
+      subtitle: "Actualités & Perspectives"
+      title: "En vedette"
 
     team:
       title: "L'équipe actuelle"
     partners:
-      title: "Avec qui on travaille?"
+      subtitle: "Collaboration & Innovation"
+      title: "Nos Partenaires"
       items:
         - title: "SDIS 07"
           url: "https://www.sdis07.fr/"
@@ -258,7 +269,8 @@ t:
           height: 75
 
     sponsors:
-      title: "Qui nous soutient ?"
+      subtitle: "Soutien & Engagement"
+      title: "Nos Soutiens"
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
@@ -386,12 +398,14 @@ t:
       title: "How to deploy it?"
       content: "To get more information, reach us by email or on social networks. We will get back to you as soon as possible."
     medias:
-      title: "They talk about us"
+      subtitle: "News & Insights"
+      title: "Featured Stories"
 
     team:
       title: "The current team"
     partners:
-      title: "Who do we work with?"
+      subtitle: "Collaboration & Innovation"
+      title: "Our Partners"
       items:
         - title: "SDIS 07"
           url: "https://www.sdis07.fr/"
@@ -430,7 +444,8 @@ t:
           height: 75
 
     sponsors:
-      title: "Who supports us?"
+      subtitle: "Support & Commitment"
+      title: "Our Sponsors"
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
@@ -555,11 +570,13 @@ t:
       title: "Com desplegar-lo?"
       content: "Per obtenir més informació, poseu-vos en contacte amb nosaltres per correu electrònic o a les xarxes socials. Ens posarem en contacte amb vostè el més aviat possible."
     medias:
-      title: "Parlen de nosaltres"
+      subtitle: "Notícies i Perspectives"
+      title: "Destacats"
     team:
       title: "L'equip actual"
     partners:
-      title: "Amb qui treballem?"
+      subtitle: "Col·laboració i Innovació"
+      title: "Els Nostres Socis"
       items:
         - title: "SDIS 07"
           url: "https://www.sdis07.fr/"
@@ -598,7 +615,8 @@ t:
           height: 75
 
     sponsors:
-      title: "Who supports us?"
+      subtitle: "Suport i Compromís"
+      title: "Els Nostres Partidaris"
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"
@@ -723,11 +741,13 @@ t:
       title: "¿Cómo implementarlo?"
       content: "Para obtener más información, comuníquese con nosotros por correo electrónico o en las redes sociales. Nos pondremos en contacto con usted lo antes posible."
     medias:
-      title: "They talk about us"
+      subtitle: "Noticias y Perspectivas"
+      title: "Destacados"
     team:
       title: "El equipo actual"
     partners:
-      title: "¿Con quién trabajamos?"
+      subtitle: "Colaboración e Innovación"
+      title: "Nuestros Socios"
       items:
         - title: "SDIS 07"
           url: "https://www.sdis07.fr/"
@@ -766,7 +786,8 @@ t:
           height: 75
 
     sponsors:
-      title: "¿Quién nos apoya?"
+      subtitle: "Apoyo y Compromiso"
+      title: "Nuestros Partidarios"
       items:
         - title: "Data for Good"
           url: "https://dataforgood.fr/"

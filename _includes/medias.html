@@ -2,6 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
+        <p class="section-subtitle">{{ site.t.[layout.lang].medias.subtitle }}</p>
         <h2 class="section-heading">{{ site.t.[layout.lang].medias.title }}</h2>
         <hr class="primary" />
       </div>
@@ -9,23 +10,26 @@
   </div>
 
   <div class="container">
-    <div class="grid grid--simple" id="media-grid">
-      {% for media in site.medias.items %}
-      <div class="grid-item">
-        <div class="service-box">
-          <p class="emoji">
-            <a href="{{ media.url }}">
-              <img
-                alt="{{ media.title }} logo"
-                src="{{ media.logo }}"
-                {% if media.width %}width="{{ media.width }}"{% endif %}
-                {% if media.height %}height="{{ media.height }}"{% endif %}
-              />
-            </a>
-          </p>
-          <p class="text-muted">{{ media.content }}</p>
+    <div class="featured-media-grid">
+      {% for media in site.medias.items limit:4 %}
+      <a href="{{ media.url }}" class="featured-media-card" target="_blank" rel="noopener">
+        <div class="featured-media-image">
+          {% if media.image %}
+          <img src="{{ media.image }}" alt="{{ media.title }}" />
+          {% else %}
+          <div class="featured-media-placeholder"></div>
+          {% endif %}
+          <div class="featured-media-logo">
+            <img src="{{ media.logo }}" alt="{{ media.title }} logo" />
+          </div>
         </div>
-      </div>
+        <div class="featured-media-content">
+          <h3 class="featured-media-title">{{ media.title }}</h3>
+          {% if media.date %}
+          <p class="featured-media-date">{{ media.date }}</p>
+          {% endif %}
+        </div>
+      </a>
       {% endfor %}
     </div>
   </div>
