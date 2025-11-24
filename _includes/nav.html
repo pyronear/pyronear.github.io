@@ -1,19 +1,7 @@
 <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
+    <!-- Logo and language selector -->
     <div class="navbar-header">
-      <button
-        type="button"
-        class="navbar-toggle collapsed"
-        data-toggle="collapse"
-        data-target="#bs-example-navbar-collapse-1"
-      >
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-
       <a class="navbar-brand page-scroll" href="#page-top">
         <img
           src="{{ site.logo_full }}"
@@ -21,16 +9,10 @@
           class="logo"
         />
       </a>
-    </div>
-
-    <!-- Add base-url meta for JavaScript -->
-    <meta name="base-url" content="{{ site.base-url }}">
-    
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse lang" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <!-- Language dropdown: default is site.lang (fr) -->
-        <li class="nav-item nav-lang">
+      
+      <!-- Language selector - Keep visible, even on mobile to avoid issue with non clickable area -->
+      <div class="nav-lang-wrapper">
+        <div class="nav-item nav-lang">
           <button class="lang-toggle" id="langToggle" aria-haspopup="true" aria-expanded="false">
             <img src="{{ site.base-url }}/img/flags/{{ site.lang }}.svg" alt="{{ site.t.[site.lang].label }}" class="nav-flag" />
             <span class="lang-name">{{ site.t.[site.lang].label | upcase }}</span>
@@ -46,10 +28,12 @@
             </li>
             {% endfor %}
           </ul>
-        </li>
-      </ul>
+        </div>
+      </div>
     </div>
-    <!-- /.navbar-collapse -->
+
+    <!-- Add base-url meta for JavaScript -->
+    <meta name="base-url" content="{{ site.base-url }}">
   </div>
   <!-- /.container-fluid -->
 </nav>

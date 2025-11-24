@@ -3,36 +3,6 @@
 
 @charset "utf-8";
 
-// Example Defaults
-// $base-font-family: Helvetica, Arial, sans-serif;
-// $base-font-size:   16px;
-// $small-font-size:  $base-font-size * 0.875;
-// $base-line-height: 1.5;
-
-// $spacing-unit:     30px;
-
-// $text-color:       #111;
-// $background-color: #fdfdfd;
-// $brand-color:      #2a7ae2;
-
-// $grey-color:       #828282;
-// $grey-color-light: lighten($grey-color, 40%);
-// $grey-color-dark:  darken($grey-color, 25%);
-
-// // Width of the content area
-// $content-width:    800px;
-
-// $on-palm:          600px;
-// $on-laptop:        800px;
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-
 // variables.less
 $theme-primary: #054546;
 $theme-secondary: #e89f5e;
@@ -116,12 +86,22 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 .grid-item { display: flex; justify-content: center; align-items: stretch; }
 
 /* Language dropdown styles (top-right) */
+/* Wrapper to position language selector in navbar header */
+.nav-lang-wrapper {
+    margin-left: auto; /* Push to the right */
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding: 0; /* No extra padding */
+}
+
 .nav-lang { 
     position: relative;
     display: flex;
-    align-items: flex-end; /* Align with logo bottom */
-    height: 50px; /* Match navbar height */
+    align-items: center;
+    height: 100%;
 }
+
 .lang-toggle {
 	display: inline-flex;
 	align-items: center;
@@ -130,14 +110,16 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 	border: 0;
 	color: inherit;
 	font: inherit;
-	padding: 15px 10px;  /* Match navbar padding */
+	padding: 15px 0; /* Remove horizontal padding for consistent alignment */
 	cursor: pointer;
 	height: 100%;
+	white-space: nowrap;
 }
+
 .lang-toggle .lang-flag { font-size: 18px; line-height: 1; }
 .lang-toggle .lang-name { 
-    display: none;
-    line-height: 20px; /* Consistent text line height */
+    display: inline;
+    line-height: 20px;
 }
 .lang-toggle .caret { margin-left: 4px; }
 
@@ -153,16 +135,20 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 	margin: 8px 0 0 0;
 	display: none;
 	min-width: 140px;
-	z-index: 999;
+	max-height: 300px; /* Prevent menu from being too tall */
+	overflow-y: auto; /* Make it scrollable if needed */
+	z-index: 9999; /* Ensure it's above everything */
 }
+
 .lang-menu .lang-item { padding: 0; }
 .lang-link {
 	display: flex;
 	align-items: center;
 	gap: 8px;
-	padding: 6px 10px;
+	padding: 8px 12px;
 	color: #222;
 	text-decoration: none;
+	white-space: nowrap;
 }
 .lang-link:hover { background: rgba(0,0,0,0.03); }
 .lang-item.active .lang-link { font-weight: 600; }
@@ -170,9 +156,12 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 /* remove underline on hover explicitly */
 .lang-link, .lang-link:hover { text-decoration: none; }
 
-/* Show language name on wider screens */
-@media (min-width: 768px) {
-	.lang-toggle .lang-name { display: inline; }
+/* Responsive adjustments for mobile/tablet */
+@media (max-width: 767px) {
+	.lang-toggle .lang-name { 
+		display: inline; /* Always show language name on mobile */
+		font-size: 14px; /* Slightly smaller on mobile */
+	}
 }
 /* Improve vertical alignment of the language selector in the navbar */
 .navbar-nav {
@@ -191,6 +180,8 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 	/* keep brand left and nav right */
 	/* push the collapsed navbar to the far right in the flex container */
 	justify-content: space-between;
+	padding-left: 20px; /* Consistent padding on all screen sizes */
+	padding-right: 20px; /* Consistent padding on all screen sizes */
 }
 
 /* Fallback: ensure the collapsed navbar block is pushed to the right
@@ -200,20 +191,31 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 /* Keep brand left and nav right while centering vertically */
 #mainNav .navbar-header {
 	display: flex;
-	align-items: flex-end; /* Align brand with bottom */
+	align-items: center;
+	justify-content: space-between; /* Space between logo and language selector */
+	width: 100%; /* Take full width */
 	height: 50px; /* Match navbar height */
 }
+
 /* Ensure logo maintains aspect ratio while filling height */
 #mainNav .navbar-brand {
-	padding: 10px 15px; /* Adjust padding to vertically center logo */
+	padding: 10px 0; /* Remove horizontal padding for consistent alignment */
 	height: 100%;
 	display: flex;
 	align-items: center;
 }
+
 #mainNav .navbar-brand img {
-	max-height: 30px; /* Keep logo reasonably sized */
+	max-height: 30px;
 	width: auto;
 	height: auto;
+}
+
+/* Position hamburger menu button */
+.navbar-toggle {
+	margin-right: 0;
+	position: relative;
+	z-index: 1;
 }
 
 /* Emoji rendering improvement - prefer color emoji fonts where available */
