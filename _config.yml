@@ -312,7 +312,12 @@ t:
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Qui nous soutient humainement et financièrement via leur accélérateur philanthropique"
           height: 75
-          
+        - title: "Inherent"
+          url: "https://www.inherent.fr/"
+          logo: "/img/inherent.png"
+          content: "Qui nous soutient financièrement et par son réseau"
+          height: 75
+
     contactForm:
       title: "Protégeons nos forêts"
       email:
@@ -487,6 +492,11 @@ t:
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Who supports us humanly and financially via their philanthropic accelerator"
           height: 75
+        - title: "Inherent"
+          url: "https://www.inherent.fr/"
+          logo: "/img/inherent.png"
+          content: "Who supports us financially and through their network"
+          height: 75
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -658,6 +668,11 @@ t:
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Qui ens dóna suport humanament i financerament a través del seu accelerador filantròpic"
           height: 75
+        - title: "Inherent"
+          url: "https://www.inherent.fr/"
+          logo: "/img/inherent.png"
+          content: "Que ens dóna suport financerament i a través de la seva xarxa"
+          height: 75
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -828,6 +843,11 @@ t:
           url: "https://www.raise-sherpas.co/"
           logo: "https://media.licdn.com/dms/image/v2/D4E0BAQF0UW-TDXWXgg/company-logo_200_200/company-logo_200_200/0/1665501894583/raisesherpas_logo?e=2147483647&v=beta&t=3mfO0uhf_MjqfEemAVxIlu4iScP8sQx29uKHqE_fWn0"
           content: "Quien nos apoya humanamente y financieramente a través de su acelerador filantrópico"
+          height: 75
+        - title: "Inherent"
+          url: "https://www.inherent.fr/"
+          logo: "/img/inherent.png"
+          content: "Que nos apoya financieramente y a través de su red"
           height: 75
     contactForm:
       title: "Protejamos nuestros bosques"
