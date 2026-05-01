@@ -864,7 +864,7 @@ t:
         label: "Su dirección de correo electrónico"
         privacyPhrase: "Nunca compartiremos su correo electrónico sin su consentimiento."
       message:
-        label: "Tu mensa"
+        label: "Tu mensaje"
       captcha:
         label: "Pregunta anti-spam: ¿cuánto es 3 + 3?"
         error: "Responda correctamente a la pregunta anti-spam."
