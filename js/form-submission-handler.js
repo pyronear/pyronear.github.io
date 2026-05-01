@@ -3,10 +3,15 @@
     function getFormData(form) {
       var elements = form.elements;
       var honeypot;
+      var captcha;
   
       var fields = Object.keys(elements).filter(function(k) {
         if (elements[k].name === "honeypot") {
           honeypot = elements[k].value;
+          return false;
+        }
+        if (elements[k].name === "captcha") {
+          captcha = elements[k].value;
           return false;
         }
         return true;
@@ -47,7 +52,7 @@
       formData.formGoogleSendEmail
         = form.dataset.email || ""; // no email by default
   
-      return {data: formData, honeypot: honeypot};
+      return {data: formData, honeypot: honeypot, captcha: captcha};
     }
   
     function handleFormSubmit(event) {  // handles form submit without any jquery
@@ -58,6 +63,11 @@
   
       // If a honeypot field is filled, assume it was done so by a spam bot.
       if (formData.honeypot) {
+        return false;
+      }
+
+      if ((formData.captcha || "").trim() !== "6") {
+        alert(form.dataset.captchaError || "Please answer the anti-spam question.");
         return false;
       }
   
