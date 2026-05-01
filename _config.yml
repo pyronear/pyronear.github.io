@@ -317,6 +317,11 @@ t:
           logo: "/img/inherent.png"
           content: "Qui nous soutient financièrement et par son réseau"
           height: 75
+        - title: "Fast Forward"
+          url: "https://www.ffwd.org/accelerator"
+          logo: "/img/fastforward.png"
+          content: "Qui nous soutient via leur programme d'accélération"
+          height: 75
 
     contactForm:
       title: "Protégeons nos forêts"
@@ -497,6 +502,11 @@ t:
           logo: "/img/inherent.png"
           content: "Who supports us financially and through their network"
           height: 75
+        - title: "Fast Forward"
+          url: "https://www.ffwd.org/accelerator"
+          logo: "/img/fastforward.png"
+          content: "Who supports us through their accelerator program"
+          height: 75
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -673,6 +683,11 @@ t:
           logo: "/img/inherent.png"
           content: "Que ens dóna suport financerament i a través de la seva xarxa"
           height: 75
+        - title: "Fast Forward"
+          url: "https://www.ffwd.org/accelerator"
+          logo: "/img/fastforward.png"
+          content: "Que ens dóna suport a través del seu programa d'acceleració"
+          height: 75
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -848,6 +863,11 @@ t:
           url: "https://www.inherent.fr/"
           logo: "/img/inherent.png"
           content: "Que nos apoya financieramente y a través de su red"
+          height: 75
+        - title: "Fast Forward"
+          url: "https://www.ffwd.org/accelerator"
+          logo: "/img/fastforward.png"
+          content: "Quien nos apoya a través de su programa de aceleración"
           height: 75
     contactForm:
       title: "Protejamos nuestros bosques"
