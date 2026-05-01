@@ -320,7 +320,7 @@ t:
         - title: "Fast Forward"
           url: "https://www.ffwd.org/accelerator"
           logo: "/img/fastforward.png"
-          content: "Qui nous soutient via leur programme d'accélération"
+          content: "Qui nous soutient via son programme d'accélération"
           height: 75
 
     contactForm:
@@ -867,7 +867,7 @@ t:
         - title: "Fast Forward"
           url: "https://www.ffwd.org/accelerator"
           logo: "/img/fastforward.png"
-          content: "Quien nos apoya a través de su programa de aceleración"
+          content: "Que nos apoya a través de su programa de aceleración"
           height: 75
     contactForm:
       title: "Protejamos nuestros bosques"
