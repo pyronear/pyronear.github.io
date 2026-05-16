@@ -265,7 +265,17 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Notre partenaire en Seine & Marne afin de diversifier les tests terrains"
+          content: "Notre partenaire en Seine & Marne afin de protéger la forêt de Fontainebleau"
+          height: 75
+        - title: "SIS 67"
+          url: "https://www.sis67.alsace/fr"
+          logo: "https://www.annuaire-sdis.fr/uploads/public/admin/sdis/logo/557e5669389d3c12aeaba99162a53436.jpg"
+          content: "Notre partenaire dans le Bas-Rhin"
+          height: 75
+        - title: "Vendoeuvres"
+          url: "https://www.vendoeuvres.fr/"
+          logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
+          content: "Notre collectivité dans le parc naturel régional de la Brenne"
           height: 75
 
     sponsors:
@@ -450,8 +460,18 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Our partner in Seine & Marne to diversify field tests"
+          content:  "Our partner in Seine & Marne to help protect the Fontainebleau forest"
           height: 75
+        - title: "SIS 67"
+          url: "https://www.sis67.alsace/fr"
+          logo: "https://www.annuaire-sdis.fr/uploads/public/admin/sdis/logo/557e5669389d3c12aeaba99162a53436.jpg"
+          content: "Our partner in Bas-Rhin"
+          height: 75
+        - title: "Vendoeuvres"
+          url: "https://www.vendoeuvres.fr/"
+          logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
+          content: "Our local authority partner in the Brenne Regional Natural Park"
+          height: 75          
 
     sponsors:
       subtitle: "Support & Commitment"
@@ -631,7 +651,17 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "El nostre soci a Seine & Marne per diversificar les proves de camp"
+          content: "El nostre soci a Seine & Marne per ajudar a protegir el bosc de Fontainebleau"
+          height: 75
+        - title: "SIS 67"
+          url: "https://www.sis67.alsace/fr"
+          logo: "https://www.annuaire-sdis.fr/uploads/public/admin/sdis/logo/557e5669389d3c12aeaba99162a53436.jpg"
+          content: "El nostre soci a Bas-Rhin"
+          height: 75
+        - title: "Vendoeuvres"
+          url: "https://www.vendoeuvres.fr/"
+          logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
+          content: "La nostra col·lectivitat associada al parc natural regional de la Brenne"
           height: 75
 
     sponsors:
@@ -812,7 +842,17 @@ t:
         - title: "SDIS 77"
           url: "https://www.sdis77.fr/"
           logo: "/img/logo_sdis77.png"
-          content: "Nuestro socio en Seine & Marne diversificará las pruebas sobre el terreno"
+          content: "Nuestro socio en Seine & Marne para ayudar a proteger el bosque de Fontainebleau"
+          height: 75
+        - title: "SIS 67"
+          url: "https://www.sis67.alsace/fr"
+          logo: "https://www.annuaire-sdis.fr/uploads/public/admin/sdis/logo/557e5669389d3c12aeaba99162a53436.jpg"
+          content: "Nuestro socio en Bas-Rhin"
+          height: 75
+        - title: "Vendoeuvres"
+          url: "https://www.vendoeuvres.fr/"
+          logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
+          content: "Nuestra colectividad asociada en el parque natural regional de Brenne"
           height: 75
 
     sponsors:
