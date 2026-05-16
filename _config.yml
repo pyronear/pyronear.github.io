@@ -72,6 +72,11 @@ medias:
       image: "https://www.radiofrance.fr/pikapi/images/cdbdf914-5f1f-4bb4-b14d-94787a994d99/1280"
       date: "05.2026"
       width: 200
+    - title: "Franceinfo - Comment l'IA veille sur nos forêts"
+      url: "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-foret-de-fontainebleau-comment-l-ia-veille-sur-nos-forets_7959368.html"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg"
+      date: "05.2026"
+      width: 200
     # -------- TEMPORARY COMMENTED SECTION ------------
     # Toggling this to comments for now as we will limit the featured medias to 4 on the home page and then move all others to a dedicated media page
 
