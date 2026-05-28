@@ -10,6 +10,16 @@
         />
       </a>
       
+      <!-- Right-side actions: donation button + language selector -->
+      <div class="nav-right">
+        <!-- Benevity donation button (only donation link on the site) -->
+        <a
+          href="https://causes.benevity.org/projects/728262"
+          class="nav-donate-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >{{ site.t.[site.lang].buttons.donate }}</a>
+
       <!-- Language selector - Keep visible, even on mobile to avoid issue with non clickable area -->
       <div class="nav-lang-wrapper">
         <div class="nav-item nav-lang">
@@ -29,6 +39,7 @@
             {% endfor %}
           </ul>
         </div>
+      </div>
       </div>
     </div>
 
