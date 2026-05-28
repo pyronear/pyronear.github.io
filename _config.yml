@@ -160,6 +160,7 @@ t:
       moreInfo: "En savoir plus"
       contactUs: "Nous contacter"
       submit: "Envoyer"
+      donate: "Don Benevity"
     header:
       title: "Détection précoce des départs de feux"
       subtitle: "Pyronear est un projet open-source au service du bien commun"
@@ -346,6 +347,7 @@ t:
       moreInfo: "More information"
       contactUs: "Contact us"
       submit: "Submit"
+      donate: "Benevity donation"
     header:
       title: "Early detection of wildfires"
       subtitle: "Pyronear is an open-source project for the common good"
@@ -528,6 +530,7 @@ t:
       moreInfo: "Més informació"
       contactUs: "Contacta amb nosaltres"
       submit: "Enviar"
+      donate: "Donatiu Benevity"
     header:
       title: "Detecció d'incendis forestals"
       subtitle: "Pyronear és un projecte de codi obert per al bé comú"
@@ -709,6 +712,7 @@ t:
       moreInfo: "Más información"
       contactUs: "Contacta con nosotros"
       submit: "Enviar"
+      donate: "Donación Benevity"
     header:
       title: "Detección temprana de incendios forestales"
       subtitle: "Pyronear es un proyecto de código abierto para el bien común"
