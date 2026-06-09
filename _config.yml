@@ -335,7 +335,6 @@ t:
       confirmation:
         title: "Message envoyé !"
         subtitle: "Merci de nous avoir contacté, nous revenons vers vous le plus vite possible !"
-      fallback: "Un problème avec le formulaire ? Contactez-nous directement à"
     contact:
       title: "Suivez l'aventure Pyronear"
       content: "Pour se tenir informé de l'avancement du projet ou rejoindre l'aventure, retrouvez-nous sur les réseaux sociaux !"
@@ -518,7 +517,6 @@ t:
       confirmation:
         title: "Message sent!"
         subtitle: "Thank you for contacting us, we will get back to you as soon as possible!"
-      fallback: "Problem with the form? Contact us directly at"
     contact:
       title: "Follow the Pyronear adventure"
       content: "To stay updated about our progress or to join the adventure, you can also reach us on social media!"
@@ -700,7 +698,6 @@ t:
       confirmation:
         title: "Missatge enviat!"
         subtitle: "Gràcies per contactar amb nosaltres, us respondrem el més aviat possible!"
-      fallback: "Problemes amb el formulari? Contacteu-nos directament a"
     contact:
       title: "Segueix l'aventura Pyronear"
       content: "Per estar al dia del nostre progrés o per unir-te a l'aventura, també pots contactar amb nosaltres a les xarxes socials!"
@@ -882,7 +879,6 @@ t:
       confirmation:
         title: "¡Mensaje enviado!"
         subtitle: "¡Gracias por contactarnos, nos pondremos en contacto con usted lo antes posible!"
-      fallback: "¿Problemas con el formulario? Contáctenos directamente en"
     contact:
       title: "Sigue la aventura Pyronear"
       content: "Para mantenerse actualizado sobre nuestro progreso o para unirse a la aventura, ¡también puede comunicarse con nosotros en las redes sociales!"
