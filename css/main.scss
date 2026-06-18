@@ -85,10 +85,41 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 
 .grid-item { display: flex; justify-content: center; align-items: stretch; }
 
+/* Right-side navbar actions: donation button + language selector */
+.nav-right {
+    margin-left: auto; /* Push the whole group to the right */
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    height: 50px;
+}
+
+/* Benevity donation button */
+.nav-donate-btn {
+    display: inline-flex;
+    align-items: center;
+    background: darken($theme-secondary, 25%); /* Darkened to meet WCAG AA contrast with #fff text */
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background 0.2s ease;
+}
+.nav-donate-btn:hover,
+.nav-donate-btn:focus {
+    background: darken($theme-secondary, 33%);
+    color: #fff;
+    text-decoration: none;
+}
+
 /* Language dropdown styles (top-right) */
 /* Wrapper to position language selector in navbar header */
 .nav-lang-wrapper {
-    margin-left: auto; /* Push to the right */
     display: flex;
     align-items: center;
     height: 50px;
@@ -158,9 +189,24 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans
 
 /* Responsive adjustments for mobile/tablet */
 @media (max-width: 767px) {
-	.lang-toggle .lang-name { 
+	.lang-toggle .lang-name {
 		display: inline; /* Always show language name on mobile */
 		font-size: 14px; /* Slightly smaller on mobile */
+	}
+	.nav-right { gap: 8px; }
+	.nav-donate-btn {
+		font-size: 11px;
+		padding: 6px 10px;
+	}
+}
+
+/* Very small phones: shrink further so logo + donate + lang selector don't overflow */
+@media (max-width: 480px) {
+	.nav-right { gap: 6px; }
+	.nav-donate-btn {
+		font-size: 10px;
+		padding: 5px 8px;
+		letter-spacing: 0;
 	}
 }
 /* Improve vertical alignment of the language selector in the navbar */
