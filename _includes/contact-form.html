@@ -12,7 +12,18 @@
             class="gform"
             method="POST"
             action="https://script.google.com/macros/s/AKfycbxzvB_Jbta7xCVuz-iThqXftPb1DcBTf-P-ah4KnbxBn3OhcHJF/exec"
+            data-captcha-error="{{ site.t.[layout.lang].contactForm.captcha.error }}"
           >
+            <div aria-hidden="true" style="position: absolute; left: -5000px;">
+              <label for="honeypot">Leave this field empty</label>
+              <input
+                type="text"
+                id="honeypot"
+                name="honeypot"
+                tabindex="-1"
+                autocomplete="off"
+              />
+            </div>
             <div class="form-group">
               <label for="email">{{ site.t.[layout.lang].contactForm.email.label }}</label>
               <input
@@ -45,6 +56,17 @@
                 rows="3"
                 name="message"
               ></textarea>
+            </div>
+            <div class="form-group">
+              <label for="captcha">{{ site.t.[layout.lang].contactForm.captcha.label }}</label>
+              <input
+                type="text"
+                class="form-control email-form"
+                id="captcha"
+                name="captcha"
+                inputmode="numeric"
+                required
+              />
             </div>
             <button class="btn-default btn btn-block btn-lg" type="submit">
               {{ site.t.[layout.lang].buttons.submit }}

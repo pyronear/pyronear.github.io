@@ -327,6 +327,9 @@ t:
         label: "Objet"
       message:
         label: "Votre message"
+      captcha:
+        label: "Question anti-spam : combien font 3 + 3 ?"
+        error: "Merci de répondre correctement à la question anti-spam."
       confirmation:
         title: "Message envoyé !"
         subtitle: "Merci de nous avoir contacté, nous revenons vers vous le plus vite possible !"
@@ -504,6 +507,9 @@ t:
         privacyPhrase: "We will never share your email without your consent."
       message:
         label: "Your message"
+      captcha:
+        label: "Anti-spam question: what is 3 + 3?"
+        error: "Please answer the anti-spam question correctly."
       confirmation:
         title: "Message sent!"
         subtitle: "Thank you for contacting us, we will get back to you as soon as possible!"
@@ -680,6 +686,9 @@ t:
         privacyPhrase: "Mai compartirem el teu correu electrònic sense el teu consentiment."
       message:
         label: "El teu missatge"
+      captcha:
+        label: "Pregunta anti-brossa: quant fan 3 + 3?"
+        error: "Respon correctament a la pregunta anti-brossa."
       confirmation:
         title: "Missatge enviat!"
         subtitle: "Gràcies per contactar amb nosaltres, us respondrem el més aviat possible!"
@@ -855,7 +864,10 @@ t:
         label: "Su dirección de correo electrónico"
         privacyPhrase: "Nunca compartiremos su correo electrónico sin su consentimiento."
       message:
-        label: "Tu mensa"
+        label: "Tu mensaje"
+      captcha:
+        label: "Pregunta anti-spam: ¿cuánto es 3 + 3?"
+        error: "Responda correctamente a la pregunta anti-spam."
       confirmation:
         title: "¡Mensaje enviado!"
         subtitle: "¡Gracias por contactarnos, nos pondremos en contacto con usted lo antes posible!"
