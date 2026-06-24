@@ -239,7 +239,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
+          logo: "/img/engie-green-logo.svg"
           content: "Notre premier partenaire privé, avec qui on réalise une expérimentation en gironde"
           height: 80
         - title: "CENIA"
@@ -332,6 +332,11 @@ t:
           logo: "/img/fastforward.png"
           content: "Qui nous soutient via son programme d'accélération"
           height: 75
+        - title: "Fonds de Mécénat Environnement et Mobilité du Crédit Agricole d’Île-de-France"
+          url: "https://ca-paris.com/banque-responsable/mecenat-banque/soutiens/pyronear-prevenir-feux/"
+          logo: "/img/FONDS-MECENAT-ENVIRONNEMENT_RVB.jpg"
+          content: "Soutient la recherche ouverte et appliquée sur le territoire francilien"
+          height: 80
 
     contactForm:
       title: "Protégeons nos forêts"
@@ -437,7 +442,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
+          logo: "/img/engie-green-logo.svg"
           content: "Our first private partner, with whom we are conducting an experiment in Gironde"
           height: 60
         - title: "CENIA"
@@ -530,6 +535,11 @@ t:
           logo: "/img/fastforward.png"
           content: "Who supports us through their accelerator program"
           height: 75
+        - title: "Fonds de Mécénat Environnement et Mobilité du Crédit Agricole d’Île-de-France"
+          url: "https://ca-paris.com/banque-responsable/mecenat-banque/soutiens/pyronear-prevenir-feux/"
+          logo: "/img/FONDS-MECENAT-ENVIRONNEMENT_RVB.jpg"
+          content: "Supports open and applied research across the Île-de-France region"
+          height: 80
     contactForm:
       title: "Let us protect our forests"
       email:
@@ -631,7 +641,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
+          logo: "/img/engie-green-logo.svg"
           content: "El nostre primer soci privat, amb qui estem fent un experiment a Gironda"
           height: 80
         - title: "CENIA"
@@ -724,6 +734,11 @@ t:
           logo: "/img/fastforward.png"
           content: "Que ens dóna suport a través del seu programa d'acceleració"
           height: 75
+        - title: "Fonds de Mécénat Environnement et Mobilité du Crédit Agricole d’Île-de-France"
+          url: "https://ca-paris.com/banque-responsable/mecenat-banque/soutiens/pyronear-prevenir-feux/"
+          logo: "/img/FONDS-MECENAT-ENVIRONNEMENT_RVB.jpg"
+          content: "Dóna suport a la recerca oberta i aplicada al territori de l’Illa de França"
+          height: 80
     contactForm:
       title: "Protegim els nostres boscos"
       email:
@@ -825,7 +840,7 @@ t:
           height: 75
         - title: "Engie Green"
           url: "https://www.engie-green.fr/"
-          logo: "https://www.engie-green.fr/wp-content/themes/engie-green/dist/img/engie-green-logo.svg"
+          logo: "/img/engie-green-logo.svg"
           content: "Nuestro primer socio privado, con quien estamos realizando un experimento en Gironde"
           height: 80
         - title: "CENIA"
@@ -918,6 +933,11 @@ t:
           logo: "/img/fastforward.png"
           content: "Que nos apoya a través de su programa de aceleración"
           height: 75
+        - title: "Fonds de Mécénat Environnement et Mobilité du Crédit Agricole d’Île-de-France"
+          url: "https://ca-paris.com/banque-responsable/mecenat-banque/soutiens/pyronear-prevenir-feux/"
+          logo: "/img/FONDS-MECENAT-ENVIRONNEMENT_RVB.jpg"
+          content: "Apoya la investigación abierta y aplicada en el territorio de la Isla de Francia"
+          height: 80
     contactForm:
       title: "Protejamos nuestros bosques"
       email:
