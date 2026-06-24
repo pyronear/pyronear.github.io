@@ -6,7 +6,9 @@ RUN apt-get update \
 
 WORKDIR /site
 
-COPY Gemfile Gemfile.lock ./
+# Gemfile.lock is gitignored to stay in sync with the latest github-pages gem
+# (as GitHub Pages does in production), so resolve dependencies from the Gemfile.
+COPY Gemfile ./
 RUN bundle install
 
 EXPOSE 4000
