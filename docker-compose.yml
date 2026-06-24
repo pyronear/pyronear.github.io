@@ -1,6 +1,6 @@
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    build: .
     container_name: pyronear-website
     volumes:
       - .:/site
