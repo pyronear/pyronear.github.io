@@ -277,6 +277,21 @@ t:
           logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
           content: "Notre collectivité partenaire dans le parc naturel régional de la Brenne"
           height: 75
+        - title: "SDIS 91"
+          url: "https://sdis91.fr/"
+          logo: "/img/sdis91.jpg"
+          content: "Notre partenaire pour la protection des massifs forestiers de l'Essonne"
+          height: 80
+        - title: "ONF"
+          url: "https://www.onf.fr/"
+          logo: "/img/onf_logo.svg"
+          content: "La direction Ouest Île-de-France de l'ONF est notre partenaire pour protéger la forêt de Rambouillet"
+          height: 75
+        - title: "SDIS 36"
+          url: "https://www.sdis36.org/"
+          logo: "/img/logo_sdis36.png"
+          content: "Notre partenaire pour la protection de la forêt de Brenne et de ses environs dans l'Indre"
+          height: 75
 
     sponsors:
       subtitle: "Soutien & Engagement"
@@ -479,7 +494,22 @@ t:
           url: "https://www.vendoeuvres.fr/"
           logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
           content: "Our local authority partner in the Brenne Regional Natural Park"
-          height: 75          
+          height: 75
+        - title: "SDIS 91"
+          url: "https://sdis91.fr/"
+          logo: "/img/sdis91.jpg"
+          content: "Our partner for the protection of the forests of Essonne"
+          height: 80
+        - title: "ONF"
+          url: "https://www.onf.fr/"
+          logo: "/img/onf_logo.svg"
+          content: "The ONF's West Île-de-France division is our partner in protecting the Rambouillet forest"
+          height: 80
+        - title: "SDIS 36"
+          url: "https://www.sdis36.org/"
+          logo: "/img/logo_sdis36.png"
+          content: "Our partner for the protection of the Brenne forest and its surroundings in the Indre"
+          height: 80
 
     sponsors:
       subtitle: "Support & Commitment"
@@ -679,6 +709,21 @@ t:
           logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
           content: "La nostra col·lectivitat associada al parc natural regional de la Brenne"
           height: 75
+        - title: "SDIS 91"
+          url: "https://sdis91.fr/"
+          logo: "/img/sdis91.jpg"
+          content: "El nostre soci per a la protecció de les masses forestals de l'Essonne"
+          height: 80
+        - title: "ONF"
+          url: "https://www.onf.fr/"
+          logo: "/img/onf_logo.svg"
+          content: "La direcció Oest Île-de-France de l'ONF és el nostre soci per protegir el bosc de Rambouillet"
+          height: 75
+        - title: "SDIS 36"
+          url: "https://www.sdis36.org/"
+          logo: "/img/logo_sdis36.png"
+          content: "El nostre soci per a la protecció del bosc de la Brenne i els seus voltants a l'Indre"
+          height: 75
 
     sponsors:
       subtitle: "Suport i Compromís"
@@ -877,6 +922,21 @@ t:
           url: "https://www.vendoeuvres.fr/"
           logo: "https://files.appli-intramuros.com/img/city_logo/agglo/357/f05a127b8fba7467cd62eeb3fd239747_venduvres.png"
           content: "Nuestra colectividad asociada en el parque natural regional de Brenne"
+          height: 75
+        - title: "SDIS 91"
+          url: "https://sdis91.fr/"
+          logo: "/img/sdis91.jpg"
+          content: "Nuestro socio para la protección de los macizos forestales de Essonne"
+          height: 80
+        - title: "ONF"
+          url: "https://www.onf.fr/"
+          logo: "/img/onf_logo.svg"
+          content: "La dirección Oeste Île-de-France de la ONF es nuestro socio para proteger el bosque de Rambouillet"
+          height: 75
+        - title: "SDIS 36"
+          url: "https://www.sdis36.org/"
+          logo: "/img/logo_sdis36.png"
+          content: "Nuestro socio para la protección del bosque de la Brenne y sus alrededores en el Indre"
           height: 75
 
     sponsors:
