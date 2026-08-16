@@ -36,12 +36,12 @@ plugins:
 
 medias:
   items:
-    - title: "À Fontainebleau, une IA sobre en énergie s'entraîne à détecter les feux de forêt"
-      url: "https://www.sciencesetavenir.fr/nature-environnement/a-fontainebleau-une-ia-sobre-en-energie-s-entraine-a-detecter-les-feux-de-foret_188336"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sciences_et_Avenir_2024.jpg/500px-Sciences_et_Avenir_2024.jpg"
-      image: "https://www.sciencesetavenir.fr/assets/img/2025/09/23/cover-r4x3w1200-68d2413d77f24-e8bda95730789a3609aaea6cf6422a7fc24c9015-jpg.jpg"
-      date: "09.2025"
-      width: 200
+   - title: "Europe 1 - Interview de Mateo sur Pyronear"
+     url: "https://www.youtube.com/watch?v=UZ1-lFt4N70"
+     logo: "https://www.europe1.fr/themes/europe1/europe1-logo.svg"
+     image: "https://img.youtube.com/vi/UZ1-lFt4N70/maxresdefault.jpg"
+     date:  "5.2026"
+     width: 200
 #    - title: "TV5 monde Fontainebleau"
 #      url: "https://information.tv5monde.com/economie/fontainebleau-une-ia-sobre-en-energie-sentraine-detecter-les-feux-de-foret-2791827"
 #      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png"
