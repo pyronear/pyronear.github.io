@@ -324,9 +324,9 @@ t:
           height: 100
         - title: "Elaia"
           url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          logo: "/img/elaia.jpeg"
           content: "Qui nous soutient financièrement via son fond de dotation et apporte son expertise financière"
-          width: 150
+          height: 100
         - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
@@ -542,9 +542,9 @@ t:
           height: 100
         - title: "Elaia"
           url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          logo: "/img/elaia.jpeg"
           content: "Which supports us financially via its endowment fund and provides its financial expertise"
-          width: 150
+          height: 100
         - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
@@ -756,9 +756,9 @@ t:
           width: 100
         - title: "Elaia"
           url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          logo: "/img/elaia.jpeg"
           content: "Que ens dóna suport financerament a través del seu fons de dotació i aporta la seva experiència financera"
-          width: 150
+          height: 100
         - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
@@ -970,9 +970,9 @@ t:
           height: 100
         - title: "Elaia"
           url: "https://www.elaia.com/"
-          logo: "https://www.elaia.com/wp-content/uploads/2022/11/logo-elaia-orange-web-e1669365378374.png"
+          logo: "/img/elaia.jpeg"
           content: "Que nos apoya financieramente a través de su fondo de dotación y aporta su experiencia financiera"
-          width: 150
+          height: 100
         - title: "Latitudes"
           url: "https://www.latitudes.cc/"
           logo: "https://cdn.prod.website-files.com/610e20d69f9e1d3cae586963/6149d32f1c27af536f04ba69_Logo_Latitudes.svg"
