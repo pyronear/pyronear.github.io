@@ -62,7 +62,7 @@ medias:
       height: 75
     - title: "Podcast: Le Telephone Sonne"
       url: "https://www.radiofrance.fr/franceinter/podcasts/le-18-20-le-telephone-sonne/le-telephone-sonne-du-mercredi-09-juillet-2025-6681787"
-      logo: "https://upload.wikimedia.org/wikipedia/commons/a/a0/France_Inter_logo_2021.svg"
+      logo: "/img/france-inter.svg"
       image: "https://www.radiofrance.fr/pikapi/images/8087a2cc-b877-4bf8-8e42-9abcb133795a/1200x680"
       date: "07.2025"
       width: 200
