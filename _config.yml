@@ -66,6 +66,17 @@ medias:
       image: "https://www.radiofrance.fr/pikapi/images/8087a2cc-b877-4bf8-8e42-9abcb133795a/1200x680"
       date: "07.2025"
       width: 200
+    - title: "La matinale - France Inter"
+      url: "https://www.radiofrance.fr/franceinter/podcasts/france-inter-sur-le-terrain/rep-fi-sur-le-terrain-du-lundi-04-mai-2026-9370005"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Radio_France.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+      image: "https://www.radiofrance.fr/pikapi/images/cdbdf914-5f1f-4bb4-b14d-94787a994d99/1280"
+      date: "05.2026"
+      width: 200
+    - title: "Franceinfo - Comment l'IA veille sur nos forêts"
+      url: "https://www.franceinfo.fr/faits-divers/incendie/incendie-en-foret-de-fontainebleau-comment-l-ia-veille-sur-nos-forets_7959368.html"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg"
+      date: "05.2026"
+      width: 200
     # -------- TEMPORARY COMMENTED SECTION ------------
     # Toggling this to comments for now as we will limit the featured medias to 4 on the home page and then move all others to a dedicated media page
 
