@@ -1,6 +1,6 @@
 # 🌲🔥👀 pyronear.github.io
 
-Pyronear's official website.
+This repository contains Pyronear's previous website. The current site at [pyronear.org](https://pyronear.org/) is maintained in [pyronear/website](https://github.com/pyronear/website).
 
 Preserving forests from wildfires one commit at a time
 
